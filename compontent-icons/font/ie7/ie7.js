@@ -89,6 +89,9 @@
 		'i-responsivepanel': '&#xe849;',
 		'i-collapsible': '&#xe84a;',
 		'i-spreadsheet': '&#xe84b;',
+		'i-wordprocessing': '&#xe84c;',
+		'i-spreadprocessing': '&#xe84d;',
+		'i-pdf': '&#xe84e;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
