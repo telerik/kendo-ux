@@ -1,238 +1,262 @@
 .i-actionsheet {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;');
 }
 .i-application {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;');
 }
 .i-areacharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;');
 }
 .i-autocomplete {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;');
 }
 .i-barcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;');
 }
 .i-barcode {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;');
 }
 .i-boxplotcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;');
 }
 .i-bubblecharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;');
 }
 .i-bulletcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;');
 }
 .i-button {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe809;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe809;');
 }
 .i-buttongroup {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;');
 }
 .i-calendar {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80b;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80b;');
 }
 .i-colorpicker {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;');
 }
 .i-datasource {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80d;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80d;');
 }
 .i-datepicker {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;');
 }
 .i-diagram {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80f;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80f;');
 }
 .i-donutcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe810;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe810;');
 }
 .i-draganddrop {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe811;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe811;');
 }
 .i-drawer {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe812;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe812;');
 }
 .i-dropdownlist {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe813;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe813;');
 }
 .i-editor {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe814;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe814;');
 }
 .i-effects {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;');
 }
 .i-funnelcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe816;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe816;');
 }
 .i-globalization {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe817;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe817;');
 }
 .i-grid {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe818;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe818;');
 }
 .i-layout {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe819;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe819;');
 }
 .i-lineargauge {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81a;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81a;');
 }
 .i-linecharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81b;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81b;');
 }
 .i-listview {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81c;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81c;');
 }
 .i-map {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81d;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81d;');
 }
 .i-maskedtextbox {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81e;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81e;');
 }
 .i-menu {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81f;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81f;');
 }
 .i-modalview {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe820;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe820;');
 }
 .i-multiselect {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe821;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe821;');
 }
 .i-mvvm {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe822;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe822;');
 }
 .i-navbar {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe823;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe823;');
 }
 .i-notification {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe824;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe824;');
 }
 .i-numerictextbox {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe825;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe825;');
 }
 .i-panelbar {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe826;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe826;');
 }
 .i-piecharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe827;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe827;');
 }
 .i-polarcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe828;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe828;');
 }
 .i-popover {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe829;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe829;');
 }
 .i-progressbar {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82a;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82a;');
 }
 .i-qrcode {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82b;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82b;');
 }
 .i-radarcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82c;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82c;');
 }
 .i-radialgauge {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82d;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82d;');
 }
 .i-scattercharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82e;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82e;');
 }
 .i-scheduler {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82f;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82f;');
 }
 .i-scroller {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe830;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe830;');
 }
 .i-scrollview {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe831;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe831;');
 }
 .i-singlepageapp {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe832;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe832;');
 }
 .i-slider {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe833;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe833;');
 }
 .i-sortable {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe834;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe834;');
 }
 .i-sparklines {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe835;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe835;');
 }
 .i-splitter {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe836;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe836;');
 }
 .i-splitview {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe837;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe837;');
 }
 .i-stockchart {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe838;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe838;');
 }
 .i-switch {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe839;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe839;');
 }
 .i-tabstrip {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83a;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83a;');
 }
 .i-tabstrip-mobile {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83b;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83b;');
 }
 .i-templates {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83c;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83c;');
 }
 .i-timepicker {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83d;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83d;');
 }
 .i-tooltip {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83e;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83e;');
 }
 .i-treeview {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83f;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83f;');
 }
 .i-upload {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe840;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe840;');
 }
 .i-validator {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe841;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe841;');
 }
 .i-window {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe842;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe842;');
 }
 .i-gantt {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe843;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe843;');
 }
 .i-pivotgrid {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe844;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe844;');
 }
 .i-treemap {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe845;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe845;');
 }
 .i-rangebarcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe846;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe846;');
 }
 .i-waterfallcharts {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe847;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe847;');
 }
 .i-combobox {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe848;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe848;');
 }
 .i-responsivepanel {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe849;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe849;');
 }
 .i-collapsible {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84a;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84a;');
 }
 .i-spreadsheet {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84b;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84b;');
 }
 .i-wordprocessing {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84c;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84c;');
 }
 .i-spreadprocessing {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84d;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84d;');
 }
 .i-pdf {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84e;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84e;');
+}
+.i-datetimepicker {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84f;');
+}
+.i-styling {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe850;');
+}
+.i-touchevents {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe851;');
+}
+.i-toolbar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe852;');
+}
+.i-treelist {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe853;');
+}
+.i-forms {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe854;');
+}
+.i-view {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe855;');
+}
+.i-listview-mobile {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe856;');
 }
 

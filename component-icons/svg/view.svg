@@ -5,6 +5,6 @@
 <style type="text/css">
 	.st0{fill:#808080;}
 </style>
-<path id="Drawer_1_" class="st0" d="M7,15h16l-2,2H7V15z M7,13h14l2-2H7V13z M7,9h14l2-2H7V9z M7,5h14l2-2H7V5z M7,21h14l2-2H7V21z
-	 M5,1H1v22h4V1z"/>
+<path class="st0" d="M12,5h6l-2,2h-4V5z M22,0v20l-4,4H2V0H22z M20,2H4v20h13.2l2.8-2.8V2z M6,8h4V4H6V8z M6,12h10l2-2H6V12z M6,16
+	h10l2-2H6V16z M6,20h6l2-2H6V20z"/>
 </svg>
