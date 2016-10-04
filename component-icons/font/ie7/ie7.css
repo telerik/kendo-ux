@@ -259,4 +259,10 @@
 .i-listview-mobile {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe856;');
 }
+.i-dialog {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe857;');
+}
+.i-mediaplayer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe858;');
+}
 

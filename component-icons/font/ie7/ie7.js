@@ -100,6 +100,8 @@
 		'i-forms': '&#xe854;',
 		'i-view': '&#xe855;',
 		'i-listview-mobile': '&#xe856;',
+		'i-dialog': '&#xe857;',
+		'i-mediaplayer': '&#xe858;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

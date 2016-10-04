@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?htvf52');
-  src:  url('fonts/widgets.eot?htvf52#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?htvf52') format('truetype'),
-    url('fonts/widgets.woff?htvf52') format('woff'),
-    url('fonts/widgets.svg?htvf52#widgets') format('svg');
+  src:  url('fonts/widgets.eot?aiz5sg');
+  src:  url('fonts/widgets.eot?aiz5sg#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?aiz5sg') format('truetype'),
+    url('fonts/widgets.woff?aiz5sg') format('woff'),
+    url('fonts/widgets.svg?aiz5sg#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -284,5 +284,11 @@
 }
 .i-listview-mobile:before {
   content: "\e856";
+}
+.i-dialog:before {
+  content: "\e857";
+}
+.i-mediaplayer:before {
+  content: "\e858";
 }
 
