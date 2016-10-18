@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "name": "TelerikWebUI",
+    "url": "http://www.telerik.com",
+    "designer": "Telerik, A Progress Company",
+    "designerURL": "http://www.telerik.com",
+	"license": "Apache License, Version 2.0",
+    "licenseURL": "http://www.apache.org/licenses/LICENSE-2.0.html"
+  },
+  "preferences": {
+	"fontPref": {
+      "prefix": "p-i-",
+	  "metadata": {
+        "fontFamily": "TelerikWebUI",
+        "majorVersion": 1,
+        "minorVersion": 0,
+        "fontURL": "http://www.telerik.com",
+        "description": "TelerikWebUI Font",
+        "copyright": "Telerik, A Progress Company",
+        "designer": "Telerik, A Progress Company",
+        "designerURL": "http://www.telerik.com",
+        "license": "Apache License, Version 2.0",
+        "licenseURL": "http://www.apache.org/licenses/LICENSE-2.0.html"
+	  },
+      "selector": "p-i",
+      "classSelector": ".p-i"
+	},
+	"imagePref": {
+      "prefix": "p-i-",
+      "classSelector": ".p-i"
+	},
+	"gridSize": 16
+  },
+  "iconSets": {
+	"prevSize": 32 
+  }  
+}
