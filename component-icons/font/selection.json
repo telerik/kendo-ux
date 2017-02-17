@@ -3055,6 +3055,32 @@
       "setIdx": 0,
       "setId": 1,
       "iconIdx": 88
+    },
+    {
+      "icon": {
+        "paths": [
+          "M213.333 213.333h512l-85.333 85.333h-426.667v-85.333zM213.333 469.333h256l85.333-85.333h-341.333v85.333zM0 682.667v-682.667h1024v682.667h-554.667l-298.667 298.667v-298.667h-170.667zM85.333 597.333h170.667v170.667l170.667-170.667h512v-512h-853.333v512z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "localization"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 82,
+        "id": 89,
+        "name": "localization",
+        "prevSize": 24,
+        "code": 59481
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 89
     }
   ],
   "height": 1024,

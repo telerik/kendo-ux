@@ -102,6 +102,7 @@
 		'i-listview-mobile': '&#xe856;',
 		'i-dialog': '&#xe857;',
 		'i-mediaplayer': '&#xe858;',
+		'i-localization': '&#xe859;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

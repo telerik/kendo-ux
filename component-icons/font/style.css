@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?aiz5sg');
-  src:  url('fonts/widgets.eot?aiz5sg#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?aiz5sg') format('truetype'),
-    url('fonts/widgets.woff?aiz5sg') format('woff'),
-    url('fonts/widgets.svg?aiz5sg#widgets') format('svg');
+  src:  url('fonts/widgets.eot?4051a8');
+  src:  url('fonts/widgets.eot?4051a8#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?4051a8') format('truetype'),
+    url('fonts/widgets.woff?4051a8') format('woff'),
+    url('fonts/widgets.svg?4051a8#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -290,5 +290,8 @@
 }
 .i-mediaplayer:before {
   content: "\e858";
+}
+.i-localization:before {
+  content: "\e859";
 }
 
