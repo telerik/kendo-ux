@@ -268,4 +268,7 @@
 .i-localization {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe859;');
 }
+.i-accessibility {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe85a;');
+}
 
