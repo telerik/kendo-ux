@@ -104,6 +104,8 @@
 		'i-mediaplayer': '&#xe858;',
 		'i-localization': '&#xe859;',
 		'i-accessibility': '&#xe85a;',
+		'i-listbox': '&#xe85b;',
+		'i-dateinput': '&#xe85c;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

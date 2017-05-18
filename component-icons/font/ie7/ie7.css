@@ -271,4 +271,10 @@
 .i-accessibility {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe85a;');
 }
+.i-listbox {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe85b;');
+}
+.i-dateinput {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe85c;');
+}
 

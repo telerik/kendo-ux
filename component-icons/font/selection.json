@@ -3107,6 +3107,58 @@
       "setIdx": 0,
       "setId": 1,
       "iconIdx": 90
+    },
+    {
+      "icon": {
+        "paths": [
+          "M256 298.667h-85.333v-85.333h85.333v85.333zM1024 0v853.333l-170.667 170.667h-853.333v-1024h1024zM938.667 85.333h-853.333v853.333h733.867l119.467-119.467v-733.867zM853.333 213.333h-512v85.333h426.667l85.333-85.333zM256 384h-85.333v85.333h85.333v-85.333zM853.333 384h-512v85.333h426.667l85.333-85.333zM256 554.667h-85.333v85.333h85.333v-85.333zM725.333 554.667h-384v85.333h298.667l85.333-85.333z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "listbox"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 85,
+        "id": 92,
+        "name": "listbox",
+        "prevSize": 24,
+        "code": 59483
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 91
+    },
+    {
+      "icon": {
+        "paths": [
+          "M0 213.333v597.333h1024v-597.333h-1024zM938.667 725.333h-853.333v-426.667h853.333v426.667zM230.4 640l-59.733-59.733 196.267-196.267 59.733 59.733-196.267 196.267zM529.067 640l-59.733-59.733 196.267-196.267 59.733 59.733-196.267 196.267z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "dateinput"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 86,
+        "id": 91,
+        "name": "dateinput",
+        "prevSize": 24,
+        "code": 59484
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 92
     }
   ],
   "height": 1024,
