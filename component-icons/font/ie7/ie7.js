@@ -106,6 +106,7 @@
 		'i-accessibility': '&#xe85a;',
 		'i-listbox': '&#xe85b;',
 		'i-dateinput': '&#xe85c;',
+		'i-ziplibrary': '&#xe900;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

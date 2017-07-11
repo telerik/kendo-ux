@@ -277,4 +277,7 @@
 .i-dateinput {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe85c;');
 }
+.i-ziplibrary {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
+}
 
