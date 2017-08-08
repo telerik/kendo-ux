@@ -107,6 +107,7 @@
 		'i-listbox': '&#xe85b;',
 		'i-dateinput': '&#xe85c;',
 		'i-ziplibrary': '&#xe900;',
+		'i-spreadstreamprocessing': '&#xe901;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

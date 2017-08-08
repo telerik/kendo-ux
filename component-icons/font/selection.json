@@ -27,14 +27,14 @@
         {}
       ],
       "properties": {
-        "order": 3,
+        "order": 120,
         "id": 0,
         "prevSize": 24,
         "code": 59392,
         "name": "actionsheet"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 0
     },
     {
@@ -63,14 +63,14 @@
         {}
       ],
       "properties": {
-        "order": 2,
+        "order": 119,
         "id": 1,
         "prevSize": 24,
         "code": 59393,
         "name": "application"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 1
     },
     {
@@ -99,14 +99,14 @@
         {}
       ],
       "properties": {
-        "order": 3,
+        "order": 118,
         "id": 2,
         "prevSize": 24,
         "code": 59394,
         "name": "areacharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 2
     },
     {
@@ -135,14 +135,14 @@
         {}
       ],
       "properties": {
-        "order": 4,
+        "order": 117,
         "id": 3,
         "prevSize": 24,
         "code": 59395,
         "name": "autocomplete"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 3
     },
     {
@@ -171,14 +171,14 @@
         {}
       ],
       "properties": {
-        "order": 5,
+        "order": 116,
         "id": 4,
         "prevSize": 24,
         "code": 59396,
         "name": "barcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 4
     },
     {
@@ -207,14 +207,14 @@
         {}
       ],
       "properties": {
-        "order": 6,
+        "order": 115,
         "id": 5,
         "prevSize": 24,
         "code": 59397,
         "name": "barcode"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 5
     },
     {
@@ -243,14 +243,14 @@
         {}
       ],
       "properties": {
-        "order": 7,
+        "order": 114,
         "id": 6,
         "prevSize": 24,
         "code": 59398,
         "name": "boxplotcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 6
     },
     {
@@ -279,14 +279,14 @@
         {}
       ],
       "properties": {
-        "order": 8,
+        "order": 113,
         "id": 7,
         "prevSize": 24,
         "code": 59399,
         "name": "bubblecharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 7
     },
     {
@@ -315,14 +315,14 @@
         {}
       ],
       "properties": {
-        "order": 9,
+        "order": 122,
         "id": 8,
         "prevSize": 24,
         "code": 59400,
         "name": "bulletcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 8
     },
     {
@@ -351,14 +351,14 @@
         {}
       ],
       "properties": {
-        "order": 10,
+        "order": 89,
         "id": 9,
         "prevSize": 24,
         "code": 59401,
         "name": "button"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 9
     },
     {
@@ -394,7 +394,7 @@
         "name": "buttongroup"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 10
     },
     {
@@ -430,7 +430,7 @@
         "name": "calendar"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 11
     },
     {
@@ -466,7 +466,7 @@
         "name": "colorpicker"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 12
     },
     {
@@ -502,7 +502,7 @@
         "name": "datasource"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 13
     },
     {
@@ -538,7 +538,7 @@
         "name": "datepicker"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 14
     },
     {
@@ -574,7 +574,7 @@
         "name": "diagram"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 15
     },
     {
@@ -610,7 +610,7 @@
         "name": "donutcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 16
     },
     {
@@ -646,7 +646,7 @@
         "name": "draganddrop"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 17
     },
     {
@@ -671,7 +671,7 @@
         "name": "drawer"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 18
     },
     {
@@ -707,7 +707,7 @@
         "name": "dropdownlist"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 19
     },
     {
@@ -743,7 +743,7 @@
         "name": "editor"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 20
     },
     {
@@ -779,7 +779,7 @@
         "name": "effects"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 21
     },
     {
@@ -815,7 +815,7 @@
         "name": "funnelcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 22
     },
     {
@@ -851,7 +851,7 @@
         "name": "globalization"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 23
     },
     {
@@ -887,7 +887,7 @@
         "name": "grid"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 24
     },
     {
@@ -923,7 +923,7 @@
         "name": "layout"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 25
     },
     {
@@ -959,7 +959,7 @@
         "name": "lineargauge"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 26
     },
     {
@@ -995,7 +995,7 @@
         "name": "linecharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 27
     },
     {
@@ -1024,14 +1024,14 @@
         {}
       ],
       "properties": {
-        "order": 29,
+        "order": 112,
         "id": 28,
         "prevSize": 24,
         "code": 59420,
         "name": "listview"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 28
     },
     {
@@ -1060,14 +1060,14 @@
         {}
       ],
       "properties": {
-        "order": 30,
+        "order": 111,
         "id": 29,
         "prevSize": 24,
         "code": 59421,
         "name": "map"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 29
     },
     {
@@ -1096,14 +1096,14 @@
         {}
       ],
       "properties": {
-        "order": 31,
+        "order": 110,
         "id": 30,
         "prevSize": 24,
         "code": 59422,
         "name": "maskedtextbox"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 30
     },
     {
@@ -1132,14 +1132,14 @@
         {}
       ],
       "properties": {
-        "order": 32,
+        "order": 109,
         "id": 31,
         "prevSize": 24,
         "code": 59423,
         "name": "menu"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 31
     },
     {
@@ -1168,14 +1168,14 @@
         {}
       ],
       "properties": {
-        "order": 33,
+        "order": 108,
         "id": 32,
         "prevSize": 24,
         "code": 59424,
         "name": "modalview"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 32
     },
     {
@@ -1204,14 +1204,14 @@
         {}
       ],
       "properties": {
-        "order": 34,
+        "order": 107,
         "id": 33,
         "prevSize": 24,
         "code": 59425,
         "name": "multiselect"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 33
     },
     {
@@ -1240,14 +1240,14 @@
         {}
       ],
       "properties": {
-        "order": 35,
+        "order": 106,
         "id": 34,
         "prevSize": 24,
         "code": 59426,
         "name": "mvvm"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 34
     },
     {
@@ -1276,14 +1276,14 @@
         {}
       ],
       "properties": {
-        "order": 36,
+        "order": 105,
         "id": 35,
         "prevSize": 24,
         "code": 59427,
         "name": "navbar"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 35
     },
     {
@@ -1312,14 +1312,14 @@
         {}
       ],
       "properties": {
-        "order": 37,
+        "order": 104,
         "id": 36,
         "prevSize": 24,
         "code": 59428,
         "name": "notification"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 36
     },
     {
@@ -1348,14 +1348,14 @@
         {}
       ],
       "properties": {
-        "order": 38,
+        "order": 123,
         "id": 37,
         "prevSize": 24,
         "code": 59429,
         "name": "numerictextbox"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 37
     },
     {
@@ -1384,14 +1384,14 @@
         {}
       ],
       "properties": {
-        "order": 39,
+        "order": 91,
         "id": 38,
         "prevSize": 24,
         "code": 59430,
         "name": "panelbar"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 38
     },
     {
@@ -1427,7 +1427,7 @@
         "name": "piecharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 39
     },
     {
@@ -1463,7 +1463,7 @@
         "name": "polarcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 40
     },
     {
@@ -1499,7 +1499,7 @@
         "name": "popover"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 41
     },
     {
@@ -1535,7 +1535,7 @@
         "name": "progressbar"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 42
     },
     {
@@ -1571,7 +1571,7 @@
         "name": "qrcode"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 43
     },
     {
@@ -1607,7 +1607,7 @@
         "name": "radarcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 44
     },
     {
@@ -1643,7 +1643,7 @@
         "name": "radialgauge"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 45
     },
     {
@@ -1679,7 +1679,7 @@
         "name": "scattercharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 46
     },
     {
@@ -1715,7 +1715,7 @@
         "name": "scheduler"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 47
     },
     {
@@ -1751,7 +1751,7 @@
         "name": "scroller"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 48
     },
     {
@@ -1787,7 +1787,7 @@
         "name": "scrollview"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 49
     },
     {
@@ -1823,7 +1823,7 @@
         "name": "singlepageapp"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 50
     },
     {
@@ -1859,7 +1859,7 @@
         "name": "slider"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 51
     },
     {
@@ -1895,7 +1895,7 @@
         "name": "sortable"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 52
     },
     {
@@ -1931,7 +1931,7 @@
         "name": "sparklines"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 53
     },
     {
@@ -1967,7 +1967,7 @@
         "name": "splitter"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 54
     },
     {
@@ -2003,7 +2003,7 @@
         "name": "splitview"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 55
     },
     {
@@ -2039,7 +2039,7 @@
         "name": "stockchart"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 56
     },
     {
@@ -2068,14 +2068,14 @@
         {}
       ],
       "properties": {
-        "order": 58,
+        "order": 103,
         "id": 57,
         "prevSize": 24,
         "code": 59449,
         "name": "switch"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 57
     },
     {
@@ -2104,14 +2104,14 @@
         {}
       ],
       "properties": {
-        "order": 59,
+        "order": 102,
         "id": 58,
         "prevSize": 24,
         "code": 59450,
         "name": "tabstrip"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 58
     },
     {
@@ -2140,14 +2140,14 @@
         {}
       ],
       "properties": {
-        "order": 60,
+        "order": 101,
         "id": 59,
         "prevSize": 24,
         "code": 59451,
         "name": "tabstrip-mobile"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 59
     },
     {
@@ -2176,14 +2176,14 @@
         {}
       ],
       "properties": {
-        "order": 61,
+        "order": 100,
         "id": 60,
         "prevSize": 24,
         "code": 59452,
         "name": "templates"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 60
     },
     {
@@ -2212,14 +2212,14 @@
         {}
       ],
       "properties": {
-        "order": 62,
+        "order": 99,
         "id": 61,
         "prevSize": 24,
         "code": 59453,
         "name": "timepicker"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 61
     },
     {
@@ -2248,14 +2248,14 @@
         {}
       ],
       "properties": {
-        "order": 63,
+        "order": 98,
         "id": 62,
         "prevSize": 24,
         "code": 59454,
         "name": "tooltip"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 62
     },
     {
@@ -2284,14 +2284,14 @@
         {}
       ],
       "properties": {
-        "order": 64,
+        "order": 97,
         "id": 63,
         "prevSize": 24,
         "code": 59455,
         "name": "treeview"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 63
     },
     {
@@ -2320,14 +2320,14 @@
         {}
       ],
       "properties": {
-        "order": 65,
+        "order": 96,
         "id": 64,
         "prevSize": 24,
         "code": 59456,
         "name": "upload"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 64
     },
     {
@@ -2356,14 +2356,14 @@
         {}
       ],
       "properties": {
-        "order": 66,
+        "order": 95,
         "id": 65,
         "prevSize": 24,
         "code": 59457,
         "name": "validator"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 65
     },
     {
@@ -2392,14 +2392,14 @@
         {}
       ],
       "properties": {
-        "order": 67,
+        "order": 94,
         "id": 66,
         "prevSize": 24,
         "code": 59458,
         "name": "window"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 66
     },
     {
@@ -2428,14 +2428,14 @@
         {}
       ],
       "properties": {
-        "order": 68,
+        "order": 90,
         "id": 67,
         "prevSize": 24,
         "code": 59459,
         "name": "gantt"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 67
     },
     {
@@ -2471,7 +2471,7 @@
         "name": "pivotgrid"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 68
     },
     {
@@ -2507,7 +2507,7 @@
         "name": "treemap"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 69
     },
     {
@@ -2543,7 +2543,7 @@
         "name": "rangebarcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 70
     },
     {
@@ -2579,7 +2579,7 @@
         "name": "waterfallcharts"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 71
     },
     {
@@ -2615,7 +2615,7 @@
         "name": "combobox"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 72
     },
     {
@@ -2651,7 +2651,7 @@
         "name": "responsivepanel"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 73
     },
     {
@@ -2687,7 +2687,7 @@
         "name": "collapsible"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 74
     },
     {
@@ -2712,7 +2712,7 @@
         "name": "spreadsheet"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 75
     },
     {
@@ -2737,7 +2737,7 @@
         "name": "wordprocessing"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 76
     },
     {
@@ -2762,7 +2762,7 @@
         "name": "spreadprocessing"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 77
     },
     {
@@ -2787,7 +2787,7 @@
         "name": "pdf"
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 78
     },
     {
@@ -2812,7 +2812,7 @@
         "code": 59471
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 79
     },
     {
@@ -2837,7 +2837,7 @@
         "code": 59472
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 80
     },
     {
@@ -2862,7 +2862,7 @@
         "code": 59473
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 81
     },
     {
@@ -2887,7 +2887,7 @@
         "code": 59474
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 82
     },
     {
@@ -2912,7 +2912,7 @@
         "code": 59475
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 83
     },
     {
@@ -2937,7 +2937,7 @@
         "code": 59476
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 84
     },
     {
@@ -2962,7 +2962,7 @@
         "code": 59477
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 85
     },
     {
@@ -2998,7 +2998,7 @@
         "code": 59478
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 86
     },
     {
@@ -3023,7 +3023,7 @@
         "code": 59479
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 87
     },
     {
@@ -3053,7 +3053,7 @@
         "code": 59480
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 88
     },
     {
@@ -3079,7 +3079,7 @@
         "code": 59481
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 89
     },
     {
@@ -3105,7 +3105,7 @@
         "code": 59482
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 90
     },
     {
@@ -3131,7 +3131,7 @@
         "code": 59483
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 91
     },
     {
@@ -3157,7 +3157,7 @@
         "code": 59484
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 92
     },
     {
@@ -3183,8 +3183,34 @@
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 3,
+      "setId": 1,
       "iconIdx": 93
+    },
+    {
+      "icon": {
+        "paths": [
+          "M388.267 512l166.4 256h-93.867l-119.467-183.467-119.467 183.467h-93.867l166.4-256-166.4-256h98.133l115.2 183.467 119.467-183.467h93.867l-166.4 256zM682.667 426.667v-128l-213.333 213.333 213.333 213.333v-128h213.333v-170.667h-213.333z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "spreadstreamprocessing"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 124,
+        "id": 94,
+        "name": "spreadstreamprocessing",
+        "prevSize": 24,
+        "code": 59649
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 94
     }
   ],
   "height": 1024,
