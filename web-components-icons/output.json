@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "WebComponentsIcons",
-    "lastOpened": 1492589995955,
-    "created": 1492589995955,
+    "lastOpened": 1502286554983,
+    "created": 1502286554983,
     "url": "http://www.telerik.com",
     "designer": "Telerik, A Progress Company",
     "designerURL": "http://www.telerik.com",
@@ -41,14 +41,14 @@
           "code": 57347
         },
         {
-          "ligatures": "arrow-60-up, arrow-n",
+          "ligatures": "arrow-60-up, arrow-n, kpi-trend-increase",
           "id": 4,
           "order": 5,
           "name": "arrow-60-up",
           "code": 57348
         },
         {
-          "ligatures": "arrow-60-right, arrow-e",
+          "ligatures": "arrow-60-right, arrow-e, kpi-trend-decrease",
           "id": 5,
           "order": 6,
           "name": "arrow-60-right",
@@ -62,7 +62,7 @@
           "code": 57350
         },
         {
-          "ligatures": "arrow-60-left, arrow-e",
+          "ligatures": "arrow-60-left, arrow-w",
           "id": 7,
           "order": 8,
           "name": "arrow-60-left",
@@ -1320,7 +1320,7 @@
           "code": 57632
         },
         {
-          "ligatures": "minus",
+          "ligatures": "minus, kpi-trend-equal",
           "id": 33,
           "order": 34,
           "name": "minus",
@@ -1584,6 +1584,27 @@
           "order": 71,
           "name": "minus-sm",
           "code": 57670
+        },
+        {
+          "ligatures": "kpi-status-deny",
+          "id": 71,
+          "order": 72,
+          "name": "kpi-status-deny",
+          "code": 57671
+        },
+        {
+          "ligatures": "kpi-status-hold",
+          "id": 72,
+          "order": 73,
+          "name": "kpi-status-hold",
+          "code": 57672
+        },
+        {
+          "ligatures": "kpi-status-open",
+          "id": 73,
+          "order": 74,
+          "name": "kpi-status-open",
+          "code": 57673
         }
       ],
       "id": 1,
@@ -2492,6 +2513,48 @@
           "tags": [
             "minus",
             "sm"
+          ]
+        },
+        {
+          "id": 71,
+          "paths": [
+            "L414.4 97.6 L414.4 414.4 L97.6 414.4 L97.6 97.6"
+          ],
+          "attrs": [],
+          "isMulticolor": false,
+          "grid": 16,
+          "tags": [
+            "kpi",
+            "status",
+            "deny"
+          ]
+        },
+        {
+          "id": 72,
+          "paths": [
+            "M256 64 L32 448 L480 448"
+          ],
+          "attrs": [],
+          "isMulticolor": false,
+          "grid": 16,
+          "tags": [
+            "kpi",
+            "status",
+            "hold"
+          ]
+        },
+        {
+          "id": 73,
+          "paths": [
+            "M480 256 C480 379.7 379.7 480 256 480 C132.3 480 32 379.7 32 256 C32 132.3 132.3 32 256 32 C379.7 32 480 132.3 480 256 z"
+          ],
+          "attrs": [],
+          "isMulticolor": false,
+          "grid": 16,
+          "tags": [
+            "kpi",
+            "status",
+            "open"
           ]
         }
       ],
