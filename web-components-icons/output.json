@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "WebComponentsIcons",
-    "lastOpened": 1502286554983,
-    "created": 1502286554983,
+    "lastOpened": 1502290349117,
+    "created": 1502290349117,
     "url": "http://www.telerik.com",
     "designer": "Telerik, A Progress Company",
     "designerURL": "http://www.telerik.com",
@@ -2518,7 +2518,7 @@
         {
           "id": 71,
           "paths": [
-            "L414.4 97.6 L414.4 414.4 L97.6 414.4 L97.6 97.6"
+            "M480 256 L256 480 L32 256 L256 32 L480 256 z"
           ],
           "attrs": [],
           "isMulticolor": false,
