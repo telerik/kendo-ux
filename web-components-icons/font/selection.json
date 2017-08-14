@@ -12310,7 +12310,7 @@
   ],
   "height": 1024,
   "metadata": {
-    "name": "widgets",
+    "name": "web-components-icons",
     "url": "http://demos.telerik.com/kendo-ui",
     "designerURL": "http://www.telerik.com"
   },
@@ -12320,13 +12320,13 @@
     "showQuickUse2": true,
     "showSVGs": true,
     "fontPref": {
-      "prefix": "i-",
+      "prefix": "k-i-",
       "metadata": {
-        "fontFamily": "widgets",
+        "fontFamily": "web-components-icons",
         "majorVersion": 2,
         "minorVersion": 0,
         "fontURL": "http://demos.telerik.com/kendo-ui",
-        "description": "Widgets",
+        "description": "Web Components Icons",
         "copyright": "Telerik",
         "designerURL": "http://www.telerik.com"
       },
@@ -12338,11 +12338,13 @@
       "showSelector": true,
       "showMetrics": true,
       "showMetadata": true,
-      "ie7": true,
+      "ie7": false,
       "showVersion": true,
       "resetPoint": 59392,
       "embed": false,
-      "noie8": false
+      "noie8": false,
+      "selector": "class",
+      "classSelector": ".k-icon"
     },
     "imagePref": {
       "prefix": "icon-",
@@ -12354,6 +12356,7 @@
     "historySize": 100,
     "showCodes": true,
     "gridSize": 16,
-    "showGrid": true
+    "showGrid": true,
+    "showLiga": true
   }
 }
