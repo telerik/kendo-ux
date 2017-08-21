@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?uo2q8x');
-  src:  url('fonts/widgets.eot?uo2q8x#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?uo2q8x') format('truetype'),
-    url('fonts/widgets.woff?uo2q8x') format('woff'),
-    url('fonts/widgets.svg?uo2q8x#widgets') format('svg');
+  src:  url('fonts/widgets.eot?22n1t9');
+  src:  url('fonts/widgets.eot?22n1t9#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?22n1t9') format('truetype'),
+    url('fonts/widgets.woff?22n1t9') format('woff'),
+    url('fonts/widgets.svg?22n1t9#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -308,4 +308,7 @@
 }
 .i-spreadstreamprocessing:before {
   content: "\e901";
+}
+.i-rangeareacharts:before {
+  content: "\e902";
 }

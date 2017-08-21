@@ -21,7 +21,7 @@
         "tags": [
           "actionsheet"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -57,7 +57,7 @@
         "tags": [
           "application"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -93,7 +93,7 @@
         "tags": [
           "areacharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -129,7 +129,7 @@
         "tags": [
           "autocomplete"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -165,7 +165,7 @@
         "tags": [
           "barcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -201,7 +201,7 @@
         "tags": [
           "barcode"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -237,7 +237,7 @@
         "tags": [
           "boxplotcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -273,7 +273,7 @@
         "tags": [
           "bubblecharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -309,7 +309,7 @@
         "tags": [
           "bulletcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -345,7 +345,7 @@
         "tags": [
           "button"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -381,7 +381,7 @@
         "tags": [
           "buttongroup"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -417,7 +417,7 @@
         "tags": [
           "calendar"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -453,7 +453,7 @@
         "tags": [
           "colorpicker"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -489,7 +489,7 @@
         "tags": [
           "datasource"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -525,7 +525,7 @@
         "tags": [
           "datepicker"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -561,7 +561,7 @@
         "tags": [
           "diagram"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -597,7 +597,7 @@
         "tags": [
           "donutcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -633,7 +633,7 @@
         "tags": [
           "draganddrop"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -660,7 +660,7 @@
         "tags": [
           "drawer"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -694,7 +694,7 @@
         "tags": [
           "dropdownlist"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -730,7 +730,7 @@
         "tags": [
           "editor"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -766,7 +766,7 @@
         "tags": [
           "effects"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -802,7 +802,7 @@
         "tags": [
           "funnelcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -838,7 +838,7 @@
         "tags": [
           "globalization"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -874,7 +874,7 @@
         "tags": [
           "grid"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -910,7 +910,7 @@
         "tags": [
           "layout"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -946,7 +946,7 @@
         "tags": [
           "lineargauge"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -982,7 +982,7 @@
         "tags": [
           "linecharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1018,7 +1018,7 @@
         "tags": [
           "listview"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1054,7 +1054,7 @@
         "tags": [
           "map"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1090,7 +1090,7 @@
         "tags": [
           "maskedtextbox"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1126,7 +1126,7 @@
         "tags": [
           "menu"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1162,7 +1162,7 @@
         "tags": [
           "modalview"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1198,7 +1198,7 @@
         "tags": [
           "multiselect"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1234,7 +1234,7 @@
         "tags": [
           "mvvm"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1270,7 +1270,7 @@
         "tags": [
           "navbar"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1306,7 +1306,7 @@
         "tags": [
           "notification"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1342,7 +1342,7 @@
         "tags": [
           "numerictextbox"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1378,7 +1378,7 @@
         "tags": [
           "panelbar"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1414,7 +1414,7 @@
         "tags": [
           "piecharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1450,7 +1450,7 @@
         "tags": [
           "polarcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1486,7 +1486,7 @@
         "tags": [
           "popover"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1522,7 +1522,7 @@
         "tags": [
           "progressbar"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1558,7 +1558,7 @@
         "tags": [
           "qrcode"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1594,7 +1594,7 @@
         "tags": [
           "radarcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1630,7 +1630,7 @@
         "tags": [
           "radialgauge"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1666,7 +1666,7 @@
         "tags": [
           "scattercharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1702,7 +1702,7 @@
         "tags": [
           "scheduler"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1738,7 +1738,7 @@
         "tags": [
           "scroller"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1774,7 +1774,7 @@
         "tags": [
           "scrollview"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1810,7 +1810,7 @@
         "tags": [
           "singlepageapp"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1846,7 +1846,7 @@
         "tags": [
           "slider"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1882,7 +1882,7 @@
         "tags": [
           "sortable"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1918,7 +1918,7 @@
         "tags": [
           "sparklines"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1954,7 +1954,7 @@
         "tags": [
           "splitter"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -1990,7 +1990,7 @@
         "tags": [
           "splitview"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2026,7 +2026,7 @@
         "tags": [
           "stockchart"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2062,7 +2062,7 @@
         "tags": [
           "switch"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2098,7 +2098,7 @@
         "tags": [
           "tabstrip"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2134,7 +2134,7 @@
         "tags": [
           "tabstrip-mobile"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2170,7 +2170,7 @@
         "tags": [
           "templates"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2206,7 +2206,7 @@
         "tags": [
           "timepicker"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2242,7 +2242,7 @@
         "tags": [
           "tooltip"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2278,7 +2278,7 @@
         "tags": [
           "treeview"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2314,7 +2314,7 @@
         "tags": [
           "upload"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2350,7 +2350,7 @@
         "tags": [
           "validator"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2386,7 +2386,7 @@
         "tags": [
           "window"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2422,7 +2422,7 @@
         "tags": [
           "gantt"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2458,7 +2458,7 @@
         "tags": [
           "pivotgrid"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2494,7 +2494,7 @@
         "tags": [
           "treemap"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2530,7 +2530,7 @@
         "tags": [
           "rangebarcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2566,7 +2566,7 @@
         "tags": [
           "waterfallcharts"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2602,7 +2602,7 @@
         "tags": [
           "combobox"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2638,7 +2638,7 @@
         "tags": [
           "responsivepanel"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2674,7 +2674,7 @@
         "tags": [
           "collapsible"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -2701,7 +2701,7 @@
         "tags": [
           "spreadsheet"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2726,7 +2726,7 @@
         "tags": [
           "wordprocessing"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2751,7 +2751,7 @@
         "tags": [
           "spreadprocessing"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2776,7 +2776,7 @@
         "tags": [
           "pdf"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2801,7 +2801,7 @@
         "tags": [
           "datetimepicker"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2826,7 +2826,7 @@
         "tags": [
           "styling"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2851,7 +2851,7 @@
         "tags": [
           "touchevents"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2876,7 +2876,7 @@
         "tags": [
           "toolbar"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2901,7 +2901,7 @@
         "tags": [
           "treelist"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2926,7 +2926,7 @@
         "tags": [
           "forms"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2951,7 +2951,7 @@
         "tags": [
           "view"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -2985,7 +2985,7 @@
         "tags": [
           "listview-mobile"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [
         {}
@@ -3012,7 +3012,7 @@
         "tags": [
           "dialog"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -3042,7 +3042,7 @@
         "tags": [
           "mediaplayer"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -3068,7 +3068,7 @@
         "tags": [
           "localization"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -3094,7 +3094,7 @@
         "tags": [
           "accessibility"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -3120,7 +3120,7 @@
         "tags": [
           "listbox"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -3146,7 +3146,7 @@
         "tags": [
           "dateinput"
         ],
-        "grid": 0
+        "grid": 24
       },
       "attrs": [],
       "properties": {
@@ -3168,7 +3168,7 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 0,
+        "grid": 24,
         "tags": [
           "ziplibrary"
         ],
@@ -3194,7 +3194,7 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 0,
+        "grid": 24,
         "tags": [
           "spreadstreamprocessing"
         ],
@@ -3211,6 +3211,32 @@
       "setIdx": 0,
       "setId": 1,
       "iconIdx": 94
+    },
+    {
+      "icon": {
+        "paths": [
+          "M0 853.333h1024l-85.333 85.333h-938.667v-85.333zM1024 0v443.733l-281.6 281.6-204.8-204.8-281.6 281.6-256-256v-362.667l226.133 226.133 285.867-281.6 192 192 320-320zM938.667 209.067l-234.667 234.667-21.333-25.6-170.667-170.667-285.867 285.867-140.8-140.8v119.467l170.667 170.667 281.6-281.6 204.8 204.8 196.267-196.267v-200.533z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 24,
+        "tags": [
+          "rangeareacharts"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 126,
+        "id": 95,
+        "name": "rangeareacharts",
+        "prevSize": 24,
+        "code": 59650
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 95
     }
   ],
   "height": 1024,
@@ -3243,7 +3269,7 @@
       "showSelector": true,
       "showMetrics": true,
       "showMetadata": true,
-      "ie7": true,
+      "ie7": false,
       "showVersion": true,
       "resetPoint": 59392,
       "embed": false,
@@ -3259,6 +3285,6 @@
     "historySize": 100,
     "showCodes": true,
     "gridSize": 16,
-    "showGrid": false
+    "showGrid": true
   }
 }
