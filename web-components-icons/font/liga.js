@@ -598,7 +598,7 @@
                     break;
                 }
                 classes = el.className;
-                if (/k-icon/.test(classes)) {
+                if (/k-i/.test(classes)) {
                     innerHTML = el.innerHTML;
                     if (innerHTML && innerHTML.length > 1) {
                         for (key in icons) {

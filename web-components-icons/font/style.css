@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'web-components-icons';
-  src:  url('fonts/web-components-icons.eot?2bjwjy');
-  src:  url('fonts/web-components-icons.eot?2bjwjy#iefix') format('embedded-opentype'),
-    url('fonts/web-components-icons.ttf?2bjwjy') format('truetype'),
-    url('fonts/web-components-icons.woff?2bjwjy') format('woff'),
-    url('fonts/web-components-icons.svg?2bjwjy#web-components-icons') format('svg');
+  font-family: 'WebComponentsIcons';
+  src:  url('fonts/WebComponentsIcons.eot?62tgx');
+  src:  url('fonts/WebComponentsIcons.eot?62tgx#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?62tgx') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?62tgx') format('woff'),
+    url('fonts/WebComponentsIcons.svg?62tgx#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-.k-icon {
+[class^="k-i"], [class*=" k-i"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'web-components-icons' !important;
+  font-family: 'WebComponentsIcons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
