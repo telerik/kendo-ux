@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "WebComponentsIcons",
-    "lastOpened": 1502290349117,
-    "created": 1502290349117,
+    "lastOpened": 1503516007119,
+    "created": 1503516007119,
     "url": "http://www.telerik.com",
     "designer": "Telerik, A Progress Company",
     "designerURL": "http://www.telerik.com",
@@ -20,7 +20,7 @@
           "code": 57344
         },
         {
-          "ligatures": "arrow-45-down-right, collapse-se, resize-se",
+          "ligatures": "arrow-45-down-right, collapse-se, collapse, resize-se",
           "id": 1,
           "order": 2,
           "name": "arrow-45-down-right",
@@ -48,14 +48,14 @@
           "code": 57348
         },
         {
-          "ligatures": "arrow-60-right, arrow-e, kpi-trend-decrease",
+          "ligatures": "arrow-60-right, arrow-e, expand",
           "id": 5,
           "order": 6,
           "name": "arrow-60-right",
           "code": 57349
         },
         {
-          "ligatures": "arrow-60-down, arorw-s",
+          "ligatures": "arrow-60-down, arrow-s, kpi-trend-decrease",
           "id": 6,
           "order": 7,
           "name": "arrow-60-down",
@@ -69,28 +69,28 @@
           "code": 57351
         },
         {
-          "ligatures": "arrow-end-up",
+          "ligatures": "arrow-end-up, seek-n",
           "id": 8,
           "order": 9,
           "name": "arrow-end-up",
           "code": 57352
         },
         {
-          "ligatures": "arrow-end-right",
+          "ligatures": "arrow-end-right, seek-e",
           "id": 9,
           "order": 10,
           "name": "arrow-end-right",
           "code": 57353
         },
         {
-          "ligatures": "arrow-end-down",
+          "ligatures": "arrow-end-down, seek-s",
           "id": 10,
           "order": 11,
           "name": "arrow-end-down",
           "code": 57354
         },
         {
-          "ligatures": "arrow-end-left",
+          "ligatures": "arrow-end-left, seek-w",
           "id": 11,
           "order": 12,
           "name": "arrow-end-left",
@@ -1299,7 +1299,7 @@
           "code": 57629
         },
         {
-          "ligatures": "plus",
+          "ligatures": "plus, add",
           "id": 30,
           "order": 31,
           "name": "plus",

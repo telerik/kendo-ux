@@ -13,17 +13,17 @@
 			"startingPoint": "E000",
 			"icons": [
 				"arrow-45-up-right|collapse-ne|resize-ne",
-				"arrow-45-down-right|collapse-se|resize-se",
+				"arrow-45-down-right|collapse-se|collapse|resize-se",
 				"arrow-45-down-left|collapse-sw|resize-sw",
 				"arrow-45-up-left|collapse-nw|resize-new",
 				"arrow-60-up|arrow-n|kpi-trend-increase",
-				"arrow-60-right|arrow-e|kpi-trend-decrease",
-				"arrow-60-down|arorw-s",
+				"arrow-60-right|arrow-e|expand",
+				"arrow-60-down|arrow-s|kpi-trend-decrease",
 				"arrow-60-left|arrow-w",
-				"arrow-end-up",
-				"arrow-end-right",
-				"arrow-end-down",
-				"arrow-end-left",
+				"arrow-end-up|seek-n",
+				"arrow-end-right|seek-e",
+				"arrow-end-down|seek-s",
+				"arrow-end-left|seek-w",
 				"arrow-double-60-up|arrow-seek-up",
 				"arrow-double-60-right|arrow-seek-right|forward-sm",
 				"arrow-double-60-down|arrow-seek-down",
@@ -98,7 +98,7 @@
 				"close|x",
 				"close-outline|x-outline|error",
 				"close-circle|x-circle",
-				"plus",
+				"plus|add",
 				"plus-outline",
 				"plus-circle",
 				"minus|kpi-trend-equal",
@@ -467,7 +467,7 @@
 				"folder-up",
 				"folder-more|fields-more",
 				"aggregate-fields",
-				"file|file-vertical",
+				"file|file-vertical|page-portrait",
 				"file-add",
 				"file-txt|txt",
 				"file-csv|csv",
@@ -495,7 +495,7 @@
 				"vb",
 				"sln",
 				"cloud",
-				"file-horizontal"
+				"file-horizontal|page-landscape"
 			]
 		}
 
