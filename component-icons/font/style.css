@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?22n1t9');
-  src:  url('fonts/widgets.eot?22n1t9#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?22n1t9') format('truetype'),
-    url('fonts/widgets.woff?22n1t9') format('woff'),
-    url('fonts/widgets.svg?22n1t9#widgets') format('svg');
+  src:  url('fonts/widgets.eot?wgu9ah');
+  src:  url('fonts/widgets.eot?wgu9ah#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?wgu9ah') format('truetype'),
+    url('fonts/widgets.woff?wgu9ah') format('woff'),
+    url('fonts/widgets.svg?wgu9ah#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -311,4 +311,16 @@
 }
 .i-rangeareacharts:before {
   content: "\e902";
+}
+.i-dropdownbutton:before {
+  content: "\e903";
+}
+.i-splitbutton:before {
+  content: "\e904";
+}
+.i-textbox:before {
+  content: "\e905";
+}
+.i-ripple:before {
+  content: "\e906";
 }
