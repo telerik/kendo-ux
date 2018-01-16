@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#808080;}
+	.st0{fill:#818181;}
 </style>
-<g id="Media_pLayer">
-	<g>
-		<path class="st0" d="M2,4v20h16l4-4V4H2z M20,19.2L17.2,22H4V6h16V19.2z"/>
-		<polygon class="st0" points="10,9 15,14 10,19 		"/>
-	</g>
-	<polygon class="st0" points="7,2 2,2 2,0 9,0 	"/>
-	<polygon class="st0" points="12,2 9,2 11,0 14,0 	"/>
-	<polygon class="st0" points="17,2 14,2 16,0 19,0 	"/>
-	<polygon class="st0" points="22,2 19,2 21,0 22,0 	"/>
-</g>
+<path id="Media_pLayer" class="st0" d="M2,4v20h16l4-4V4H2z M20,19.2L17.2,22H4V6h16V19.2z M10,9l5,5l-5,5V9z M7,2H2V0h7L7,2z M12,2
+	H9l2-2h3L12,2z M17,2h-3l2-2h3L17,2z M22,2h-3l2-2h1V2z"/>
 </svg>
