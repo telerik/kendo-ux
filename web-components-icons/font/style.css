@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?62tgx');
-  src:  url('fonts/WebComponentsIcons.eot?62tgx#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?62tgx') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?62tgx') format('woff'),
-    url('fonts/WebComponentsIcons.svg?62tgx#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?ucel25');
+  src:  url('fonts/WebComponentsIcons.eot?ucel25#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?ucel25') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?ucel25') format('woff'),
+    url('fonts/WebComponentsIcons.svg?ucel25#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -408,6 +408,21 @@
 }
 .k-i-kpi-status-open:before {
   content: "\e149";
+}
+.k-i-equal:before {
+  content: "\e14a";
+}
+.k-i-not-equal:before {
+  content: "\e14b";
+}
+.k-i-less-or-equal:before {
+  content: "\e14c";
+}
+.k-i-greater-or-equal:before {
+  content: "\e14d";
+}
+.k-i-divide:before {
+  content: "\e14e";
 }
 .k-i-play:before {
   content: "\e200";

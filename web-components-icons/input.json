@@ -141,7 +141,12 @@
 				"minus-sm",
 				"kpi-status-deny",
 				"kpi-status-hold",
-				"kpi-status-open"
+				"kpi-status-open",
+				"equal",
+				"not-equal",
+				"less-or-equal",
+				"greater-or-equal",
+				"divide"
 			]
 		},{
 			"name": "e200-media",
