@@ -3397,6 +3397,31 @@
     {
       "icon": {
         "paths": [
+          "M416 96c0-53 43-96 96-96s96 43 96 96-43 96-96 96-96-43-96-96zM896 320v-64h-768v64l256 32v160l-64 448h96l64-320h64l64 320h96l-64-448v-160l256-32z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "grid": 16,
+        "tags": [
+          "accessibility"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "accessibility",
+        "id": 79,
+        "order": 80,
+        "name": "accessibility",
+        "code": 57679,
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 79
+    },
+    {
+      "icon": {
+        "paths": [
           "M0 1024v-1024l1024 512-1024 512z"
         ],
         "attrs": [],

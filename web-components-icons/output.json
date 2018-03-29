@@ -1640,6 +1640,13 @@
           "order": 79,
           "name": "divide",
           "code": 57678
+        },
+        {
+          "ligatures": "accessibility",
+          "id": 79,
+          "order": 80,
+          "name": "accessibility",
+          "code": 57679
         }
       ],
       "id": 1,
@@ -2655,6 +2662,18 @@
           "grid": 16,
           "tags": [
             "divide"
+          ]
+        },
+        {
+          "id": 79,
+          "paths": [
+            "M208 48c0-26.5 21.5-48 48-48s48 21.5 48 48-21.5 48-48 48-48-21.5-48-48zM448 160v-32h-384v32l128 16v80l-32 224h48l32-160h32l32 160h48l-32-224v-80l128-16z"
+          ],
+          "attrs": [],
+          "isMulticolor": false,
+          "grid": 16,
+          "tags": [
+            "accessibility"
           ]
         }
       ],

@@ -159,6 +159,7 @@
 <glyph unicode="&#xe14c;" glyph-name="less-or-equal" data-tags="less, or, equal" d="M636.2 256l-320 320 320 320 67.8-67.8-252.2-252.2 252.2-252.2-67.8-67.8zM256 128v-64h512v64h-512z" />
 <glyph unicode="&#xe14d;" glyph-name="greater-or-equal" data-tags="greater, or, equal" d="M320 323.8l252.2 252.2-252.2 252.2 67.8 67.8 320-320-320-320-67.8 67.8zM256 128v-64h512v64h-512z" />
 <glyph unicode="&#xe14e;" glyph-name="divide" data-tags="divide" d="M832 832l-448-768h-128l448 768h128z" />
+<glyph unicode="&#xe14f;" glyph-name="accessibility" data-tags="accessibility" d="M416 864c0 53 43 96 96 96s96-43 96-96-43-96-96-96-96 43-96 96zM896 640v64h-768v-64l256-32v-160l-64-448h96l64 320h64l64-320h96l-64 448v160l256 32z" />
 <glyph unicode="&#xe200;" glyph-name="play" data-tags="play" d="M0-64v1024l1024-512-1024-512z" />
 <glyph unicode="&#xe201;" glyph-name="pause" data-tags="pause" d="M640 960h320v-1024h-320v1024zM64-64h320v1024h-320v-1024z" />
 <glyph unicode="&#xe202;" glyph-name="stop" data-tags="stop" d="M1024-64h-1024v1024h1024v-1024z" />
@@ -1042,4 +1043,5 @@
 <glyph unicode="align-bottom" glyph-name="align-bottom" data-tags="align, bottom" d="M960 256h-896v64h896v-64zM832 192h-640v-64h640v64zM960 64h-896v-64h896v64z" />
 <glyph unicode="aggregate-fields" glyph-name="aggregate-fields" data-tags="aggregate, fields" d="M256 704c-35.4 0-64-28.6-64-64v-320c0-35.4 28.6-64 64-64h512c64 0 64 64 64 64h-576v384zM128 576c-35.4 0-64-28.6-64-64v-320c0-35.4 28.6-64 64-64h512c64 0 64 64 64 64h-512c-35.4 0-64 0-64 0v384zM896 832h-512c-35.2 0-64-28.8-64-64v-320c0-35.2 28.8-64 64-64h512c35.2 0 64 28.8 64 64v320c0 35.2-28.8 64-64 64zM896 448.2c0-0.2 0-0.2 0 0l-511.8-0.2c0 0 0 0-0.2 0.2v319.6c0 0 0 0 0.2 0.2h511.8c0 0 0 0 0.2-0.2v-319.6z" />
 <glyph unicode="add" glyph-name="plus" data-tags="plus" d="M576 512v256h-128v-256h-256v-128h256v-256h128v256h256v128h-256z" />
+<glyph unicode="accessibility" glyph-name="accessibility" data-tags="accessibility" d="M416 864c0 53 43 96 96 96s96-43 96-96-43-96-96-96-96 43-96 96zM896 640v64h-768v-64l256-32v-160l-64-448h96l64 320h64l64-320h96l-64 448v160l256 32z" />
 </font></defs></svg>

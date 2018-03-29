@@ -216,6 +216,7 @@
             'less-or-equal': '&#xe14c;',
             'greater-or-equal': '&#xe14d;',
             'divide': '&#xe14e;',
+            'accessibility': '&#xe14f;',
             'play': '&#xe200;',
             'pause': '&#xe201;',
             'stop': '&#xe202;',

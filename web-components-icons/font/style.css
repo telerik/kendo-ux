@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?ucel25');
-  src:  url('fonts/WebComponentsIcons.eot?ucel25#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?ucel25') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?ucel25') format('woff'),
-    url('fonts/WebComponentsIcons.svg?ucel25#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?xy3ic1');
+  src:  url('fonts/WebComponentsIcons.eot?xy3ic1#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?xy3ic1') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?xy3ic1') format('woff'),
+    url('fonts/WebComponentsIcons.svg?xy3ic1#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -423,6 +423,9 @@
 }
 .k-i-divide:before {
   content: "\e14e";
+}
+.k-i-accessibility:before {
+  content: "\e14f";
 }
 .k-i-play:before {
   content: "\e200";

@@ -146,7 +146,8 @@
 				"not-equal",
 				"less-or-equal",
 				"greater-or-equal",
-				"divide"
+				"divide",
+				"accessibility"
 			]
 		},{
 			"name": "e200-media",
