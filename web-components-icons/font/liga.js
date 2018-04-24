@@ -427,7 +427,7 @@
             'apply-format': '&#xe666;',
             'clear-css': '&#xe667;',
             'copy-format': '&#xe668;',
-            'strip-all-formating': '&#xe669;',
+            'strip-all-formatting': '&#xe669;',
             'strip-css-format': '&#xe66a;',
             'strip-font-elements': '&#xe66b;',
             'strip-span-elements': '&#xe66c;',

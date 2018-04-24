@@ -4938,10 +4938,10 @@
           "code": 58984
         },
         {
-          "ligatures": "strip-all-formating",
+          "ligatures": "strip-all-formatting",
           "id": 105,
           "order": 106,
-          "name": "strip-all-formating",
+          "name": "strip-all-formatting",
           "code": 58985
         },
         {
@@ -6693,7 +6693,7 @@
           "tags": [
             "strip",
             "all",
-            "formating"
+            "formatting"
           ]
         },
         {
