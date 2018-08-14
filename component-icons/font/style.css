@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?7mzsml');
-  src:  url('fonts/widgets.eot?7mzsml#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?7mzsml') format('truetype'),
-    url('fonts/widgets.woff?7mzsml') format('woff'),
-    url('fonts/widgets.svg?7mzsml#widgets') format('svg');
+  src:  url('fonts/widgets.eot?skodnj');
+  src:  url('fonts/widgets.eot?skodnj#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?skodnj') format('truetype'),
+    url('fonts/widgets.woff?skodnj') format('woff'),
+    url('fonts/widgets.svg?skodnj#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -329,4 +329,13 @@
 }
 .i-dropdowntree:before {
   content: "\e908";
+}
+.i-daterangepicker:before {
+  content: "\e909";
+}
+.i-multiviewcalendar:before {
+  content: "\e90a";
+}
+.i-multicolumncombobox:before {
+  content: "\e90b";
 }
