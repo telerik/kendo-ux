@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?skodnj');
-  src:  url('fonts/widgets.eot?skodnj#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?skodnj') format('truetype'),
-    url('fonts/widgets.woff?skodnj') format('woff'),
-    url('fonts/widgets.svg?skodnj#widgets') format('svg');
+  src:  url('fonts/widgets.eot?dch2i');
+  src:  url('fonts/widgets.eot?dch2i#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?dch2i') format('truetype'),
+    url('fonts/widgets.woff?dch2i') format('woff'),
+    url('fonts/widgets.svg?dch2i#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -338,4 +338,7 @@
 }
 .i-multicolumncombobox:before {
   content: "\e90b";
+}
+.i-arcgauge:before {
+  content: "\e90c";
 }

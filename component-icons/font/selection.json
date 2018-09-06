@@ -37,7 +37,7 @@
         "name": "actionsheet"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 0
     },
     {
@@ -76,7 +76,7 @@
         "name": "application"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 1
     },
     {
@@ -115,7 +115,7 @@
         "name": "areacharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 2
     },
     {
@@ -154,7 +154,7 @@
         "name": "autocomplete"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 3
     },
     {
@@ -193,7 +193,7 @@
         "name": "barcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 4
     },
     {
@@ -232,7 +232,7 @@
         "name": "barcode"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 5
     },
     {
@@ -271,7 +271,7 @@
         "name": "boxplotcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 6
     },
     {
@@ -310,7 +310,7 @@
         "name": "bubblecharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 7
     },
     {
@@ -349,7 +349,7 @@
         "name": "bulletcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 8
     },
     {
@@ -388,7 +388,7 @@
         "name": "button"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 9
     },
     {
@@ -427,7 +427,7 @@
         "name": "buttongroup"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 10
     },
     {
@@ -466,7 +466,7 @@
         "name": "calendar"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 11
     },
     {
@@ -505,7 +505,7 @@
         "name": "colorpicker"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 12
     },
     {
@@ -544,7 +544,7 @@
         "name": "datasource"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 13
     },
     {
@@ -583,7 +583,7 @@
         "name": "datepicker"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 14
     },
     {
@@ -622,7 +622,7 @@
         "name": "diagram"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 15
     },
     {
@@ -661,7 +661,7 @@
         "name": "donutcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 16
     },
     {
@@ -700,7 +700,7 @@
         "name": "draganddrop"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 17
     },
     {
@@ -728,7 +728,7 @@
         "name": "drawer"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 18
     },
     {
@@ -767,7 +767,7 @@
         "name": "dropdownlist"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 19
     },
     {
@@ -806,7 +806,7 @@
         "name": "editor"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 20
     },
     {
@@ -845,7 +845,7 @@
         "name": "effects"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 21
     },
     {
@@ -884,7 +884,7 @@
         "name": "funnelcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 22
     },
     {
@@ -923,7 +923,7 @@
         "name": "globalization"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 23
     },
     {
@@ -962,7 +962,7 @@
         "name": "grid"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 24
     },
     {
@@ -1001,7 +1001,7 @@
         "name": "layout"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 25
     },
     {
@@ -1040,7 +1040,7 @@
         "name": "lineargauge"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 26
     },
     {
@@ -1079,7 +1079,7 @@
         "name": "linecharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 27
     },
     {
@@ -1118,7 +1118,7 @@
         "name": "listview"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 28
     },
     {
@@ -1157,7 +1157,7 @@
         "name": "map"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 29
     },
     {
@@ -1196,7 +1196,7 @@
         "name": "maskedtextbox"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 30
     },
     {
@@ -1235,7 +1235,7 @@
         "name": "menu"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 31
     },
     {
@@ -1274,7 +1274,7 @@
         "name": "modalview"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 32
     },
     {
@@ -1313,7 +1313,7 @@
         "name": "multiselect"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 33
     },
     {
@@ -1352,7 +1352,7 @@
         "name": "mvvm"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 34
     },
     {
@@ -1391,7 +1391,7 @@
         "name": "navbar"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 35
     },
     {
@@ -1430,7 +1430,7 @@
         "name": "notification"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 36
     },
     {
@@ -1469,7 +1469,7 @@
         "name": "numerictextbox"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 37
     },
     {
@@ -1508,7 +1508,7 @@
         "name": "panelbar"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 38
     },
     {
@@ -1547,7 +1547,7 @@
         "name": "piecharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 39
     },
     {
@@ -1586,7 +1586,7 @@
         "name": "polarcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 40
     },
     {
@@ -1625,7 +1625,7 @@
         "name": "popover"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 41
     },
     {
@@ -1664,7 +1664,7 @@
         "name": "progressbar"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 42
     },
     {
@@ -1703,7 +1703,7 @@
         "name": "qrcode"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 43
     },
     {
@@ -1742,7 +1742,7 @@
         "name": "radarcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 44
     },
     {
@@ -1781,7 +1781,7 @@
         "name": "radialgauge"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 45
     },
     {
@@ -1820,7 +1820,7 @@
         "name": "scattercharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 46
     },
     {
@@ -1859,7 +1859,7 @@
         "name": "scheduler"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 47
     },
     {
@@ -1898,7 +1898,7 @@
         "name": "scroller"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 48
     },
     {
@@ -1937,7 +1937,7 @@
         "name": "scrollview"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 49
     },
     {
@@ -1976,7 +1976,7 @@
         "name": "singlepageapp"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 50
     },
     {
@@ -2015,7 +2015,7 @@
         "name": "slider"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 51
     },
     {
@@ -2054,7 +2054,7 @@
         "name": "sortable"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 52
     },
     {
@@ -2093,7 +2093,7 @@
         "name": "sparklines"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 53
     },
     {
@@ -2132,7 +2132,7 @@
         "name": "splitter"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 54
     },
     {
@@ -2171,7 +2171,7 @@
         "name": "splitview"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 55
     },
     {
@@ -2210,7 +2210,7 @@
         "name": "stockchart"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 56
     },
     {
@@ -2249,7 +2249,7 @@
         "name": "switch"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 57
     },
     {
@@ -2288,7 +2288,7 @@
         "name": "tabstrip"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 58
     },
     {
@@ -2327,7 +2327,7 @@
         "name": "tabstrip-mobile"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 59
     },
     {
@@ -2366,7 +2366,7 @@
         "name": "templates"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 60
     },
     {
@@ -2405,7 +2405,7 @@
         "name": "timepicker"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 61
     },
     {
@@ -2444,7 +2444,7 @@
         "name": "tooltip"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 62
     },
     {
@@ -2483,7 +2483,7 @@
         "name": "treeview"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 63
     },
     {
@@ -2522,7 +2522,7 @@
         "name": "upload"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 64
     },
     {
@@ -2561,7 +2561,7 @@
         "name": "validator"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 65
     },
     {
@@ -2600,7 +2600,7 @@
         "name": "window"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 66
     },
     {
@@ -2639,7 +2639,7 @@
         "name": "gantt"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 67
     },
     {
@@ -2678,7 +2678,7 @@
         "name": "pivotgrid"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 68
     },
     {
@@ -2717,7 +2717,7 @@
         "name": "treemap"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 69
     },
     {
@@ -2756,7 +2756,7 @@
         "name": "rangebarcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 70
     },
     {
@@ -2795,7 +2795,7 @@
         "name": "waterfallcharts"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 71
     },
     {
@@ -2834,7 +2834,7 @@
         "name": "combobox"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 72
     },
     {
@@ -2873,7 +2873,7 @@
         "name": "responsivepanel"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 73
     },
     {
@@ -2912,7 +2912,7 @@
         "name": "collapsible"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 74
     },
     {
@@ -2940,7 +2940,7 @@
         "name": "spreadsheet"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 75
     },
     {
@@ -2968,7 +2968,7 @@
         "name": "wordprocessing"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 76
     },
     {
@@ -2996,7 +2996,7 @@
         "name": "spreadprocessing"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 77
     },
     {
@@ -3024,7 +3024,7 @@
         "name": "pdf"
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 78
     },
     {
@@ -3052,7 +3052,7 @@
         "code": 59471
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 79
     },
     {
@@ -3080,7 +3080,7 @@
         "code": 59472
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 80
     },
     {
@@ -3108,7 +3108,7 @@
         "code": 59473
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 81
     },
     {
@@ -3136,7 +3136,7 @@
         "code": 59474
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 82
     },
     {
@@ -3164,7 +3164,7 @@
         "code": 59475
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 83
     },
     {
@@ -3192,7 +3192,7 @@
         "code": 59476
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 84
     },
     {
@@ -3220,7 +3220,7 @@
         "code": 59477
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 85
     },
     {
@@ -3259,7 +3259,7 @@
         "code": 59478
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 86
     },
     {
@@ -3287,7 +3287,7 @@
         "code": 59479
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 87
     },
     {
@@ -3320,7 +3320,7 @@
         "code": 59480
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 88
     },
     {
@@ -3348,7 +3348,7 @@
         "code": 59481
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 89
     },
     {
@@ -3376,7 +3376,7 @@
         "code": 59482
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 90
     },
     {
@@ -3404,7 +3404,7 @@
         "code": 59483
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 91
     },
     {
@@ -3432,7 +3432,7 @@
         "code": 59484
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 92
     },
     {
@@ -3460,7 +3460,7 @@
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 93
     },
     {
@@ -3488,7 +3488,7 @@
         "code": 59649
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 94
     },
     {
@@ -3516,7 +3516,7 @@
         "code": 59650
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 95
     },
     {
@@ -3544,7 +3544,7 @@
         "code": 59651
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 96
     },
     {
@@ -3572,7 +3572,7 @@
         "code": 59652
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 97
     },
     {
@@ -3600,7 +3600,7 @@
         "code": 59653
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 98
     },
     {
@@ -3628,7 +3628,7 @@
         "code": 59654
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 99
     },
     {
@@ -3656,7 +3656,7 @@
         "code": 59655
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 100
     },
     {
@@ -3684,7 +3684,7 @@
         "code": 59656
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 101
     },
     {
@@ -3695,22 +3695,22 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 24,
+        "colorPermutations": {},
         "tags": [
           "daterangepicker"
         ],
-        "colorPermutations": {}
+        "grid": 24
       },
       "attrs": [],
       "properties": {
         "order": 129,
-        "id": 104,
+        "id": 102,
         "name": "daterangepicker",
         "prevSize": 24,
         "code": 59657
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 102
     },
     {
@@ -3721,22 +3721,22 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 24,
+        "colorPermutations": {},
         "tags": [
           "multiviewcalendar"
         ],
-        "colorPermutations": {}
+        "grid": 24
       },
       "attrs": [],
       "properties": {
         "order": 131,
-        "id": 102,
+        "id": 103,
         "name": "multiviewcalendar",
         "prevSize": 24,
         "code": 59658
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 103
     },
     {
@@ -3747,23 +3747,49 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "grid": 24,
+        "colorPermutations": {},
         "tags": [
           "multicolumncombobox"
         ],
-        "colorPermutations": {}
+        "grid": 24
       },
       "attrs": [],
       "properties": {
         "order": 132,
-        "id": 103,
+        "id": 104,
         "name": "multicolumncombobox",
         "prevSize": 24,
         "code": 59659
       },
       "setIdx": 0,
-      "setId": 2,
+      "setId": 4,
       "iconIdx": 104
+    },
+    {
+      "icon": {
+        "paths": [
+          "M597.333 469.333l-85.333 85.333v170.667l85.333 85.333h85.333l85.333-85.333v-170.667l-85.333-85.333h-85.333zM682.667 725.333h-85.333v-170.667h85.333v170.667zM256 469.333h213.333v85.333l-85.333 256h-85.333l76.8-256h-119.467v-85.333zM913.067 409.6l-59.733 59.733c-76.8-102.4-200.533-170.667-341.333-170.667-234.667 0-426.667 192-426.667 426.667 0 21.333 0 42.667 4.267 64l-81.067 21.333c-4.267-25.6-8.533-55.467-8.533-85.333 0-281.6 230.4-512 512-512 162.133 0 307.2 76.8 401.067 196.267zM1024 725.333c0 29.867-4.267 59.733-8.533 85.333l-81.067-21.333c4.267-21.333 4.267-42.667 4.267-64 0-64-12.8-123.733-38.4-179.2l64-64c38.4 72.533 59.733 153.6 59.733 243.2z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 24,
+        "tags": [
+          "arcgauge"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 135,
+        "id": 105,
+        "name": "arcgauge",
+        "prevSize": 24,
+        "code": 59660
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 105
     }
   ],
   "height": 1024,
