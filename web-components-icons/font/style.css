@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?3b3ubo');
-  src:  url('fonts/WebComponentsIcons.eot?3b3ubo#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?3b3ubo') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?3b3ubo') format('woff'),
-    url('fonts/WebComponentsIcons.svg?3b3ubo#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?ws9txh');
+  src:  url('fonts/WebComponentsIcons.eot?ws9txh#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?ws9txh') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?ws9txh') format('woff'),
+    url('fonts/WebComponentsIcons.svg?ws9txh#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -427,6 +427,30 @@
 .k-i-accessibility:before {
   content: "\e14f";
 }
+.k-i-barcode-outline:before {
+  content: "\e150";
+}
+.k-i-barcode:before {
+  content: "\e151";
+}
+.k-i-barcode-scanner:before {
+  content: "\e152";
+}
+.k-i-qr-code-outline:before {
+  content: "\e153";
+}
+.k-i-qr-code:before {
+  content: "\e154";
+}
+.k-i-qr-code-scanner:before {
+  content: "\e155";
+}
+.k-i-barcode-qr-code-scanner:before {
+  content: "\e156";
+}
+.k-i-signature:before {
+  content: "\e157";
+}
 .k-i-play:before {
   content: "\e200";
 }
@@ -645,6 +669,9 @@
 }
 .k-i-reset-color:before {
   content: "\e52a";
+}
+.k-i-images:before {
+  content: "\e52b";
 }
 .k-i-page-properties:before {
   content: "\e600";

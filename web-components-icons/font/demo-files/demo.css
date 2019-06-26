@@ -46,7 +46,7 @@ input:focus {
 }
 .glyph {
   font-size: 16px;
-  width: 15em;
+  width: 18em;
   padding-bottom: 1em;
   margin-right: 4em;
   margin-bottom: 1em;
@@ -147,6 +147,6 @@ p {
   font-size: 16px;
 }
 .fs1 {
-  font-size: 32px;
+  font-size: 16px;
 }
 

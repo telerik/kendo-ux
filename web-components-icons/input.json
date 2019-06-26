@@ -147,7 +147,15 @@
 				"less-or-equal",
 				"greater-or-equal",
 				"divide",
-				"accessibility"
+				"accessibility",
+				"barcode-outline",
+				"barcode",
+				"barcode-scanner",
+				"qr-code-outline",
+				"qr-code",
+				"qr-code-scanner",
+				"barcode-qr-code-scanner",
+				"signature"
 			]
 		},{
 			"name": "e200-media",
@@ -240,7 +248,8 @@
 				"thumbnails-left",
 				"full-screen|fullscreen",
 				"full-screen-exit|fullscreen-exit",
-				"reset-color|paint-remove|background-remove"
+				"reset-color|paint-remove|background-remove",
+				"images|photos|gallery"
 			]
 		},{
 			"name": "e600-editor",
