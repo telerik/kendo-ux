@@ -152,6 +152,8 @@
 		'k-i-qr-code-scanner': '&#xe155;',
 		'k-i-barcode-qr-code-scanner': '&#xe156;',
 		'k-i-signature': '&#xe157;',
+		'k-i-hand': '&#xe158;',
+		'k-i-cursor': '&#xe159;',
 		'k-i-play': '&#xe200;',
 		'k-i-pause': '&#xe201;',
 		'k-i-stop': '&#xe202;',

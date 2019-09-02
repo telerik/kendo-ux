@@ -1,12 +1,13 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?ws9txh');
-  src:  url('fonts/WebComponentsIcons.eot?ws9txh#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?ws9txh') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?ws9txh') format('woff'),
-    url('fonts/WebComponentsIcons.svg?ws9txh#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?5pp68e');
+  src:  url('fonts/WebComponentsIcons.eot?5pp68e#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?5pp68e') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?5pp68e') format('woff'),
+    url('fonts/WebComponentsIcons.svg?5pp68e#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="k-i"], [class*=" k-i"] {
@@ -450,6 +451,12 @@
 }
 .k-i-signature:before {
   content: "\e157";
+}
+.k-i-hand:before {
+  content: "\e158";
+}
+.k-i-cursor:before {
+  content: "\e159";
 }
 .k-i-play:before {
   content: "\e200";
