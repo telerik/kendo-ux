@@ -1,12 +1,13 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?4dphm2');
-  src:  url('fonts/widgets.eot?4dphm2#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?4dphm2') format('truetype'),
-    url('fonts/widgets.woff?4dphm2') format('woff'),
-    url('fonts/widgets.svg?4dphm2#widgets') format('svg');
+  src:  url('fonts/widgets.eot?wbl5mw');
+  src:  url('fonts/widgets.eot?wbl5mw#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?wbl5mw') format('truetype'),
+    url('fonts/widgets.woff?wbl5mw') format('woff'),
+    url('fonts/widgets.svg?wbl5mw#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="i-"], [class*=" i-"] {
@@ -344,4 +345,16 @@
 }
 .i-pdfviewer:before {
   content: "\e90d";
+}
+.i-rating:before {
+  content: "\e90e";
+}
+.i-filter:before {
+  content: "\e90f";
+}
+.i-timeline:before {
+  content: "\e910";
+}
+.i-chunkprogressbar:before {
+  content: "\e911";
 }
