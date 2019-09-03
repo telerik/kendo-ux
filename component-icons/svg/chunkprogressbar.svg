@@ -3,9 +3,17 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#818181;}
+	.st0{fill:#808080;}
 </style>
-<path id="Progress_Bar_1_" class="st0" d="M21.2,5.6h-1.8V3.8H23L21.2,5.6z M17.5,2.8h-7.3v3.7h7.3V2.8z M8.3,2.8H1v3.7h7.3V2.8z
-	 M23,18.4h-9.2v1.8h7.3L23,18.4z M12,17.5H6.5v3.7H12V17.5z M4.7,17.5H1v3.7h3.7V17.5z M12.9,11.1H6.5v1.8h6.4V11.1z M23,11.1h-8.2
-	v1.8h6.3L23,11.1z M4.7,10.2H1v3.7h3.7V10.2z"/>
+<g>
+	<polygon class="st0" points="24,3 20,3 20,5 22,5 	"/>
+	<rect x="10" y="2" class="st0" width="8" height="4"/>
+	<rect y="2" class="st0" width="8" height="4"/>
+	<polygon class="st0" points="14,21 22,21 24,19 14,19 	"/>
+	<rect x="7" y="18" class="st0" width="5" height="4"/>
+	<rect y="18" class="st0" width="5" height="4"/>
+	<rect x="6" y="11" class="st0" width="7" height="2"/>
+	<polygon class="st0" points="15,13 21.9,13 24,11 15,11 	"/>
+	<rect y="10" class="st0" width="4" height="4"/>
+</g>
 </svg>
