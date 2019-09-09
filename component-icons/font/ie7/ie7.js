@@ -124,6 +124,7 @@
 		'i-filter': '&#xe90f;',
 		'i-timeline': '&#xe910;',
 		'i-chunkprogressbar': '&#xe911;',
+		'i-cards': '&#xe912;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

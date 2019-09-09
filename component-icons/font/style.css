@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?i7axcm');
-  src:  url('fonts/widgets.eot?i7axcm#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?i7axcm') format('truetype'),
-    url('fonts/widgets.woff?i7axcm') format('woff'),
-    url('fonts/widgets.svg?i7axcm#widgets') format('svg');
+  src:  url('fonts/widgets.eot?au038r');
+  src:  url('fonts/widgets.eot?au038r#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?au038r') format('truetype'),
+    url('fonts/widgets.woff?au038r') format('woff'),
+    url('fonts/widgets.svg?au038r#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -357,4 +357,7 @@
 }
 .i-chunkprogressbar:before {
   content: "\e911";
+}
+.i-cards:before {
+  content: "\e912";
 }
