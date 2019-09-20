@@ -643,6 +643,60 @@
 .k-i-images {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe52b;');
 }
+.k-i-align-to-grid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe52c;');
+}
+.k-i-size-to-grid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe52d;');
+}
+.k-i-make-same-size {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe52e;');
+}
+.k-i-make-same-width {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe52f;');
+}
+.k-i-make-same-height {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe530;');
+}
+.k-i-make-horizontal-spacing-equal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe531;');
+}
+.k-i-increase-horizontal-spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe532;');
+}
+.k-i-decrease-horizontal-spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe533;');
+}
+.k-i-remove-horizontal-spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe534;');
+}
+.k-i-make-vertical-spacing-equal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe535;');
+}
+.k-i-increase-vertical-spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe536;');
+}
+.k-i-decrease-vertical-spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe537;');
+}
+.k-i-remove-vertical-spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe538;');
+}
+.k-i-eyedropper {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe539;');
+}
+.k-i-snap-grid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe53a;');
+}
+.k-i-snap-to-gridlines {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe53b;');
+}
+.k-i-snap-to-snaplines {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe53c;');
+}
+.k-i-dimentions {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe53d;');
+}
 .k-i-page-properties {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe600;');
 }
@@ -1108,6 +1162,15 @@
 .k-i-image-absolute-position {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69a;');
 }
+.k-i-wizard-table {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69b;');
+}
+.k-i-crosstab {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69c;');
+}
+.k-i-wizard-crosstab {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69d;');
+}
 .k-i-globe-outline {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe700;');
 }
@@ -1365,5 +1428,44 @@
 }
 .k-i-file-horizontal {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe922;');
+}
+.k-i-subreport {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe923;');
+}
+.k-i-data {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe924;');
+}
+.k-i-report-header-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe925;');
+}
+.k-i-report-footer-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe926;');
+}
+.k-i-group-header-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe927;');
+}
+.k-i-group-footer-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
+}
+.k-i-page-header-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
+}
+.k-i-page-footer-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
+}
+.k-i-detail-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
+}
+.k-i-toc-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;');
+}
+.k-i-group-section {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92d;');
+}
+.k-i-parameters {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92e;');
+}
+.k-i-graph {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;');
 }
 
