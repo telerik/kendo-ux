@@ -125,6 +125,7 @@
 		'i-timeline': '&#xe910;',
 		'i-chunkprogressbar': '&#xe911;',
 		'i-cards': '&#xe912;',
+		'i-animationcontainer': '&#xe913;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
