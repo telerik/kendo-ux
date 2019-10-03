@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?tp7a40');
-  src:  url('fonts/WebComponentsIcons.eot?tp7a40#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?tp7a40') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?tp7a40') format('woff'),
-    url('fonts/WebComponentsIcons.svg?tp7a40#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?iy5auk');
+  src:  url('fonts/WebComponentsIcons.eot?iy5auk#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?iy5auk') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?iy5auk') format('woff'),
+    url('fonts/WebComponentsIcons.svg?iy5auk#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1504,4 +1504,103 @@
 }
 .k-i-graph:before {
   content: "\ea00";
+}
+.k-i-column-clustered:before {
+  content: "\ea01";
+}
+.k-i-column-stacked:before {
+  content: "\ea02";
+}
+.k-i-column-stacked100:before {
+  content: "\ea03";
+}
+.k-i-column-range:before {
+  content: "\ea04";
+}
+.k-i-bar-clustered:before {
+  content: "\ea05";
+}
+.k-i-bar-stacked:before {
+  content: "\ea06";
+}
+.k-i-bar-stacked100:before {
+  content: "\ea07";
+}
+.k-i-bar-range:before {
+  content: "\ea08";
+}
+.k-i-area-clustered:before {
+  content: "\ea09";
+}
+.k-i-area-stacked:before {
+  content: "\ea0a";
+}
+.k-i-area-stacked100:before {
+  content: "\ea0b";
+}
+.k-i-area-range:before {
+  content: "\ea0c";
+}
+.k-i-line1:before {
+  content: "\ea0d";
+}
+.k-i-line-stacked:before {
+  content: "\ea0e";
+}
+.k-i-line-stacked100:before {
+  content: "\ea0f";
+}
+.k-i-line-markers:before {
+  content: "\ea10";
+}
+.k-i-line-stacked-markers:before {
+  content: "\ea11";
+}
+.k-i-line-stacked100-markers:before {
+  content: "\ea12";
+}
+.k-i-pie:before {
+  content: "\ea13";
+}
+.k-i-doughnut:before {
+  content: "\ea14";
+}
+.k-i-scatter:before {
+  content: "\ea15";
+}
+.k-i-scatter-smooth-lines-markers:before {
+  content: "\ea16";
+}
+.k-i-scatter-smooth-lines:before {
+  content: "\ea17";
+}
+.k-i-scatter-straight-lines-markers:before {
+  content: "\ea18";
+}
+.k-i-scatter-straight-lines:before {
+  content: "\ea19";
+}
+.k-i-bubble:before {
+  content: "\ea1a";
+}
+.k-i-candle-stick:before {
+  content: "\ea1b";
+}
+.k-i-bar:before {
+  content: "\ea1c";
+}
+.k-i-radar:before {
+  content: "\ea1d";
+}
+.k-i-radar-markers:before {
+  content: "\ea1e";
+}
+.k-i-radar-filled:before {
+  content: "\ea1f";
+}
+.k-i-rose:before {
+  content: "\ea20";
+}
+.k-i-choropleth:before {
+  content: "\ea21";
 }
