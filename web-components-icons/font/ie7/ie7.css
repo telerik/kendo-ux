@@ -151,6 +151,9 @@
 .k-i-more-horizontal {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe032;');
 }
+.k-i-overlap {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe033;');
+}
 .k-i-undo {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe100;');
 }
@@ -1171,6 +1174,18 @@
 .k-i-wizard-crosstab {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69d;');
 }
+.k-i-table-body {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69e;');
+}
+.k-i-table-column-groups {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69f;');
+}
+.k-i-table-corner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6a0;');
+}
+.k-i-table-row-groups {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6a1;');
+}
 .k-i-globe-outline {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe700;');
 }
@@ -1464,6 +1479,42 @@
 }
 .k-i-parameters {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92e;');
+}
+.k-i-data-csv {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92f;');
+}
+.k-i-data-json {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe930;');
+}
+.k-i-data-sql {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe931;');
+}
+.k-i-data-web {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe932;');
+}
+.k-i-group-collection {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe933;');
+}
+.k-i-parameter-boolean {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe934;');
+}
+.k-i-parameter-date-time {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe935;');
+}
+.k-i-parameter-float {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe936;');
+}
+.k-i-parameter-integer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe937;');
+}
+.k-i-parameter-string {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe938;');
+}
+.k-i-toc-section-level {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe939;');
+}
+.k-i-inherited {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93a;');
 }
 .k-i-graph {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;');
