@@ -126,6 +126,7 @@
 		'i-chunkprogressbar': '&#xe911;',
 		'i-cards': '&#xe912;',
 		'i-animationcontainer': '&#xe913;',
+		'i-breadcrumbs': '&#xe914;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
