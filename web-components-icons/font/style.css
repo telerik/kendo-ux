@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?21aomr');
-  src:  url('fonts/WebComponentsIcons.eot?21aomr#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?21aomr') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?21aomr') format('woff'),
-    url('fonts/WebComponentsIcons.svg?21aomr#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?u66j3z');
+  src:  url('fonts/WebComponentsIcons.eot?u66j3z#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?u66j3z') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?u66j3z') format('woff'),
+    url('fonts/WebComponentsIcons.svg?u66j3z#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -190,6 +190,9 @@
 }
 .k-i-overlap:before {
   content: "\e033";
+}
+.k-i-home:before {
+  content: "\e034";
 }
 .k-i-undo:before {
   content: "\e100";

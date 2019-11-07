@@ -154,6 +154,9 @@
 .k-i-overlap {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe033;');
 }
+.k-i-home {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe034;');
+}
 .k-i-undo {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe100;');
 }

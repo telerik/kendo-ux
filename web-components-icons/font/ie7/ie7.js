@@ -65,6 +65,7 @@
 		'k-i-more-vertical': '&#xe031;',
 		'k-i-more-horizontal': '&#xe032;',
 		'k-i-overlap': '&#xe033;',
+		'k-i-home': '&#xe034;',
 		'k-i-undo': '&#xe100;',
 		'k-i-redo': '&#xe101;',
 		'k-i-reset': '&#xe102;',

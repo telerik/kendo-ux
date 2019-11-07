@@ -104,6 +104,8 @@
             'more-vertical': '&#xe031;',
             'more-horizontal': '&#xe032;',
             'overlap': '&#xe033;',
+            'home': '&#xe034;',
+            'root': '&#xe034;',
             'undo': '&#xe100;',
             'redo': '&#xe101;',
             'reset': '&#xe102;',
