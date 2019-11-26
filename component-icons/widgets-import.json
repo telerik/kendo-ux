@@ -2,7 +2,7 @@
   "metadata": {
     "name": "widgets",
     "lastOpened": 0,
-    "created": 1574672495403
+    "created": 1574758497506
   },
   "iconSets": [
     {
@@ -1304,6 +1304,18 @@
           "tags": [
             "checkbox"
           ]
+        },
+        {
+          "id": 119,
+          "paths": [
+            "M768 426.667v426.667h-682.667v-640h341.333v85.333h-256v469.333h512v-341.333z",
+            "M981.333 170.667l-170.667 170.667h-298.667v-170.667z"
+          ],
+          "attrs": [],
+          "grid": 24,
+          "tags": [
+            "badge"
+          ]
         }
       ],
       "height": 1024,
@@ -2289,6 +2301,14 @@
           "prevSize": 24,
           "code": 59670,
           "tempChar": ""
+        },
+        {
+          "order": 385,
+          "id": 118,
+          "name": "badge",
+          "prevSize": 24,
+          "code": 59671,
+          "tempChar": ""
         }
       ],
       "prevSize": 24,

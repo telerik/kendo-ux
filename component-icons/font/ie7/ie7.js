@@ -129,6 +129,7 @@
 		'i-breadcrumbs': '&#xe914;',
 		'i-radiobutton': '&#xe915;',
 		'i-checkbox': '&#xe916;',
+		'i-badge': '&#xe917;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
