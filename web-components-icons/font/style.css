@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?u66j3z');
-  src:  url('fonts/WebComponentsIcons.eot?u66j3z#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?u66j3z') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?u66j3z') format('woff'),
-    url('fonts/WebComponentsIcons.svg?u66j3z#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?cjheun');
+  src:  url('fonts/WebComponentsIcons.eot?cjheun#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?cjheun') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?cjheun') format('woff'),
+    url('fonts/WebComponentsIcons.svg?cjheun#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1555,6 +1555,27 @@
 }
 .k-i-inherited:before {
   content: "\e93a";
+}
+.k-i-file-video:before {
+  content: "\e93b";
+}
+.k-i-file-audio:before {
+  content: "\e93c";
+}
+.k-i-file-image:before {
+  content: "\e93d";
+}
+.k-i-file-presentation:before {
+  content: "\e93e";
+}
+.k-i-file-data:before {
+  content: "\e93f";
+}
+.k-i-file-disc-image:before {
+  content: "\e940";
+}
+.k-i-file-programming:before {
+  content: "\e941";
 }
 .k-i-graph:before {
   content: "\ea00";
