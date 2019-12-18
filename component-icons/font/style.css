@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?8hcxs5');
-  src:  url('fonts/widgets.eot?8hcxs5#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?8hcxs5') format('truetype'),
-    url('fonts/widgets.woff?8hcxs5') format('woff'),
-    url('fonts/widgets.svg?8hcxs5#widgets') format('svg');
+  src:  url('fonts/widgets.eot?mh1b27');
+  src:  url('fonts/widgets.eot?mh1b27#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?mh1b27') format('truetype'),
+    url('fonts/widgets.woff?mh1b27') format('woff'),
+    url('fonts/widgets.svg?mh1b27#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -375,4 +375,7 @@
 }
 .i-badge:before {
   content: "\e917";
+}
+.i-filemanager:before {
+  content: "\e918";
 }

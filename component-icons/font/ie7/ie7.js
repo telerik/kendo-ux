@@ -130,6 +130,7 @@
 		'i-radiobutton': '&#xe915;',
 		'i-checkbox': '&#xe916;',
 		'i-badge': '&#xe917;',
+		'i-filemanager': '&#xe918;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
