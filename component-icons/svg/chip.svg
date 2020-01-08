@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+    </style>
+  </defs>
+  <title>chip</title>
+  <path class="cls-1" d="M16,11H7v2h7ZM3,7V17H20V7Zm15,8H5V9H18Z"/>
+</svg>

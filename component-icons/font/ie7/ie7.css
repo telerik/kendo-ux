@@ -352,4 +352,19 @@
 .i-filemanager {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe918;');
 }
+.i-floatinglabel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
+}
+.i-fileselect {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
+}
+.i-chip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe919;');
+}
+.i-chiplist {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91a;');
+}
+.i-avatar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91b;');
+}
 

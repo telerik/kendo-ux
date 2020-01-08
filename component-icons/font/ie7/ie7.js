@@ -131,6 +131,11 @@
 		'i-checkbox': '&#xe916;',
 		'i-badge': '&#xe917;',
 		'i-filemanager': '&#xe918;',
+		'i-floatinglabel': '&#xe91c;',
+		'i-fileselect': '&#xe91d;',
+		'i-chip': '&#xe919;',
+		'i-chiplist': '&#xe91a;',
+		'i-avatar': '&#xe91b;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

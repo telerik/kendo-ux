@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?mh1b27');
-  src:  url('fonts/widgets.eot?mh1b27#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?mh1b27') format('truetype'),
-    url('fonts/widgets.woff?mh1b27') format('woff'),
-    url('fonts/widgets.svg?mh1b27#widgets') format('svg');
+  src:  url('fonts/widgets.eot?lwgbw5');
+  src:  url('fonts/widgets.eot?lwgbw5#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?lwgbw5') format('truetype'),
+    url('fonts/widgets.woff?lwgbw5') format('woff'),
+    url('fonts/widgets.svg?lwgbw5#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -378,4 +378,19 @@
 }
 .i-filemanager:before {
   content: "\e918";
+}
+.i-floatinglabel:before {
+  content: "\e91c";
+}
+.i-fileselect:before {
+  content: "\e91d";
+}
+.i-chip:before {
+  content: "\e919";
+}
+.i-chiplist:before {
+  content: "\e91a";
+}
+.i-avatar:before {
+  content: "\e91b";
 }
