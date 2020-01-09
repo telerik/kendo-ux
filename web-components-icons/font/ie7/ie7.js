@@ -527,6 +527,8 @@
 		'k-i-file-data': '&#xe93f;',
 		'k-i-file-disc-image': '&#xe940;',
 		'k-i-file-programming': '&#xe941;',
+		'k-i-parameters-byte-array': '&#xe942;',
+		'k-i-parameters-unknown': '&#xe943;',
 		'k-i-graph': '&#xea00;',
 		'k-i-column-clustered': '&#xea01;',
 		'k-i-column-stacked': '&#xea02;',

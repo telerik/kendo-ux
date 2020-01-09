@@ -1540,6 +1540,12 @@
 .k-i-file-programming {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe941;');
 }
+.k-i-parameters-byte-array {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe942;');
+}
+.k-i-parameters-unknown {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe943;');
+}
 .k-i-graph {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;');
 }
