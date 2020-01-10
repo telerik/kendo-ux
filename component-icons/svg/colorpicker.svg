@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<path fill="#818181" d="M12,0c0,0-9,8-9,15c0,4.971,4.029,9,9,9c4.971,0,9-4.029,9-9C21,8,12,0,12,0z M12,22c-3.866,0-7-3.134-7-7
-	c0-6,7-12.292,7-12.292S19,9,19,15C19,18.866,15.866,22,12,22z M11,17v2c2.762,0,5-2.238,5-5h-2C14,15.657,12.657,17,11,17z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+    </style>
+  </defs>
+  <title>colorpicker</title>
+  <path class="cls-1" d="M11,17v2a5,5,0,0,0,5-5H14A3,3,0,0,1,11,17ZM12,0S3,8,3,15a9,9,0,0,0,18,0C21,8,12,0,12,0Zm0,22a7,7,0,0,1-7-7C5,9,12,2.71,12,2.71S19,9,19,15A7,7,0,0,1,12,22Z"/>
 </svg>

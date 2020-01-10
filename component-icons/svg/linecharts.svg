@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<path fill="#818181" d="M0,22h24v2H0V22z M12,10.172l-4,4l-8-8V9l8,8l4-4l6,6l6-6v-2.828l-6,6L12,10.172z M17,9.172l-5-5
-	L6.414,9.758l1.414,1.414L12,7l5,5l7-7V2.172L17,9.172z M2.172,14L0,16.172V19l3.586-3.586L2.172,14z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+    </style>
+  </defs>
+  <title>linecharts</title>
+  <path class="cls-1" d="M2.17,12.91,0,15.09v2.82l3.59-3.58ZM0,22.91H24v-2H0ZM12,9.09l-4,4-8-8V7.91l8,8,4-4,6,6,6-6V9.09l-6,6Zm5-1-5-5L6.41,8.67l1.42,1.42L12,5.91l5,5,7-7V1.09Z"/>
 </svg>

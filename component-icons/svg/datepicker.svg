@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<path fill="#818181" d="M10,7h3v3h-3V7z M14,7h3v3h-3V7z M6,11h3v3H6V11z M10,11h3v3h-3V11z M14,11h3v3h-3V11z M6,15h3v3H6V15z
-	 M10,15h3v3h-3V15z M19,19.172L16.172,22H4V4H2v20h2h13l4-4V4h-2V19.172z M0,0v2h22l2-2H0z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+    </style>
+  </defs>
+  <title>datepicker</title>
+  <path class="cls-1" d="M6,20H9V17H6ZM13,5H10V8h3ZM9,9H6v3H9ZM6,16H9V13H6Zm13,3.17L16.17,22H4V4H2V24H17l4-4h0V4H19ZM10,12h3V9H10Zm7-7H14V8h3ZM10,16h3V13H10ZM0,0V2H22l2-2ZM14,16h3V13H14Zm0-4h3V9H14Zm-4,8h3V17H10Z"/>
 </svg>

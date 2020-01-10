@@ -7,5 +7,5 @@
     </style>
   </defs>
   <title>chiplist</title>
-  <path class="cls-1" d="M1,16H11V8H1Zm2-6H9v4H3Zm1,3H6l2-2H4Zm9-5v8H23V8Zm8,6H15V10h6Zm-1-3H16v2h2Z"/>
+  <path class="cls-1" d="M13,7V17H24V7Zm9,8H15V9h7Zm-1-4H17v2h2ZM4,13H6l2-2H4ZM0,17H11V7H0ZM2,9H9v6H2Z"/>
 </svg>

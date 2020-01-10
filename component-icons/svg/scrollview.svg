@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<path fill="#808080" d="M2,3v14h20V3H2z M20,15H4V5h16V15z M16,9H6V7h12L16,9z M15,19h2v2h-2V19z M6,13v-2h8l-2,2H6z M11,19h2v2h-2
-	V19z M7,19h2v2H7V19z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+    </style>
+  </defs>
+  <title>scrollview</title>
+  <path class="cls-1" d="M7,21H9V19H7Zm8,0h2V19H15Zm-4,0h2V19H11ZM0,3V17H24V3ZM22,15H2V5H22ZM18,7H6V9H16Zm-4,4H6v2h6Z"/>
 </svg>
