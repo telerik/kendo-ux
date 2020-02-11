@@ -2,7 +2,7 @@
   "metadata": {
     "name": "WebComponentsIcons",
     "lastOpened": 0,
-    "created": 1578554563733,
+    "created": 1581412983898,
     "url": "http://www.telerik.com",
     "designer": "Telerik, A Progress Company",
     "designerURL": "http://www.telerik.com",
@@ -10724,6 +10724,24 @@
           "code": 59715,
           "tempChar": "",
           "ligatures": "parameters-unknown"
+        },
+        {
+          "order": 3673,
+          "id": 68,
+          "name": "file-error",
+          "prevSize": 32,
+          "code": 59716,
+          "tempChar": "",
+          "ligatures": "file-error, file-validation"
+        },
+        {
+          "order": 3674,
+          "id": 69,
+          "name": "files-error",
+          "prevSize": 32,
+          "code": 59717,
+          "tempChar": "",
+          "ligatures": "files-error, files-validation"
         }
       ],
       "id": 9,
@@ -11488,11 +11506,7 @@
           "paths": [
             "M128 192c-35.346 0-64 28.654-64 64v0 512c0 35.346 28.654 64 64 64v0h768c35.346 0 64-28.654 64-64v0-512c0-35.346-28.654-64-64-64v0zM896 768h-768v-512h768zM283.58 656.82q-100 0-100-140.42 0-72.86 27.060-111.040t78.42-38.18q97.66 0 97.64 142.76 0 71.1-26.66 109t-76.46 37.88zM286.32 414.24q-40 0-40 100.6 0 94.7 39.26 94.72 38.28 0 38.28-97.66t-37.54-97.66zM513.66 656.82q-100 0-100-140.42 0-72.86 27.060-111.040t78.4-38.18q97.68 0 97.66 142.76 0 71.1-26.66 109t-76.46 37.88zM516.4 414.24q-40 0-40 100.6 0 94.7 39.26 94.72 38.34-0 38.34-97.56t-37.6-97.76zM840.42 652h-177.16v-48.88h58v-174.42l-59.58 12.88v-50l121.1-24.4v236h57.62z"
           ],
-          "attrs": [
-            {}
-          ],
-          "isMulticolor": false,
-          "isMulticolor2": false,
+          "attrs": [],
           "grid": 16,
           "tags": [
             "parameters-byte-array"
@@ -11503,14 +11517,32 @@
           "paths": [
             "M128 192c-35.346 0-64 28.654-64 64v0 512c0 35.346 28.654 64 64 64v0h768c35.346 0 64-28.654 64-64v0-512c0-35.346-28.654-64-64-64v0zM896 768h-768v-512h768zM768 640h-128v-64h128zM576 640h-128v-64h128zM384 640h-128v-64h128z"
           ],
-          "attrs": [
-            {}
-          ],
-          "isMulticolor": false,
-          "isMulticolor2": false,
+          "attrs": [],
           "grid": 16,
           "tags": [
             "parameters-unknown"
+          ]
+        },
+        {
+          "id": 68,
+          "paths": [
+            "M320 640h64v-320h-64zM352 704c-17.673 0-32 14.327-32 32s14.327 32 32 32c17.673 0 32-14.327 32-32v0c0-17.673-14.327-32-32-32v0zM704 64h-512c-35.346 0-64 28.654-64 64v0 768c0 35.346 28.654 64 64 64v0h640c35.346 0 64-28.654 64-64v0-640zM832 896h-640v-768h448v192h192z"
+          ],
+          "attrs": [],
+          "grid": 16,
+          "tags": [
+            "file-error"
+          ]
+        },
+        {
+          "id": 69,
+          "paths": [
+            "M128 128h448l-64-64h-384c-35.346 0-64 28.654-64 64v0 640c0 35.346 28.654 64 64 64v0h128v-64h-128zM544 768c-17.673 0-32 14.327-32 32s14.327 32 32 32c17.673 0 32-14.327 32-32v0c0-17.673-14.327-32-32-32v0zM768 192h-384c-35.346 0-64 28.654-64 64v0 640c0 35.346 28.654 64 64 64v0h512c35.346 0 64-28.654 64-64v0-512zM896 896h-512v-640h320v192h192zM512 704h64v-320h-64z"
+          ],
+          "attrs": [],
+          "grid": 16,
+          "tags": [
+            "files-error"
           ]
         }
       ],
@@ -11525,7 +11557,7 @@
           "name": "graph",
           "prevSize": 32,
           "code": 59904,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "graph"
         },
         {
@@ -11534,7 +11566,7 @@
           "name": "column-clustered",
           "prevSize": 32,
           "code": 59905,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-clustered"
         },
         {
@@ -11543,7 +11575,7 @@
           "name": "column-stacked",
           "prevSize": 32,
           "code": 59906,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-stacked"
         },
         {
@@ -11552,7 +11584,7 @@
           "name": "column-stacked100",
           "prevSize": 32,
           "code": 59907,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-stacked100"
         },
         {
@@ -11561,7 +11593,7 @@
           "name": "column-range",
           "prevSize": 32,
           "code": 59908,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-range"
         },
         {
@@ -11570,7 +11602,7 @@
           "name": "bar-clustered",
           "prevSize": 32,
           "code": 59909,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-clustered"
         },
         {
@@ -11579,7 +11611,7 @@
           "name": "bar-stacked",
           "prevSize": 32,
           "code": 59910,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-stacked"
         },
         {
@@ -11588,7 +11620,7 @@
           "name": "bar-stacked100",
           "prevSize": 32,
           "code": 59911,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-stacked100"
         },
         {
@@ -11597,7 +11629,7 @@
           "name": "bar-range",
           "prevSize": 32,
           "code": 59912,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-range"
         },
         {
@@ -11606,7 +11638,7 @@
           "name": "area-clustered",
           "prevSize": 32,
           "code": 59913,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-clustered"
         },
         {
@@ -11615,7 +11647,7 @@
           "name": "area-stacked",
           "prevSize": 32,
           "code": 59914,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-stacked"
         },
         {
@@ -11624,7 +11656,7 @@
           "name": "area-stacked100",
           "prevSize": 32,
           "code": 59915,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-stacked100"
         },
         {
@@ -11633,7 +11665,7 @@
           "name": "area-range",
           "prevSize": 32,
           "code": 59916,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-range"
         },
         {
@@ -11642,7 +11674,7 @@
           "name": "line1",
           "prevSize": 32,
           "code": 59917,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line1"
         },
         {
@@ -11651,7 +11683,7 @@
           "name": "line-stacked",
           "prevSize": 32,
           "code": 59918,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked"
         },
         {
@@ -11660,7 +11692,7 @@
           "name": "line-stacked100",
           "prevSize": 32,
           "code": 59919,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked100"
         },
         {
@@ -11669,7 +11701,7 @@
           "name": "line-markers",
           "prevSize": 32,
           "code": 59920,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-markers"
         },
         {
@@ -11678,7 +11710,7 @@
           "name": "line-stacked-markers",
           "prevSize": 32,
           "code": 59921,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked-markers"
         },
         {
@@ -11687,7 +11719,7 @@
           "name": "line-stacked100-markers",
           "prevSize": 32,
           "code": 59922,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked100-markers"
         },
         {
@@ -11696,7 +11728,7 @@
           "name": "pie",
           "prevSize": 32,
           "code": 59923,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "pie"
         },
         {
@@ -11705,7 +11737,7 @@
           "name": "doughnut",
           "prevSize": 32,
           "code": 59924,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "doughnut"
         },
         {
@@ -11714,7 +11746,7 @@
           "name": "scatter",
           "prevSize": 32,
           "code": 59925,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter"
         },
         {
@@ -11723,7 +11755,7 @@
           "name": "scatter-smooth-lines-markers",
           "prevSize": 32,
           "code": 59926,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-smooth-lines-markers"
         },
         {
@@ -11732,7 +11764,7 @@
           "name": "scatter-smooth-lines",
           "prevSize": 32,
           "code": 59927,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-smooth-lines"
         },
         {
@@ -11741,7 +11773,7 @@
           "name": "scatter-straight-lines-markers",
           "prevSize": 32,
           "code": 59928,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-straight-lines-markers"
         },
         {
@@ -11750,7 +11782,7 @@
           "name": "scatter-straight-lines",
           "prevSize": 32,
           "code": 59929,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-straight-lines"
         },
         {
@@ -11759,7 +11791,7 @@
           "name": "bubble",
           "prevSize": 32,
           "code": 59930,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bubble"
         },
         {
@@ -11768,7 +11800,7 @@
           "name": "candle-stick",
           "prevSize": 32,
           "code": 59931,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "candle-stick"
         },
         {
@@ -11777,7 +11809,7 @@
           "name": "bar",
           "prevSize": 32,
           "code": 59932,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar"
         },
         {
@@ -11786,7 +11818,7 @@
           "name": "radar",
           "prevSize": 32,
           "code": 59933,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar"
         },
         {
@@ -11795,7 +11827,7 @@
           "name": "radar-markers",
           "prevSize": 32,
           "code": 59934,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar-markers"
         },
         {
@@ -11804,7 +11836,7 @@
           "name": "radar-filled",
           "prevSize": 32,
           "code": 59935,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar-filled"
         },
         {
@@ -11813,7 +11845,7 @@
           "name": "rose",
           "prevSize": 32,
           "code": 59936,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "rose"
         },
         {
@@ -11822,7 +11854,7 @@
           "name": "choropleth",
           "prevSize": 32,
           "code": 59937,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "choropleth"
         }
       ],
@@ -12354,7 +12386,7 @@
   ],
   "preferences": {
     "showGlyphs": true,
-    "showCodes": false,
+    "showCodes": true,
     "showQuickUse": true,
     "showQuickUse2": true,
     "showSVGs": true,
@@ -12405,7 +12437,7 @@
     "historySize": 100,
     "gridSize": 16,
     "showGrid": true,
-    "showLiga": false
+    "showLiga": true
   },
   "uid": -1
 }

@@ -529,6 +529,8 @@
 		'k-i-file-programming': '&#xe941;',
 		'k-i-parameters-byte-array': '&#xe942;',
 		'k-i-parameters-unknown': '&#xe943;',
+		'k-i-file-error': '&#xe944;',
+		'k-i-files-error': '&#xe945;',
 		'k-i-graph': '&#xea00;',
 		'k-i-column-clustered': '&#xea01;',
 		'k-i-column-stacked': '&#xea02;',
