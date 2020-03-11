@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?4aq2i0');
-  src:  url('fonts/widgets.eot?4aq2i0#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?4aq2i0') format('truetype'),
-    url('fonts/widgets.woff?4aq2i0') format('woff'),
-    url('fonts/widgets.svg?4aq2i0#widgets') format('svg');
+  src:  url('fonts/widgets.eot?poekcy');
+  src:  url('fonts/widgets.eot?poekcy#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?poekcy') format('truetype'),
+    url('fonts/widgets.woff?poekcy') format('woff'),
+    url('fonts/widgets.svg?poekcy#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -396,9 +396,7 @@
 }
 .icon-stepper:before {
   content: "\e91e";
-  color: #808080;
 }
 .icon-wizard:before {
   content: "\e91f";
-  color: #808080;
 }
