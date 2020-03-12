@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?poekcy');
-  src:  url('fonts/widgets.eot?poekcy#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?poekcy') format('truetype'),
-    url('fonts/widgets.woff?poekcy') format('woff'),
-    url('fonts/widgets.svg?poekcy#widgets') format('svg');
+  src:  url('fonts/widgets.eot?ayx9a3');
+  src:  url('fonts/widgets.eot?ayx9a3#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?ayx9a3') format('truetype'),
+    url('fonts/widgets.woff?ayx9a3') format('woff'),
+    url('fonts/widgets.svg?ayx9a3#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -399,4 +399,7 @@
 }
 .icon-wizard:before {
   content: "\e91f";
+}
+.icon-pager:before {
+  content: "\e920";
 }
