@@ -703,6 +703,72 @@
 .k-i-dimentions {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe53d;');
 }
+.k-i-align-stretch-element-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe53e;');
+}
+.k-i-align-stretch-element-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe53f;');
+}
+.k-i-align-left-elements {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe540;');
+}
+.k-i-align-center-elements {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe541;');
+}
+.k-i-align-right-elements {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe542;');
+}
+.k-i-align-stretch-elements-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe543;');
+}
+.k-i-align-baseline-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe544;');
+}
+.k-i-align-top-elements {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe545;');
+}
+.k-i-align-middle-elements {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe546;');
+}
+.k-i-align-bottom-elements {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe547;');
+}
+.k-i-align-stretch-elements-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe548;');
+}
+.k-i-align-baseline-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe549;');
+}
+.k-i-justify-start-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe54a;');
+}
+.k-i-justify-center-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe54b;');
+}
+.k-i-justify-end-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe54c;');
+}
+.k-i-justify-between-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe54d;');
+}
+.k-i-justify-around-horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe54e;');
+}
+.k-i-justify-start-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe54f;');
+}
+.k-i-justify-center-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe550;');
+}
+.k-i-justify-end-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe551;');
+}
+.k-i-justify-between-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe552;');
+}
+.k-i-justify-around-vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe553;');
+}
 .k-i-page-properties {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe600;');
 }
