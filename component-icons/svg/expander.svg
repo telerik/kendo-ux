@@ -5,6 +5,6 @@
 <style type="text/css">
 	.st0{fill:#808080;}
 </style>
-<path class="st0" d="M2,7L0,9v8h2v-3h2v3h2V9L4,7H2z M4,12H2V9h2V12z M9,7v10h4l2-2v-2l-1-1l1-1V9l-2-2H9z M13,15h-2v-2h2V15z
-	 M13,11h-2V9.12h2V11z M20,15h4l-2,2h-2l-2-2v-2v-2V9l2-2h2l2,2h-4v1.34V11v2v0.66V15z"/>
+<path class="st0" d="M22,4H8V2h16L22,4z M4,15h14l2-2H4V15z M0,9v2v13l2-2V11h20l2-2H2H0z M6,2.83V0L3,3L0,0v2.83l3,3L6,2.83z M4,19
+	h10l2-2H4V19z"/>
 </svg>
