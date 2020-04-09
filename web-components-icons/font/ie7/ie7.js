@@ -553,6 +553,8 @@
 		'k-i-parameters-unknown': '&#xe943;',
 		'k-i-file-error': '&#xe944;',
 		'k-i-files-error': '&#xe945;',
+		'k-i-data-rest': '&#xe946;',
+		'k-i-file-typescript': '&#xe947;',
 		'k-i-graph': '&#xea00;',
 		'k-i-column-clustered': '&#xea01;',
 		'k-i-column-stacked': '&#xea02;',

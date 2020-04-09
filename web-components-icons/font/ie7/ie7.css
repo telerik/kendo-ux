@@ -1618,6 +1618,12 @@
 .k-i-files-error {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe945;');
 }
+.k-i-data-rest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe946;');
+}
+.k-i-file-typescript {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe947;');
+}
 .k-i-graph {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;');
 }

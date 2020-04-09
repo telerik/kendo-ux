@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?3zvbp3');
-  src:  url('fonts/WebComponentsIcons.eot?3zvbp3#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?3zvbp3') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?3zvbp3') format('woff'),
-    url('fonts/WebComponentsIcons.svg?3zvbp3#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?jmq7cq');
+  src:  url('fonts/WebComponentsIcons.eot?jmq7cq#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?jmq7cq') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?jmq7cq') format('woff'),
+    url('fonts/WebComponentsIcons.svg?jmq7cq#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1654,6 +1654,12 @@
 }
 .k-i-files-error:before {
   content: "\e945";
+}
+.k-i-data-rest:before {
+  content: "\e946";
+}
+.k-i-file-typescript:before {
+  content: "\e947";
 }
 .k-i-graph:before {
   content: "\ea00";
