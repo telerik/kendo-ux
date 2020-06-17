@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>column-stacked100</title><g id="column_stacked_100" data-name="column stacked 100"><path d="M320,32V448H288V32H128V448H64V32H32V480H480V32ZM160,448V192h96V448Zm192,0V288h96V448Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M320,32v416h-32V32H128v416H64V32H32v448h448V32H320z M160,448V192h96v256H160z M352,448V288h96v160H352z"/>
+</svg>

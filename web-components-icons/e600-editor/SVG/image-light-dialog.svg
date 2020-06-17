@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
 <path d="M272,160c26.5,0,48,21.5,48,48s-21.5,48-48,48s-48-21.5-48-48S245.5,160,272,160z M352,272l-16,16l-64,64L144,224L32,336
-	V96.1c0,0,0,0,0.1-0.1H416c0,0,0,0,0.1,0.1L416,288h32V96c0-17.6-14.4-32-32-32H32C14.4,64,0,78.4,0,96v224v96c0,17.6,14.4,32,32,32
-	h0.1H256h32v-64h64L352,272z M480,416h-32v0v-64h-32v64h-64v32v0h64v32v32h32v-32v-32h32h32v-32H480z"/>
+	V96.1c0,0,0,0,0.1-0.1h383.8c0,0,0,0,0.1,0.1L415.9,288H448V96c0-17.6-14.4-32-32-32H32C14.4,64,0,78.4,0,96v224v96
+	c0,17.6,14.4,32,32,32h0.1H256h32v-64h64V272z M480,416h-32l0,0v-64h-32v64h-64v32l0,0h64v32v32h32v-32v-32h32h32v-32H480z"/>
 </svg>

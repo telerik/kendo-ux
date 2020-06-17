@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>align-to-grid</title><g id="align_to_grid" data-name="align to grid"><path d="M320,320H128V128H320ZM96,0H64V512H96ZM448,0H416V512h32Zm64,64H0V96H512Zm0,352H0v32H512Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M320,320H128V128h192V320z M96,0H64v512h32V0z M448,0h-32v512h32V0z M512,64H0v32h512V64z M512,416H0v32h512V416z"/>
+</svg>

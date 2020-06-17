@@ -1,4 +1,8 @@
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <title>files-error</title>
-  <path d="M64,64H288L256,32H64A32,32,0,0,0,32,64V384a32,32,0,0,0,32,32h64V384H64ZM272,384a16,16,0,1,0,16,16A16,16,0,0,0,272,384ZM384,96H192a32,32,0,0,0-32,32V448a32,32,0,0,0,32,32H448a32,32,0,0,0,32-32V192Zm64,352H192V128H352v96h96ZM256,352h32V192H256Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M64,64h224l-32-32H64c-17.7,0-32,14.3-32,32v320c0,17.7,14.3,32,32,32h64v-32H64V64z M272,384c-8.8,0-16,7.2-16,16
+	s7.2,16,16,16s16-7.2,16-16S280.8,384,272,384z M384,96H192c-17.7,0-32,14.3-32,32v320c0,17.7,14.3,32,32,32h256
+	c17.7,0,32-14.3,32-32V192L384,96z M448,448H192V128h160v96h96V448z M256,352h32V192h-32V352z"/>
 </svg>

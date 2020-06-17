@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>dimentions</title><g id="dimentions"><path d="M320,0H0V512H128V128H512V0ZM32,32H96V96H32ZM96,384H64v32H96v64H32V320H96Zm0-192H64v32H96v64H32V128H96ZM224,96V64H192V96H128V32H288V96Zm256,0H416V64H384V96H320V32H480Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M320,0H0v512h128V128h384V0H320z M32,32h64v64H32V32z M96,384H64v32h32v64H32V320h64V384z M96,192H64v32h32v64H32V128h64
+	V192z M224,96V64h-32v32h-64V32h160v64H224z M480,96h-64V64h-32v32h-64V32h160V96z"/>
+</svg>

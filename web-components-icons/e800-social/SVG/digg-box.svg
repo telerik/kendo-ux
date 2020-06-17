@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
 <path d="M448,32H64c-17.7,0-32,14.3-32,32v384c0,17.7,14.3,32,32,32h384c17.7,0,32-14.3,32-32V64C480,46.3,465.7,32,448,32z
-	 M160,203.3v148.5H64v-160h63.7v-64H160V203.3z M212,351.7h-32v-160h32V351.7z M212.3,160H180v-32.3h32.3V160z M331,313.7V416h-96.3
-	v-32.3h64v-32h-64V192H331V313.7z M448,313.7V416h-96v-32.3h64v-32h-64V192h96V313.7z M96.3,223.7h31.5v96H96.3V223.7z M267,223.7
-	h31.7v96H267V223.7z M384.3,223.7H416v96h-31.7V223.7z"/>
+	 M160,203.5V352H64V192h64v-64h32V203.5z M212,352h-32V192h32V352z M212,160h-32v-32h32V160z M331,313.7V416h-96v-32h64v-32h-64V192
+	h96V313.7z M448,313.7V416h-96v-32h64v-32h-64V192h96V313.7z M96,224h32v96H96V224z M267,224h32v96h-32V224z M384,224h32v96h-32V224
+	z"/>
 </svg>

@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>make-same-width</title><g id="make_same_width" data-name="make same width"><path d="M480,128H0V32H480ZM288,224H192v96h96Zm192,48-64-48v32H352v32.7h64V320ZM64,256V224L0,272l64,48V288h64V256Zm384,96v96H352v32H480V352ZM32,448V352H0V480H128V448Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M480,128H0V32h480V128z M288,224h-96v96h96V224z M480,272.1l-64-48.4V256h-64v33h64v31.6L480,272.1z M64,256v-32L0,272
+	l64,48v-32h64v-32H64z M448,352v96h-96v32h128V352H448z M32,448v-96H0v128h128v-32H32z"/>
+</svg>

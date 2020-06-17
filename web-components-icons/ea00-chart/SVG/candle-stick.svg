@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>candle-stick</title><g id="candle_stick" data-name="candle stick"><path d="M480,448v32H32V32H64V448ZM288,352H224v64H192V352H128V96h64V32h32V96h64ZM256,128H160V320h96Zm224,64H416V64H384V192H320V320h64v64h32V320h64Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M480,448v32H32V32h32v416H480z M288,352h-64v64h-32v-64h-64V96h64V32h32v64h64V352z M256,128h-96v192h96V128z M480,192h-64
+	V64h-32v128h-64v128h64v64h32v-64h64V192z"/>
+</svg>

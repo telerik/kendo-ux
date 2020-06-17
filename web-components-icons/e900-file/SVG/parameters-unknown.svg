@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>parameters-unknown</title><g id="parameters_unknown" data-name="parameters unknown"><path d="M64,96a32,32,0,0,0-32,32V384a32,32,0,0,0,32,32H448a32,32,0,0,0,32-32V128a32,32,0,0,0-32-32ZM448,384H64V128H448Zm-64-64H320V288h64Zm-96,0H224V288h64Zm-96,0H128V288h64Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M64,96c-17.7,0-32,14.3-32,32v256c0,17.7,14.3,32,32,32h384c17.7,0,32-14.3,32-32V128c0-17.7-14.3-32-32-32H64z M448,384H64
+	V128h384V384z M384,320h-64v-32h64V320z M288,320h-64v-32h64V320z M192,320h-64v-32h64V320z"/>
+</svg>

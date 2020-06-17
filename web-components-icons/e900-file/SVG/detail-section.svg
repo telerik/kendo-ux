@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>detail-section</title><g id="detail_section" data-name="detail section"><path d="M96,32A32,32,0,0,0,64,64V448a32,32,0,0,0,32,32H416a32,32,0,0,0,32-32V64a32,32,0,0,0-32-32ZM416,448H96V64H416ZM383,224H320V192h63Zm-96-32H224v32h63Zm-96,0H128v32h63Zm192,96H320v32h63Zm-96,0H224v32h63Zm-96,0H128v32h63Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M96,32c-17.7,0-32,14.3-32,32v384c0,17.7,14.3,32,32,32h320c17.7,0,32-14.3,32-32V64c0-17.7-14.3-32-32-32H96z M416,448H96
+	V64h320V448z M383,224h-63v-32h63V224z M287,192h-63v32h63V192z M191,192h-63v32h63V192z M383,288h-63v32h63V288z M287,288h-63v32
+	h63V288z M191,288h-63v32h63V288z"/>
+</svg>
