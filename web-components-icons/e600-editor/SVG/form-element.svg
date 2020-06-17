@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M416,32V0h-32v32h-32V0h-32v32h-32V0h-32v32h-32V0h-32v32h-32V0h-32v32H96V0H64v32
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M416,32V0h-32v32h-32V0h-32v32h-32V0h-32v32h-32V0h-32v32h-32V0h-32v32H96V0H64v32
 	H32v32H0v32h32v32H0v32h32v32H0v32h32v32H0v32h32v32H0v32h32v32H0v32h32v32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32
 	v32h32v-32h32v32h32v-32h32v-32h32v-32h-32v-32h32v-32h-32v-32h32v-32h-32v-32h32v-32h-32v-32h32v-32h-32V96h32V64h-32V32H416z
 	 M416,416H64V64h352V416z M448,480v-32h32v32H448z M480,32h-32V0h32V32z M0,448h32v32H0V448z M32,0v32H0V0H32z M192,128H96v32h96

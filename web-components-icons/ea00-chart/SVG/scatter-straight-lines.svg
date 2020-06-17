@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>scatter-straight-lines</title><g id="scatter_straight_lines" data-name="scatter straight lines"><path d="M480,448v32H32V32H64V448ZM381.52,291.13,222.67,164.05,448,64V32L161.33,156,322.48,284.87,128,384v32Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M480,448v32H32V32h32v416H480z M381.5,291.1L222.7,164.1L448,64V32L161.3,156l161.2,128.9L128,384v32L381.5,291.1z"/>
+</svg>

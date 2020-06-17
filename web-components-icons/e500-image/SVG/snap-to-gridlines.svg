@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>snap-to-gridlines</title><g id="snap_to_gridlines" data-name="snap to gridlines"><path d="M160,32H0V448H288V32H160ZM128,416H32V320h96Zm0-128H32V192h96Zm0-128H32V64h96ZM256,416H160V320h96Zm0-128H160V192h96Zm0-128H160V64h96Zm256,80a80.09,80.09,0,0,1-80,80H400V288h32a48,48,0,0,0,0-96H400V160h32A80.09,80.09,0,0,1,512,240ZM352,192h32V160H352Zm0,128h32V288H352Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M160,32H0v416h288V32H160z M128,416H32v-96h96V416z M128,288H32v-96h96V288z M128,160H32V64h96V160z M256,416h-96v-96h96
+	V416z M256,288h-96v-96h96V288z M256,160h-96V64h96V160z M512,240c0,44.2-35.8,80-80,80h-32v-32h32c26.5,0,48-21.5,48-48
+	s-21.5-48-48-48h-32v-32h32C476.2,160,512,195.8,512,240z M352,192h32v-32h-32V192z M352,320h32v-32h-32V320z"/>
+</svg>

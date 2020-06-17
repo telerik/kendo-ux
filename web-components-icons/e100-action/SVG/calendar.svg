@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<path d="M416,416H288V288h128V416z M480.1,64v384.1c0,17.6-14.4,32-32,32H64c-17.6,0-32-14.4-32-32V64c0-17.6,14.4-32,32-32h64V0h64
-	v32h128V0h64v32h64.1C465.7,32,480.1,46.4,480.1,64z M448.1,192H64v256c0.1,0.1,0.1,0.1,0.1,0.1l384-0.1V192z M448.1,64.1
-	C448,64,448,64,448,64h-64v32h-64V64H192v32h-64V64H64.1C64,64.1,64,64.1,64,64.1V160h384.1V64.1z"/>
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M416,416H288V288h128V416z M480,64v384c0,17.6-14.4,32-32,32H64c-17.6,0-32-14.4-32-32V64c0-17.6,14.4-32,32-32h64V0h64v32
+	h128V0h64v32h64C465.6,32,480,46.4,480,64z M448,192H64v255.9c0.1,0.1,0.1,0.1,0.1,0.1l383.9-0.1V192z M448,64.1
+	C447.9,64,447.9,64,448,64.1L384,64v32h-64V64H192v32h-64V64H64.1C64,64.1,64,64.1,64,64.1V160h384V64.1z"/>
 </svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>make-same-size</title><g id="make_same_size" data-name="make same size"><path d="M288,192v96H192V192ZM240,0,192,64h32v64h32.7V64H288Zm16,416V352H224v64H192l48,64,48-64ZM480,240l-64-48v32H352v32.7h64V288ZM64,224V192L0,240l64,48V256h64V224ZM128,0H0V128H32V32h96ZM448,0H352V32h96v96h32V0ZM32,448V352H0V480H128V448Zm416-96v96H352v32H480V352Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M288,192v96h-96v-96H288z M240.1,0l-48.4,64H224v64h33V64h31.6L240.1,0z M256,416v-64h-32v64h-32l48,64l48-64H256z
+	 M480,240.1l-64-48.4V224h-64v33h64v31.6L480,240.1z M64,224v-32L0,240l64,48v-32h64v-32H64z M128,0H0v128h32V32h96V0z M448,0h-96
+	v32h96v96h32V0H448z M32,448v-96H0v128h128v-32H32z M448,352v96h-96v32h128V352H448z"/>
+</svg>

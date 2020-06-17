@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>parameter-date-time</title><g id="parameter_datetime" data-name="parameter datetime"><path d="M416,202.78V128a32.09,32.09,0,0,0-32-32H64a32.09,32.09,0,0,0-32,32V384a32.09,32.09,0,0,0,32,32H368a112,112,0,0,0,48-213.22ZM64.06,384l-.06-.06V192H368a112,112,0,0,0-78.37,192ZM368,384a80,80,0,1,1,80-80A80.09,80.09,0,0,1,368,384Zm48-96v32H352V256h32v32ZM192,320H96V224h96Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<path d="M416,202.8V128c0-17.7-14.3-32-32-32H64c-17.7,0-32,14.3-32,32v256c0,17.7,14.3,32,32,32h304c61.9,0,112-50.1,112.1-111.9
+	C480.1,260.8,455.1,221.3,416,202.8z M64.1,384L64.1,384L64,192h304c-61.9,0-112,50.2-112,112c0,30.1,12.1,58.9,33.6,80H64.1z
+	 M368,384c-44.2,0-80-35.8-80-80s35.8-80,80-80s80,35.8,80,80C448,348.2,412.2,384,368,384z M416,288v32h-64v-64h32v32H416z
+	 M192,320H96v-96h96V320z"/>
+</svg>
