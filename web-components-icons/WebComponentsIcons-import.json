@@ -2,7 +2,7 @@
   "metadata": {
     "name": "WebComponentsIcons",
     "lastOpened": 0,
-    "created": 1586418732253,
+    "created": 1592559311100,
     "url": "http://www.telerik.com",
     "designer": "Telerik, A Progress Company",
     "designerURL": "http://www.telerik.com",
@@ -2047,6 +2047,33 @@
           "code": 57689,
           "tempChar": "",
           "ligatures": "cursor, pointer"
+        },
+        {
+          "order": 3825,
+          "id": 90,
+          "name": "stick",
+          "prevSize": 16,
+          "code": 57690,
+          "tempChar": "",
+          "ligatures": "stick"
+        },
+        {
+          "order": 3826,
+          "id": 91,
+          "name": "unstick",
+          "prevSize": 16,
+          "code": 57691,
+          "tempChar": "",
+          "ligatures": "unstick"
+        },
+        {
+          "order": 3827,
+          "id": 92,
+          "name": "set-column-position",
+          "prevSize": 16,
+          "code": 57692,
+          "tempChar": "",
+          "ligatures": "set-column-position"
         }
       ],
       "id": 1,
@@ -3200,6 +3227,51 @@
           "tags": [
             "cursor"
           ]
+        },
+        {
+          "id": 90,
+          "paths": [
+            "M384 192c0-35.346-28.654-64-64-64v0h-128c-35.346 0-64 28.654-64 64v0 64h256zM640 512c0 70.692-57.308 128-128 128s-128-57.308-128-128v0-192h-256v192c0 212.077 171.923 384 384 384s384-171.923 384-384v0-192h-256zM832 128h-128c-35.346 0-64 28.654-64 64v0 64h256v-64c0-35.346-28.654-64-64-64v0z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 16,
+          "tags": [
+            "stick"
+          ]
+        },
+        {
+          "id": 91,
+          "paths": [
+            "M581.14 262.76c11.502-11.523 18.615-27.431 18.615-45s-7.113-33.477-18.616-45.001l0.001 0.001-90-90c-11.517-11.516-27.426-18.639-45-18.639s-33.483 7.123-45 18.639l0-0-45.14 44.92 180.12 180zM536.12 668c-23.048 23.048-54.889 37.304-90.060 37.304-70.341 0-127.364-57.023-127.364-127.364 0-35.171 14.256-67.012 37.304-90.060l135.080-135.080-180-180.1-135.080 135.080c-69.149 69.136-111.919 164.653-111.919 270.16 0 210.989 171.040 382.029 382.029 382.029 105.482 0 200.979-42.75 270.111-111.869l135.079-135.079-180-180.1zM941.34 532.92l-90-90c-11.523-11.502-27.431-18.615-45-18.615s-33.477 7.113-45.001 18.616l0.001-0.001-45.020 45.020 180 180.060 45.020-45.040c11.528-11.519 18.659-27.436 18.659-45.020s-7.131-33.501-18.659-45.020l-0-0z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 16,
+          "tags": [
+            "unstick"
+          ]
+        },
+        {
+          "id": 92,
+          "paths": [
+            "M896 64h-768c-35.346 0-64 28.654-64 64v0 768c0 35.346 28.654 64 64 64v0h768c35.346 0 64-28.654 64-64v0-768c0-35.346-28.654-64-64-64v0zM384 832h-192v-640h192zM832 832h-384v-64h384zM832 704h-384v-128h384zM832 512h-384v-128h384zM832 320h-384v-128h384z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 16,
+          "tags": [
+            "set-column-position"
+          ]
         }
       ],
       "invisible": false,
@@ -3214,7 +3286,7 @@
           "name": "play",
           "code": 57856,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "pause",
@@ -3223,7 +3295,7 @@
           "name": "pause",
           "code": 57857,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "stop",
@@ -3232,7 +3304,7 @@
           "name": "stop",
           "code": 57858,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "rewind",
@@ -3241,7 +3313,7 @@
           "name": "rewind",
           "code": 57859,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "forward",
@@ -3250,7 +3322,7 @@
           "name": "forward",
           "code": 57860,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "volume-down",
@@ -3259,7 +3331,7 @@
           "name": "volume-down",
           "code": 57861,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "volume-up",
@@ -3268,7 +3340,7 @@
           "name": "volume-up",
           "code": 57862,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "volume-off",
@@ -3277,7 +3349,7 @@
           "name": "volume-off",
           "code": 57863,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "hd",
@@ -3286,7 +3358,7 @@
           "name": "hd",
           "code": 57864,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "subtitles",
@@ -3295,7 +3367,7 @@
           "name": "subtitles",
           "code": 57865,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "playlist",
@@ -3304,7 +3376,7 @@
           "name": "playlist",
           "code": 57866,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "audio",
@@ -3313,7 +3385,7 @@
           "name": "audio",
           "code": 57867,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "play-sm",
@@ -3322,7 +3394,7 @@
           "name": "play-sm",
           "code": 57868,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "pause-sm",
@@ -3331,7 +3403,7 @@
           "name": "pause-sm",
           "code": 57869,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "stop-sm",
@@ -3340,7 +3412,7 @@
           "name": "stop-sm",
           "code": 57870,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
@@ -3554,7 +3626,7 @@
           "name": "heart-outline",
           "code": 58112,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "heart, fav, favorite",
@@ -3563,7 +3635,7 @@
           "name": "heart",
           "code": 58113,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "star-outline, bookmark-outline",
@@ -3572,7 +3644,7 @@
           "name": "star-outline",
           "code": 58114,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "star, bookmark",
@@ -3581,7 +3653,7 @@
           "name": "star",
           "code": 58115,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "checkbox, shape-rect",
@@ -3590,7 +3662,7 @@
           "name": "checkbox",
           "code": 58116,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "checkbox-checked",
@@ -3599,7 +3671,7 @@
           "name": "checkbox-checked",
           "code": 58117,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "tri-state-indeterminate",
@@ -3608,7 +3680,7 @@
           "name": "tri-state-indeterminate",
           "code": 58118,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "tri-state-null",
@@ -3617,7 +3689,7 @@
           "name": "tri-state-null",
           "code": 58119,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "circle",
@@ -3626,7 +3698,7 @@
           "name": "circle",
           "code": 58120,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "radiobutton, shape-circle",
@@ -3635,7 +3707,7 @@
           "name": "radiobutton",
           "code": 58121,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "radiobutton-checked",
@@ -3644,7 +3716,7 @@
           "name": "radiobutton-checked",
           "code": 58122,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 3,
@@ -3812,7 +3884,7 @@
           "name": "notification",
           "code": 58368,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "information, info",
@@ -3821,7 +3893,7 @@
           "name": "information",
           "code": 58369,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "question, help",
@@ -3830,7 +3902,7 @@
           "name": "question",
           "code": 58370,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "warning, exception",
@@ -3839,7 +3911,7 @@
           "name": "warning",
           "code": 58371,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 4,
@@ -3915,7 +3987,7 @@
           "name": "photo-camera",
           "code": 58624,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "image, photo",
@@ -3924,7 +3996,7 @@
           "name": "image",
           "code": 58625,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "image-export, photo-export",
@@ -3933,7 +4005,7 @@
           "name": "image-export",
           "code": 58626,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "zoom-actual-size",
@@ -3942,7 +4014,7 @@
           "name": "zoom-actual-size",
           "code": 58627,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "zoom-best-fit",
@@ -3951,7 +4023,7 @@
           "name": "zoom-best-fit",
           "code": 58628,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "image-resize",
@@ -3960,7 +4032,7 @@
           "name": "image-resize",
           "code": 58629,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "crop",
@@ -3969,7 +4041,7 @@
           "name": "crop",
           "code": 58630,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "mirror",
@@ -3978,7 +4050,7 @@
           "name": "mirror",
           "code": 58631,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "flip-horizontal",
@@ -3987,7 +4059,7 @@
           "name": "flip-horizontal",
           "code": 58632,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "flip-vertical",
@@ -3996,7 +4068,7 @@
           "name": "flip-vertical",
           "code": 58633,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "rotate",
@@ -4005,7 +4077,7 @@
           "name": "rotate",
           "code": 58634,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "rotate-right",
@@ -4014,7 +4086,7 @@
           "name": "rotate-right",
           "code": 58635,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "rotate-left",
@@ -4023,7 +4095,7 @@
           "name": "rotate-left",
           "code": 58636,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "brush",
@@ -4032,7 +4104,7 @@
           "name": "brush",
           "code": 58637,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "palette",
@@ -4041,7 +4113,7 @@
           "name": "palette",
           "code": 58638,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paint, droplet, background",
@@ -4050,7 +4122,7 @@
           "name": "paint",
           "code": 58639,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "line, shape-line",
@@ -4059,7 +4131,7 @@
           "name": "line",
           "code": 58640,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "brightness-contrast",
@@ -4068,7 +4140,7 @@
           "name": "brightness-contrast",
           "code": 58641,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "saturation",
@@ -4077,7 +4149,7 @@
           "name": "saturation",
           "code": 58642,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "invert-colors",
@@ -4086,7 +4158,7 @@
           "name": "invert-colors",
           "code": 58643,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "transperancy, opacity",
@@ -4095,7 +4167,7 @@
           "name": "transperancy",
           "code": 58644,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "greyscale",
@@ -4104,7 +4176,7 @@
           "name": "greyscale",
           "code": 58645,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "blur",
@@ -4113,7 +4185,7 @@
           "name": "blur",
           "code": 58646,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "sharpen",
@@ -4122,7 +4194,7 @@
           "name": "sharpen",
           "code": 58647,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "shape",
@@ -4131,7 +4203,7 @@
           "name": "shape",
           "code": 58648,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "round-corners",
@@ -4140,7 +4212,7 @@
           "name": "round-corners",
           "code": 58649,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "front-element",
@@ -4149,7 +4221,7 @@
           "name": "front-element",
           "code": 58650,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "back-element",
@@ -4158,7 +4230,7 @@
           "name": "back-element",
           "code": 58651,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "forward-element",
@@ -4167,7 +4239,7 @@
           "name": "forward-element",
           "code": 58652,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "backward-element",
@@ -4176,7 +4248,7 @@
           "name": "backward-element",
           "code": 58653,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-left-element",
@@ -4185,7 +4257,7 @@
           "name": "align-left-element",
           "code": 58654,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-center-element",
@@ -4194,7 +4266,7 @@
           "name": "align-center-element",
           "code": 58655,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-right-element",
@@ -4203,7 +4275,7 @@
           "name": "align-right-element",
           "code": 58656,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-top-element",
@@ -4212,7 +4284,7 @@
           "name": "align-top-element",
           "code": 58657,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-middle-element",
@@ -4221,7 +4293,7 @@
           "name": "align-middle-element",
           "code": 58658,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-bottom-element",
@@ -4230,7 +4302,7 @@
           "name": "align-bottom-element",
           "code": 58659,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "thumbnails-up",
@@ -4239,7 +4311,7 @@
           "name": "thumbnails-up",
           "code": 58660,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "thumbnails-right",
@@ -4248,7 +4320,7 @@
           "name": "thumbnails-right",
           "code": 58661,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "thumbnails-down",
@@ -4257,7 +4329,7 @@
           "name": "thumbnails-down",
           "code": 58662,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "thumbnails-left",
@@ -4266,7 +4338,7 @@
           "name": "thumbnails-left",
           "code": 58663,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "full-screen, fullscreen",
@@ -4275,7 +4347,7 @@
           "name": "full-screen",
           "code": 58664,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "full-screen-exit, fullscreen-exit",
@@ -4284,7 +4356,7 @@
           "name": "full-screen-exit",
           "code": 58665,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "reset-color, paint-remove, background-remove",
@@ -4293,7 +4365,7 @@
           "name": "reset-color",
           "code": 58666,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "images, photos, gallery",
@@ -4302,7 +4374,7 @@
           "name": "images",
           "code": 58667,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 3393,
@@ -4310,7 +4382,7 @@
           "name": "align-to-grid",
           "prevSize": 16,
           "code": 58668,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-to-grid"
         },
         {
@@ -4319,7 +4391,7 @@
           "name": "size-to-grid",
           "prevSize": 16,
           "code": 58669,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "size-to-grid"
         },
         {
@@ -4328,7 +4400,7 @@
           "name": "make-same-size",
           "prevSize": 16,
           "code": 58670,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "make-same-size"
         },
         {
@@ -4337,7 +4409,7 @@
           "name": "make-same-width",
           "prevSize": 16,
           "code": 58671,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "make-same-width"
         },
         {
@@ -4346,7 +4418,7 @@
           "name": "make-same-height",
           "prevSize": 16,
           "code": 58672,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "make-same-height"
         },
         {
@@ -4355,7 +4427,7 @@
           "name": "make-horizontal-spacing-equal",
           "prevSize": 16,
           "code": 58673,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "make-horizontal-spacing-equal"
         },
         {
@@ -4364,7 +4436,7 @@
           "name": "increase-horizontal-spacing",
           "prevSize": 16,
           "code": 58674,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "increase-horizontal-spacing"
         },
         {
@@ -4373,7 +4445,7 @@
           "name": "decrease-horizontal-spacing",
           "prevSize": 16,
           "code": 58675,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "decrease-horizontal-spacing"
         },
         {
@@ -4382,7 +4454,7 @@
           "name": "remove-horizontal-spacing",
           "prevSize": 16,
           "code": 58676,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "remove-horizontal-spacing"
         },
         {
@@ -4391,7 +4463,7 @@
           "name": "make-vertical-spacing-equal",
           "prevSize": 16,
           "code": 58677,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "make-vertical-spacing-equal"
         },
         {
@@ -4400,7 +4472,7 @@
           "name": "increase-vertical-spacing",
           "prevSize": 16,
           "code": 58678,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "increase-vertical-spacing"
         },
         {
@@ -4409,7 +4481,7 @@
           "name": "decrease-vertical-spacing",
           "prevSize": 16,
           "code": 58679,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "decrease-vertical-spacing"
         },
         {
@@ -4418,7 +4490,7 @@
           "name": "remove-vertical-spacing",
           "prevSize": 16,
           "code": 58680,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "remove-vertical-spacing"
         },
         {
@@ -4427,7 +4499,7 @@
           "name": "eyedropper",
           "prevSize": 16,
           "code": 58681,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "eyedropper"
         },
         {
@@ -4436,7 +4508,7 @@
           "name": "snap-grid",
           "prevSize": 16,
           "code": 58682,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "snap-grid"
         },
         {
@@ -4445,7 +4517,7 @@
           "name": "snap-to-gridlines",
           "prevSize": 16,
           "code": 58683,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "snap-to-gridlines"
         },
         {
@@ -4454,7 +4526,7 @@
           "name": "snap-to-snaplines",
           "prevSize": 16,
           "code": 58684,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "snap-to-snaplines"
         },
         {
@@ -4463,7 +4535,7 @@
           "name": "dimentions",
           "prevSize": 16,
           "code": 58685,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "dimentions"
         },
         {
@@ -4472,7 +4544,7 @@
           "name": "align-stretch-element-horizontal",
           "prevSize": 16,
           "code": 58686,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-stretch-element-horizontal"
         },
         {
@@ -4481,7 +4553,7 @@
           "name": "align-stretch-element-vertical",
           "prevSize": 16,
           "code": 58687,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-stretch-element-vertical"
         },
         {
@@ -4490,7 +4562,7 @@
           "name": "align-left-elements",
           "prevSize": 16,
           "code": 58688,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-left-elements"
         },
         {
@@ -4499,7 +4571,7 @@
           "name": "align-center-elements",
           "prevSize": 16,
           "code": 58689,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-center-elements"
         },
         {
@@ -4508,7 +4580,7 @@
           "name": "align-right-elements",
           "prevSize": 16,
           "code": 58690,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-right-elements"
         },
         {
@@ -4517,7 +4589,7 @@
           "name": "align-stretch-elements-horizontal",
           "prevSize": 16,
           "code": 58691,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-stretch-elements-horizontal"
         },
         {
@@ -4526,7 +4598,7 @@
           "name": "align-baseline-horizontal",
           "prevSize": 16,
           "code": 58692,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-baseline-horizontal"
         },
         {
@@ -4535,7 +4607,7 @@
           "name": "align-top-elements",
           "prevSize": 16,
           "code": 58693,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-top-elements"
         },
         {
@@ -4544,7 +4616,7 @@
           "name": "align-middle-elements",
           "prevSize": 16,
           "code": 58694,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-middle-elements"
         },
         {
@@ -4553,7 +4625,7 @@
           "name": "align-bottom-elements",
           "prevSize": 16,
           "code": 58695,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-bottom-elements"
         },
         {
@@ -4562,7 +4634,7 @@
           "name": "align-stretch-elements-vertical",
           "prevSize": 16,
           "code": 58696,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-stretch-elements-vertical"
         },
         {
@@ -4571,7 +4643,7 @@
           "name": "align-baseline-vertical",
           "prevSize": 16,
           "code": 58697,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "align-baseline-vertical"
         },
         {
@@ -4580,7 +4652,7 @@
           "name": "justify-start-horizontal",
           "prevSize": 16,
           "code": 58698,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-start-horizontal"
         },
         {
@@ -4589,7 +4661,7 @@
           "name": "justify-center-horizontal",
           "prevSize": 16,
           "code": 58699,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-center-horizontal"
         },
         {
@@ -4598,7 +4670,7 @@
           "name": "justify-end-horizontal",
           "prevSize": 16,
           "code": 58700,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-end-horizontal"
         },
         {
@@ -4607,7 +4679,7 @@
           "name": "justify-between-horizontal",
           "prevSize": 16,
           "code": 58701,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-between-horizontal"
         },
         {
@@ -4616,7 +4688,7 @@
           "name": "justify-around-horizontal",
           "prevSize": 16,
           "code": 58702,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-around-horizontal"
         },
         {
@@ -4625,7 +4697,7 @@
           "name": "justify-start-vertical",
           "prevSize": 16,
           "code": 58703,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-start-vertical"
         },
         {
@@ -4634,7 +4706,7 @@
           "name": "justify-center-vertical",
           "prevSize": 16,
           "code": 58704,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-center-vertical"
         },
         {
@@ -4643,7 +4715,7 @@
           "name": "justify-end-vertical",
           "prevSize": 16,
           "code": 58705,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-end-vertical"
         },
         {
@@ -4652,7 +4724,7 @@
           "name": "justify-between-vertical",
           "prevSize": 16,
           "code": 58706,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-between-vertical"
         },
         {
@@ -4661,7 +4733,7 @@
           "name": "justify-around-vertical",
           "prevSize": 16,
           "code": 58707,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "justify-around-vertical"
         }
       ],
@@ -5872,7 +5944,7 @@
           "name": "page-properties",
           "code": 58880,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "bold",
@@ -5881,7 +5953,7 @@
           "name": "bold",
           "code": 58881,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "italic",
@@ -5890,7 +5962,7 @@
           "name": "italic",
           "code": 58882,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "underline",
@@ -5899,7 +5971,7 @@
           "name": "underline",
           "code": 58883,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "font-family",
@@ -5908,7 +5980,7 @@
           "name": "font-family",
           "code": 58884,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "foreground-color",
@@ -5917,7 +5989,7 @@
           "name": "foreground-color",
           "code": 58885,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "convert-lowercase",
@@ -5926,7 +5998,7 @@
           "name": "convert-lowercase",
           "code": 58886,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "convert-uppercase",
@@ -5935,7 +6007,7 @@
           "name": "convert-uppercase",
           "code": 58887,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "strikethrough",
@@ -5944,7 +6016,7 @@
           "name": "strikethrough",
           "code": 58888,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "sub-script",
@@ -5953,7 +6025,7 @@
           "name": "sub-script",
           "code": 58889,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "sup-script",
@@ -5962,7 +6034,7 @@
           "name": "sup-script",
           "code": 58890,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "div",
@@ -5971,7 +6043,7 @@
           "name": "div",
           "code": 58891,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "all",
@@ -5980,7 +6052,7 @@
           "name": "all",
           "code": 58892,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "h1",
@@ -5989,7 +6061,7 @@
           "name": "h1",
           "code": 58893,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "h2",
@@ -5998,7 +6070,7 @@
           "name": "h2",
           "code": 58894,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "h3",
@@ -6007,7 +6079,7 @@
           "name": "h3",
           "code": 58895,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "h4",
@@ -6016,7 +6088,7 @@
           "name": "h4",
           "code": 58896,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "h5",
@@ -6025,7 +6097,7 @@
           "name": "h5",
           "code": 58897,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "h6",
@@ -6034,7 +6106,7 @@
           "name": "h6",
           "code": 58898,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "list-ordered, list-numbered",
@@ -6043,7 +6115,7 @@
           "name": "list-ordered",
           "code": 58899,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "list-unordered, list-bulleted",
@@ -6052,7 +6124,7 @@
           "name": "list-unordered",
           "code": 58900,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "indent-increase, indent",
@@ -6061,7 +6133,7 @@
           "name": "indent-increase",
           "code": 58901,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "indent-decrease, outdent",
@@ -6070,7 +6142,7 @@
           "name": "indent-decrease",
           "code": 58902,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "insert-up, insert-top",
@@ -6079,7 +6151,7 @@
           "name": "insert-up",
           "code": 58903,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "insert-middle",
@@ -6088,7 +6160,7 @@
           "name": "insert-middle",
           "code": 58904,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "insert-down, insert-bottom",
@@ -6097,7 +6169,7 @@
           "name": "insert-down",
           "code": 58905,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-top",
@@ -6106,7 +6178,7 @@
           "name": "align-top",
           "code": 58906,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-middle",
@@ -6115,7 +6187,7 @@
           "name": "align-middle",
           "code": 58907,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-bottom",
@@ -6124,7 +6196,7 @@
           "name": "align-bottom",
           "code": 58908,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-left",
@@ -6133,7 +6205,7 @@
           "name": "align-left",
           "code": 58909,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-center",
@@ -6142,7 +6214,7 @@
           "name": "align-center",
           "code": 58910,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-right",
@@ -6151,7 +6223,7 @@
           "name": "align-right",
           "code": 58911,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-justify",
@@ -6160,7 +6232,7 @@
           "name": "align-justify",
           "code": 58912,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "align-remove",
@@ -6169,7 +6241,7 @@
           "name": "align-remove",
           "code": 58913,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "text-wrap",
@@ -6178,7 +6250,7 @@
           "name": "text-wrap",
           "code": 58914,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "rule-horizontal",
@@ -6187,7 +6259,7 @@
           "name": "rule-horizontal",
           "code": 58915,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-top-left",
@@ -6196,7 +6268,7 @@
           "name": "table-align-top-left",
           "code": 58916,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-top-center",
@@ -6205,7 +6277,7 @@
           "name": "table-align-top-center",
           "code": 58917,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-top-right",
@@ -6214,7 +6286,7 @@
           "name": "table-align-top-right",
           "code": 58918,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-middle-left",
@@ -6223,7 +6295,7 @@
           "name": "table-align-middle-left",
           "code": 58919,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-middle-center",
@@ -6232,7 +6304,7 @@
           "name": "table-align-middle-center",
           "code": 58920,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-middle-right",
@@ -6241,7 +6313,7 @@
           "name": "table-align-middle-right",
           "code": 58921,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-bottom-left",
@@ -6250,7 +6322,7 @@
           "name": "table-align-bottom-left",
           "code": 58922,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-bottom-center",
@@ -6259,7 +6331,7 @@
           "name": "table-align-bottom-center",
           "code": 58923,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-bottom-right",
@@ -6268,7 +6340,7 @@
           "name": "table-align-bottom-right",
           "code": 58924,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-align-remove",
@@ -6277,7 +6349,7 @@
           "name": "table-align-remove",
           "code": 58925,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "borders-all",
@@ -6286,7 +6358,7 @@
           "name": "borders-all",
           "code": 58926,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "borders-outside",
@@ -6295,7 +6367,7 @@
           "name": "borders-outside",
           "code": 58927,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "borders-inside",
@@ -6304,7 +6376,7 @@
           "name": "borders-inside",
           "code": 58928,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "borders-inside-horizontal",
@@ -6313,7 +6385,7 @@
           "name": "borders-inside-horizontal",
           "code": 58929,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "borders-inside-vertical",
@@ -6322,7 +6394,7 @@
           "name": "borders-inside-vertical",
           "code": 58930,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "border-top",
@@ -6331,7 +6403,7 @@
           "name": "border-top",
           "code": 58931,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "border-bottom",
@@ -6340,7 +6412,7 @@
           "name": "border-bottom",
           "code": 58932,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "border-left",
@@ -6349,7 +6421,7 @@
           "name": "border-left",
           "code": 58933,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "border-right",
@@ -6358,7 +6430,7 @@
           "name": "border-right",
           "code": 58934,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "border-no",
@@ -6367,7 +6439,7 @@
           "name": "border-no",
           "code": 58935,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "borders-show-hide",
@@ -6376,7 +6448,7 @@
           "name": "borders-show-hide",
           "code": 58936,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "form, border",
@@ -6385,7 +6457,7 @@
           "name": "form",
           "code": 58937,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "form-element",
@@ -6394,7 +6466,7 @@
           "name": "form-element",
           "code": 58938,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "code-snippet",
@@ -6403,7 +6475,7 @@
           "name": "code-snippet",
           "code": 58939,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "select-all",
@@ -6412,7 +6484,7 @@
           "name": "select-all",
           "code": 58940,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "button",
@@ -6421,7 +6493,7 @@
           "name": "button",
           "code": 58941,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "select-box",
@@ -6430,7 +6502,7 @@
           "name": "select-box",
           "code": 58942,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "calendar-date",
@@ -6439,7 +6511,7 @@
           "name": "calendar-date",
           "code": 58943,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "group-box",
@@ -6448,7 +6520,7 @@
           "name": "group-box",
           "code": 58944,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "textarea",
@@ -6457,7 +6529,7 @@
           "name": "textarea",
           "code": 58945,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "textbox",
@@ -6466,7 +6538,7 @@
           "name": "textbox",
           "code": 58946,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "textbox-hidden",
@@ -6475,7 +6547,7 @@
           "name": "textbox-hidden",
           "code": 58947,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "password",
@@ -6484,7 +6556,7 @@
           "name": "password",
           "code": 58948,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paragraph-add",
@@ -6493,7 +6565,7 @@
           "name": "paragraph-add",
           "code": 58949,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "edit-tools",
@@ -6502,7 +6574,7 @@
           "name": "edit-tools",
           "code": 58950,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "template-manager",
@@ -6511,7 +6583,7 @@
           "name": "template-manager",
           "code": 58951,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "change-manually",
@@ -6520,7 +6592,7 @@
           "name": "change-manually",
           "code": 58952,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "track-changes",
@@ -6529,7 +6601,7 @@
           "name": "track-changes",
           "code": 58953,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "track-changes-enable",
@@ -6538,7 +6610,7 @@
           "name": "track-changes-enable",
           "code": 58954,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "track-changes-accept",
@@ -6547,7 +6619,7 @@
           "name": "track-changes-accept",
           "code": 58955,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "track-changes-accept-all",
@@ -6556,7 +6628,7 @@
           "name": "track-changes-accept-all",
           "code": 58956,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "track-changes-reject",
@@ -6565,7 +6637,7 @@
           "name": "track-changes-reject",
           "code": 58957,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "track-changes-reject-all",
@@ -6574,7 +6646,7 @@
           "name": "track-changes-reject-all",
           "code": 58958,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "document-manager",
@@ -6583,7 +6655,7 @@
           "name": "document-manager",
           "code": 58959,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "custom-icon",
@@ -6592,7 +6664,7 @@
           "name": "custom-icon",
           "code": 58960,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "dictionary-add",
@@ -6601,7 +6673,7 @@
           "name": "dictionary-add",
           "code": 58961,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "image-light-dialog, image-insert",
@@ -6610,7 +6682,7 @@
           "name": "image-light-dialog",
           "code": 58962,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "image-edit",
@@ -6619,7 +6691,7 @@
           "name": "image-edit",
           "code": 58963,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "image-map-editor",
@@ -6628,7 +6700,7 @@
           "name": "image-map-editor",
           "code": 58964,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "comment",
@@ -6637,7 +6709,7 @@
           "name": "comment",
           "code": 58965,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "comment-remove",
@@ -6646,7 +6718,7 @@
           "name": "comment-remove",
           "code": 58966,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "comments-remove-all",
@@ -6655,7 +6727,7 @@
           "name": "comments-remove-all",
           "code": 58967,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "silverlight",
@@ -6664,7 +6736,7 @@
           "name": "silverlight",
           "code": 58968,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "media-manager",
@@ -6673,7 +6745,7 @@
           "name": "media-manager",
           "code": 58969,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "video-external",
@@ -6682,7 +6754,7 @@
           "name": "video-external",
           "code": 58970,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "flash-manager",
@@ -6691,7 +6763,7 @@
           "name": "flash-manager",
           "code": 58971,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "find-and-replace, find",
@@ -6700,7 +6772,7 @@
           "name": "find-and-replace",
           "code": 58972,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "copy, files",
@@ -6709,7 +6781,7 @@
           "name": "copy",
           "code": 58973,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cut",
@@ -6718,7 +6790,7 @@
           "name": "cut",
           "code": 58974,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paste",
@@ -6727,7 +6799,7 @@
           "name": "paste",
           "code": 58975,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paste-as-html",
@@ -6736,7 +6808,7 @@
           "name": "paste-as-html",
           "code": 58976,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paste-from-word",
@@ -6745,7 +6817,7 @@
           "name": "paste-from-word",
           "code": 58977,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paste-from-word-strip-file",
@@ -6754,7 +6826,7 @@
           "name": "paste-from-word-strip-file",
           "code": 58978,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paste-html",
@@ -6763,7 +6835,7 @@
           "name": "paste-html",
           "code": 58979,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paste-markdown",
@@ -6772,7 +6844,7 @@
           "name": "paste-markdown",
           "code": 58980,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "paste-plain-text",
@@ -6781,7 +6853,7 @@
           "name": "paste-plain-text",
           "code": 58981,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "apply-format",
@@ -6790,7 +6862,7 @@
           "name": "apply-format",
           "code": 58982,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "clear-css",
@@ -6799,7 +6871,7 @@
           "name": "clear-css",
           "code": 58983,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "copy-format",
@@ -6808,7 +6880,7 @@
           "name": "copy-format",
           "code": 58984,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "strip-all-formatting",
@@ -6817,7 +6889,7 @@
           "name": "strip-all-formatting",
           "code": 58985,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "strip-css-format",
@@ -6826,7 +6898,7 @@
           "name": "strip-css-format",
           "code": 58986,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "strip-font-elements",
@@ -6835,7 +6907,7 @@
           "name": "strip-font-elements",
           "code": 58987,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "strip-span-elements",
@@ -6844,7 +6916,7 @@
           "name": "strip-span-elements",
           "code": 58988,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "strip-word-formatting",
@@ -6853,7 +6925,7 @@
           "name": "strip-word-formatting",
           "code": 58989,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "format-code-block",
@@ -6862,7 +6934,7 @@
           "name": "format-code-block",
           "code": 58990,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "style-builder",
@@ -6871,7 +6943,7 @@
           "name": "style-builder",
           "code": 58991,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "module-manager",
@@ -6880,7 +6952,7 @@
           "name": "module-manager",
           "code": 58992,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "hyperlink-light-dialog, hyperlink-insert",
@@ -6889,7 +6961,7 @@
           "name": "hyperlink-light-dialog",
           "code": 58993,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "hyperlink-globe",
@@ -6898,7 +6970,7 @@
           "name": "hyperlink-globe",
           "code": 58994,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "hyperlink-globe-remove",
@@ -6907,7 +6979,7 @@
           "name": "hyperlink-globe-remove",
           "code": 58995,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "hyperlink-email",
@@ -6916,7 +6988,7 @@
           "name": "hyperlink-email",
           "code": 58996,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "anchor",
@@ -6925,7 +6997,7 @@
           "name": "anchor",
           "code": 58997,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-light-dialog, table-insert",
@@ -6934,7 +7006,7 @@
           "name": "table-light-dialog",
           "code": 58998,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table",
@@ -6943,7 +7015,7 @@
           "name": "table",
           "code": 58999,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-properties, table-wizard",
@@ -6952,7 +7024,7 @@
           "name": "table-properties",
           "code": 59000,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-cell",
@@ -6961,7 +7033,7 @@
           "name": "table-cell",
           "code": 59001,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-cell-properties",
@@ -6970,7 +7042,7 @@
           "name": "table-cell-properties",
           "code": 59002,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-column-insert-left",
@@ -6979,7 +7051,7 @@
           "name": "table-column-insert-left",
           "code": 59003,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-column-insert-right",
@@ -6988,7 +7060,7 @@
           "name": "table-column-insert-right",
           "code": 59004,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-row-insert-above",
@@ -6997,7 +7069,7 @@
           "name": "table-row-insert-above",
           "code": 59005,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-row-insert-below",
@@ -7006,7 +7078,7 @@
           "name": "table-row-insert-below",
           "code": 59006,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-column-delete",
@@ -7015,7 +7087,7 @@
           "name": "table-column-delete",
           "code": 59007,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-row-delete",
@@ -7024,7 +7096,7 @@
           "name": "table-row-delete",
           "code": 59008,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-cell-delete",
@@ -7033,7 +7105,7 @@
           "name": "table-cell-delete",
           "code": 59009,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-delete",
@@ -7042,7 +7114,7 @@
           "name": "table-delete",
           "code": 59010,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cells-merge",
@@ -7051,7 +7123,7 @@
           "name": "cells-merge",
           "code": 59011,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cells-merge-horizontally",
@@ -7060,7 +7132,7 @@
           "name": "cells-merge-horizontally",
           "code": 59012,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cells-merge-vertically",
@@ -7069,7 +7141,7 @@
           "name": "cells-merge-vertically",
           "code": 59013,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cell-split-horizontally",
@@ -7078,7 +7150,7 @@
           "name": "cell-split-horizontally",
           "code": 59014,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cell-split-vertically",
@@ -7087,7 +7159,7 @@
           "name": "cell-split-vertically",
           "code": 59015,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "table-unmerge",
@@ -7096,7 +7168,7 @@
           "name": "table-unmerge",
           "code": 59016,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "pane-freeze",
@@ -7105,7 +7177,7 @@
           "name": "pane-freeze",
           "code": 59017,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "row-freeze",
@@ -7114,7 +7186,7 @@
           "name": "row-freeze",
           "code": 59018,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "column-freeze",
@@ -7123,7 +7195,7 @@
           "name": "column-freeze",
           "code": 59019,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "toolbar-float",
@@ -7132,7 +7204,7 @@
           "name": "toolbar-float",
           "code": 59020,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "spell-checker",
@@ -7141,7 +7213,7 @@
           "name": "spell-checker",
           "code": 59021,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "validation-xhtml",
@@ -7150,7 +7222,7 @@
           "name": "validation-xhtml",
           "code": 59022,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "validation-data",
@@ -7159,7 +7231,7 @@
           "name": "validation-data",
           "code": 59023,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "toggle-full-screen-mode",
@@ -7168,7 +7240,7 @@
           "name": "toggle-full-screen-mode",
           "code": 59024,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "formula-fx",
@@ -7177,7 +7249,7 @@
           "name": "formula-fx",
           "code": 59025,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "sum",
@@ -7186,7 +7258,7 @@
           "name": "sum",
           "code": 59026,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "symbol",
@@ -7195,7 +7267,7 @@
           "name": "symbol",
           "code": 59027,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "dollar, currency",
@@ -7204,7 +7276,7 @@
           "name": "dollar",
           "code": 59028,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "percent",
@@ -7213,7 +7285,7 @@
           "name": "percent",
           "code": 59029,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "custom-format",
@@ -7222,7 +7294,7 @@
           "name": "custom-format",
           "code": 59030,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "decimal-increase",
@@ -7231,7 +7303,7 @@
           "name": "decimal-increase",
           "code": 59031,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "decimal-decrease",
@@ -7240,7 +7312,7 @@
           "name": "decimal-decrease",
           "code": 59032,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "font-size",
@@ -7249,7 +7321,7 @@
           "name": "font-size",
           "code": 59033,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "image-absolute-position",
@@ -7258,7 +7330,7 @@
           "name": "image-absolute-position",
           "code": 59034,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 3170,
@@ -7266,7 +7338,7 @@
           "name": "wizard-table",
           "prevSize": 16,
           "code": 59035,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "wizard-table"
         },
         {
@@ -7275,7 +7347,7 @@
           "name": "crosstab",
           "prevSize": 16,
           "code": 59036,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "crosstab"
         },
         {
@@ -7284,7 +7356,7 @@
           "name": "wizard-crosstab",
           "prevSize": 16,
           "code": 59037,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "wizard-crosstab"
         },
         {
@@ -7293,7 +7365,7 @@
           "name": "table-body",
           "prevSize": 16,
           "code": 59038,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "table-body"
         },
         {
@@ -7302,7 +7374,7 @@
           "name": "table-column-groups",
           "prevSize": 16,
           "code": 59039,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "table-column-groups"
         },
         {
@@ -7311,7 +7383,7 @@
           "name": "table-corner",
           "prevSize": 16,
           "code": 59040,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "table-corner"
         },
         {
@@ -7320,7 +7392,7 @@
           "name": "table-row-groups",
           "prevSize": 16,
           "code": 59041,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "table-row-groups"
         }
       ],
@@ -9511,7 +9583,7 @@
           "name": "globe-outline",
           "code": 59136,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "globe",
@@ -9520,7 +9592,7 @@
           "name": "globe",
           "code": 59137,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "marker-pin",
@@ -9529,7 +9601,7 @@
           "name": "marker-pin",
           "code": 59138,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "marker-pin-target",
@@ -9538,7 +9610,7 @@
           "name": "marker-pin-target",
           "code": 59139,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "pin",
@@ -9547,7 +9619,7 @@
           "name": "pin",
           "code": 59140,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "unpin",
@@ -9556,7 +9628,7 @@
           "name": "unpin",
           "code": 59141,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 7,
@@ -9660,7 +9732,7 @@
           "name": "share",
           "code": 59392,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "user",
@@ -9669,7 +9741,7 @@
           "name": "user",
           "code": 59393,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "inbox",
@@ -9678,7 +9750,7 @@
           "name": "inbox",
           "code": 59394,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "blogger",
@@ -9687,7 +9759,7 @@
           "name": "blogger",
           "code": 59395,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "blogger-box",
@@ -9696,7 +9768,7 @@
           "name": "blogger-box",
           "code": 59396,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "delicious",
@@ -9705,7 +9777,7 @@
           "name": "delicious",
           "code": 59397,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "delicious-box",
@@ -9714,7 +9786,7 @@
           "name": "delicious-box",
           "code": 59398,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "digg",
@@ -9723,7 +9795,7 @@
           "name": "digg",
           "code": 59399,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "digg-box",
@@ -9732,7 +9804,7 @@
           "name": "digg-box",
           "code": 59400,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "email, envelop, letter",
@@ -9741,7 +9813,7 @@
           "name": "email",
           "code": 59401,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "email-box, envelop-box, letter-box",
@@ -9750,7 +9822,7 @@
           "name": "email-box",
           "code": 59402,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "facebook",
@@ -9759,7 +9831,7 @@
           "name": "facebook",
           "code": 59403,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "facebook-box",
@@ -9768,7 +9840,7 @@
           "name": "facebook-box",
           "code": 59404,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "google",
@@ -9777,7 +9849,7 @@
           "name": "google",
           "code": 59405,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "google-box",
@@ -9786,7 +9858,7 @@
           "name": "google-box",
           "code": 59406,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "google-plus",
@@ -9795,7 +9867,7 @@
           "name": "google-plus",
           "code": 59407,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "google-plus-box",
@@ -9804,7 +9876,7 @@
           "name": "google-plus-box",
           "code": 59408,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "linkedin",
@@ -9813,7 +9885,7 @@
           "name": "linkedin",
           "code": 59409,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "linkedin-box",
@@ -9822,7 +9894,7 @@
           "name": "linkedin-box",
           "code": 59410,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "myspace",
@@ -9831,7 +9903,7 @@
           "name": "myspace",
           "code": 59411,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "myspace-box",
@@ -9840,7 +9912,7 @@
           "name": "myspace-box",
           "code": 59412,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "pinterest",
@@ -9849,7 +9921,7 @@
           "name": "pinterest",
           "code": 59413,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "pinterest-box",
@@ -9858,7 +9930,7 @@
           "name": "pinterest-box",
           "code": 59414,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "reddit",
@@ -9867,7 +9939,7 @@
           "name": "reddit",
           "code": 59415,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "reddit-box",
@@ -9876,7 +9948,7 @@
           "name": "reddit-box",
           "code": 59416,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "stumble-upon",
@@ -9885,7 +9957,7 @@
           "name": "stumble-upon",
           "code": 59417,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "stumble-upon-box",
@@ -9894,7 +9966,7 @@
           "name": "stumble-upon-box",
           "code": 59418,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "tell-a-friend",
@@ -9903,7 +9975,7 @@
           "name": "tell-a-friend",
           "code": 59419,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "tell-a-friend-box",
@@ -9912,7 +9984,7 @@
           "name": "tell-a-friend-box",
           "code": 59420,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "tumblr",
@@ -9921,7 +9993,7 @@
           "name": "tumblr",
           "code": 59421,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "tumblr-box",
@@ -9930,7 +10002,7 @@
           "name": "tumblr-box",
           "code": 59422,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "twitter",
@@ -9939,7 +10011,7 @@
           "name": "twitter",
           "code": 59423,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "twitter-box",
@@ -9948,7 +10020,7 @@
           "name": "twitter-box",
           "code": 59424,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "yammer",
@@ -9957,7 +10029,7 @@
           "name": "yammer",
           "code": 59425,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "yammer-box",
@@ -9966,7 +10038,7 @@
           "name": "yammer-box",
           "code": 59426,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "behance",
@@ -9975,7 +10047,7 @@
           "name": "behance",
           "code": 59427,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "behance-box",
@@ -9984,7 +10056,7 @@
           "name": "behance-box",
           "code": 59428,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "dribbble",
@@ -9993,7 +10065,7 @@
           "name": "dribbble",
           "code": 59429,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "dribbble-box",
@@ -10002,7 +10074,7 @@
           "name": "dribbble-box",
           "code": 59430,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "rss",
@@ -10011,7 +10083,7 @@
           "name": "rss",
           "code": 59431,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "rss-box",
@@ -10020,7 +10092,7 @@
           "name": "rss-box",
           "code": 59432,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "vimeo",
@@ -10029,7 +10101,7 @@
           "name": "vimeo",
           "code": 59433,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "vimeo-box",
@@ -10038,7 +10110,7 @@
           "name": "vimeo-box",
           "code": 59434,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "youtube",
@@ -10047,7 +10119,7 @@
           "name": "youtube",
           "code": 59435,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "youtube-box",
@@ -10056,7 +10128,7 @@
           "name": "youtube-box",
           "code": 59436,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 8,
@@ -10660,7 +10732,7 @@
           "name": "folder",
           "code": 59648,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "folder-open",
@@ -10669,7 +10741,7 @@
           "name": "folder-open",
           "code": 59649,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "folder-add",
@@ -10678,7 +10750,7 @@
           "name": "folder-add",
           "code": 59650,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "folder-up",
@@ -10687,7 +10759,7 @@
           "name": "folder-up",
           "code": 59651,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "folder-more, fields-more",
@@ -10696,7 +10768,7 @@
           "name": "folder-more",
           "code": 59652,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "aggregate-fields",
@@ -10705,7 +10777,7 @@
           "name": "aggregate-fields",
           "code": 59653,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file, file-vertical, page-portrait",
@@ -10714,7 +10786,7 @@
           "name": "file",
           "code": 59654,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-add",
@@ -10723,7 +10795,7 @@
           "name": "file-add",
           "code": 59655,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-txt, txt",
@@ -10732,7 +10804,7 @@
           "name": "file-txt",
           "code": 59656,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-csv, csv",
@@ -10741,7 +10813,7 @@
           "name": "file-csv",
           "code": 59657,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-excel, file-xls, excel, xls",
@@ -10750,7 +10822,7 @@
           "name": "file-excel",
           "code": 59658,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-word, file-doc, word, doc",
@@ -10759,7 +10831,7 @@
           "name": "file-word",
           "code": 59659,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-mdb, mdb",
@@ -10768,7 +10840,7 @@
           "name": "file-mdb",
           "code": 59660,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-ppt, ppt",
@@ -10777,7 +10849,7 @@
           "name": "file-ppt",
           "code": 59661,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-pdf, pdf",
@@ -10786,7 +10858,7 @@
           "name": "file-pdf",
           "code": 59662,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-psd, psd",
@@ -10795,7 +10867,7 @@
           "name": "file-psd",
           "code": 59663,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-flash, flash",
@@ -10804,7 +10876,7 @@
           "name": "file-flash",
           "code": 59664,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-config, config",
@@ -10813,7 +10885,7 @@
           "name": "file-config",
           "code": 59665,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-ascx, ascx",
@@ -10822,7 +10894,7 @@
           "name": "file-ascx",
           "code": 59666,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-bac, bac",
@@ -10831,7 +10903,7 @@
           "name": "file-bac",
           "code": 59667,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-zip, zip",
@@ -10840,7 +10912,7 @@
           "name": "file-zip",
           "code": 59668,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "film",
@@ -10849,7 +10921,7 @@
           "name": "film",
           "code": 59669,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "css3",
@@ -10858,7 +10930,7 @@
           "name": "css3",
           "code": 59670,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "html5",
@@ -10867,7 +10939,7 @@
           "name": "html5",
           "code": 59671,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "html, source-code, view-source",
@@ -10876,7 +10948,7 @@
           "name": "html",
           "code": 59672,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "css",
@@ -10885,7 +10957,7 @@
           "name": "css",
           "code": 59673,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "js",
@@ -10894,7 +10966,7 @@
           "name": "js",
           "code": 59674,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "exe",
@@ -10903,7 +10975,7 @@
           "name": "exe",
           "code": 59675,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "csproj",
@@ -10912,7 +10984,7 @@
           "name": "csproj",
           "code": 59676,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "vbproj",
@@ -10921,7 +10993,7 @@
           "name": "vbproj",
           "code": 59677,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cs",
@@ -10930,7 +11002,7 @@
           "name": "cs",
           "code": 59678,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "vb",
@@ -10939,7 +11011,7 @@
           "name": "vb",
           "code": 59679,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "sln",
@@ -10948,7 +11020,7 @@
           "name": "sln",
           "code": 59680,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "cloud",
@@ -10957,7 +11029,7 @@
           "name": "cloud",
           "code": 59681,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "ligatures": "file-horizontal, page-landscape",
@@ -10966,7 +11038,7 @@
           "name": "file-horizontal",
           "code": 59682,
           "prevSize": 16,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 3645,
@@ -10974,7 +11046,7 @@
           "name": "subreport",
           "prevSize": 16,
           "code": 59683,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "subreport"
         },
         {
@@ -10983,7 +11055,7 @@
           "name": "data",
           "prevSize": 16,
           "code": 59684,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "data"
         },
         {
@@ -10992,7 +11064,7 @@
           "name": "report-header-section",
           "prevSize": 16,
           "code": 59685,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "report-header-section"
         },
         {
@@ -11001,7 +11073,7 @@
           "name": "report-footer-section",
           "prevSize": 16,
           "code": 59686,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "report-footer-section"
         },
         {
@@ -11010,7 +11082,7 @@
           "name": "group-header-section",
           "prevSize": 16,
           "code": 59687,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "group-header-section"
         },
         {
@@ -11019,7 +11091,7 @@
           "name": "group-footer-section",
           "prevSize": 16,
           "code": 59688,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "group-footer-section"
         },
         {
@@ -11028,7 +11100,7 @@
           "name": "page-header-section",
           "prevSize": 16,
           "code": 59689,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "page-header-section"
         },
         {
@@ -11037,7 +11109,7 @@
           "name": "page-footer-section",
           "prevSize": 16,
           "code": 59690,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "page-footer-section"
         },
         {
@@ -11046,7 +11118,7 @@
           "name": "detail-section",
           "prevSize": 16,
           "code": 59691,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "detail-section"
         },
         {
@@ -11055,7 +11127,7 @@
           "name": "toc-section",
           "prevSize": 16,
           "code": 59692,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "toc-section"
         },
         {
@@ -11064,7 +11136,7 @@
           "name": "group-section",
           "prevSize": 16,
           "code": 59693,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "group-section"
         },
         {
@@ -11073,7 +11145,7 @@
           "name": "parameters",
           "prevSize": 16,
           "code": 59694,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameters"
         },
         {
@@ -11082,7 +11154,7 @@
           "name": "data-csv",
           "prevSize": 16,
           "code": 59695,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "data-csv"
         },
         {
@@ -11091,7 +11163,7 @@
           "name": "data-json",
           "prevSize": 16,
           "code": 59696,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "data-json"
         },
         {
@@ -11100,7 +11172,7 @@
           "name": "data-sql",
           "prevSize": 16,
           "code": 59697,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "data-sql"
         },
         {
@@ -11109,7 +11181,7 @@
           "name": "data-web",
           "prevSize": 16,
           "code": 59698,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "data-web"
         },
         {
@@ -11118,7 +11190,7 @@
           "name": "group-collection",
           "prevSize": 16,
           "code": 59699,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "group-collection"
         },
         {
@@ -11127,7 +11199,7 @@
           "name": "parameter-boolean",
           "prevSize": 16,
           "code": 59700,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameter-boolean"
         },
         {
@@ -11136,7 +11208,7 @@
           "name": "parameter-date-time",
           "prevSize": 16,
           "code": 59701,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameter-date-time"
         },
         {
@@ -11145,7 +11217,7 @@
           "name": "parameter-float",
           "prevSize": 16,
           "code": 59702,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameter-float"
         },
         {
@@ -11154,7 +11226,7 @@
           "name": "parameter-integer",
           "prevSize": 16,
           "code": 59703,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameter-integer"
         },
         {
@@ -11163,7 +11235,7 @@
           "name": "parameter-string",
           "prevSize": 16,
           "code": 59704,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameter-string"
         },
         {
@@ -11172,7 +11244,7 @@
           "name": "toc-section-level",
           "prevSize": 16,
           "code": 59705,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "toc-section-level"
         },
         {
@@ -11181,7 +11253,7 @@
           "name": "inherited",
           "prevSize": 16,
           "code": 59706,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "inherited"
         },
         {
@@ -11190,7 +11262,7 @@
           "name": "file-video",
           "prevSize": 16,
           "code": 59707,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-video"
         },
         {
@@ -11199,7 +11271,7 @@
           "name": "file-audio",
           "prevSize": 16,
           "code": 59708,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-audio"
         },
         {
@@ -11208,7 +11280,7 @@
           "name": "file-image",
           "prevSize": 16,
           "code": 59709,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-image"
         },
         {
@@ -11217,7 +11289,7 @@
           "name": "file-presentation",
           "prevSize": 16,
           "code": 59710,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-presentation"
         },
         {
@@ -11226,7 +11298,7 @@
           "name": "file-data",
           "prevSize": 16,
           "code": 59711,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-data"
         },
         {
@@ -11235,7 +11307,7 @@
           "name": "file-disc-image",
           "prevSize": 16,
           "code": 59712,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-disc-image"
         },
         {
@@ -11244,7 +11316,7 @@
           "name": "file-programming",
           "prevSize": 16,
           "code": 59713,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-programming"
         },
         {
@@ -11253,7 +11325,7 @@
           "name": "parameters-byte-array",
           "prevSize": 16,
           "code": 59714,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameters-byte-array"
         },
         {
@@ -11262,7 +11334,7 @@
           "name": "parameters-unknown",
           "prevSize": 16,
           "code": 59715,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "parameters-unknown"
         },
         {
@@ -11271,7 +11343,7 @@
           "name": "file-error",
           "prevSize": 16,
           "code": 59716,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "file-error, file-validation"
         },
         {
@@ -11280,7 +11352,7 @@
           "name": "files-error",
           "prevSize": 16,
           "code": 59717,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "files-error, files-validation"
         },
         {
@@ -11289,7 +11361,7 @@
           "name": "data-rest",
           "prevSize": 16,
           "code": 59718,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 3824,
@@ -11297,7 +11369,7 @@
           "name": "file-typescript",
           "prevSize": 16,
           "code": 59719,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 9,
@@ -12143,7 +12215,7 @@
           "name": "graph",
           "prevSize": 16,
           "code": 59904,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "graph"
         },
         {
@@ -12152,7 +12224,7 @@
           "name": "column-clustered",
           "prevSize": 16,
           "code": 59905,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-clustered"
         },
         {
@@ -12161,7 +12233,7 @@
           "name": "column-stacked",
           "prevSize": 16,
           "code": 59906,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-stacked"
         },
         {
@@ -12170,7 +12242,7 @@
           "name": "column-stacked100",
           "prevSize": 16,
           "code": 59907,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-stacked100"
         },
         {
@@ -12179,7 +12251,7 @@
           "name": "column-range",
           "prevSize": 16,
           "code": 59908,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-range"
         },
         {
@@ -12188,7 +12260,7 @@
           "name": "bar-clustered",
           "prevSize": 16,
           "code": 59909,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-clustered"
         },
         {
@@ -12197,7 +12269,7 @@
           "name": "bar-stacked",
           "prevSize": 16,
           "code": 59910,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-stacked"
         },
         {
@@ -12206,7 +12278,7 @@
           "name": "bar-stacked100",
           "prevSize": 16,
           "code": 59911,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-stacked100"
         },
         {
@@ -12215,7 +12287,7 @@
           "name": "bar-range",
           "prevSize": 16,
           "code": 59912,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-range"
         },
         {
@@ -12224,7 +12296,7 @@
           "name": "area-clustered",
           "prevSize": 16,
           "code": 59913,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-clustered"
         },
         {
@@ -12233,7 +12305,7 @@
           "name": "area-stacked",
           "prevSize": 16,
           "code": 59914,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-stacked"
         },
         {
@@ -12242,7 +12314,7 @@
           "name": "area-stacked100",
           "prevSize": 16,
           "code": 59915,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-stacked100"
         },
         {
@@ -12251,7 +12323,7 @@
           "name": "area-range",
           "prevSize": 16,
           "code": 59916,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-range"
         },
         {
@@ -12260,7 +12332,7 @@
           "name": "line1",
           "prevSize": 16,
           "code": 59917,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line1"
         },
         {
@@ -12269,7 +12341,7 @@
           "name": "line-stacked",
           "prevSize": 16,
           "code": 59918,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked"
         },
         {
@@ -12278,7 +12350,7 @@
           "name": "line-stacked100",
           "prevSize": 16,
           "code": 59919,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked100"
         },
         {
@@ -12287,7 +12359,7 @@
           "name": "line-markers",
           "prevSize": 16,
           "code": 59920,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-markers"
         },
         {
@@ -12296,7 +12368,7 @@
           "name": "line-stacked-markers",
           "prevSize": 16,
           "code": 59921,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked-markers"
         },
         {
@@ -12305,7 +12377,7 @@
           "name": "line-stacked100-markers",
           "prevSize": 16,
           "code": 59922,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked100-markers"
         },
         {
@@ -12314,7 +12386,7 @@
           "name": "pie",
           "prevSize": 16,
           "code": 59923,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "pie"
         },
         {
@@ -12323,7 +12395,7 @@
           "name": "doughnut",
           "prevSize": 16,
           "code": 59924,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "doughnut"
         },
         {
@@ -12332,7 +12404,7 @@
           "name": "scatter",
           "prevSize": 16,
           "code": 59925,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter"
         },
         {
@@ -12341,7 +12413,7 @@
           "name": "scatter-smooth-lines-markers",
           "prevSize": 16,
           "code": 59926,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-smooth-lines-markers"
         },
         {
@@ -12350,7 +12422,7 @@
           "name": "scatter-smooth-lines",
           "prevSize": 16,
           "code": 59927,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-smooth-lines"
         },
         {
@@ -12359,7 +12431,7 @@
           "name": "scatter-straight-lines-markers",
           "prevSize": 16,
           "code": 59928,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-straight-lines-markers"
         },
         {
@@ -12368,7 +12440,7 @@
           "name": "scatter-straight-lines",
           "prevSize": 16,
           "code": 59929,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-straight-lines"
         },
         {
@@ -12377,7 +12449,7 @@
           "name": "bubble",
           "prevSize": 16,
           "code": 59930,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bubble"
         },
         {
@@ -12386,7 +12458,7 @@
           "name": "candle-stick",
           "prevSize": 16,
           "code": 59931,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "candle-stick"
         },
         {
@@ -12395,7 +12467,7 @@
           "name": "bar",
           "prevSize": 16,
           "code": 59932,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar"
         },
         {
@@ -12404,7 +12476,7 @@
           "name": "radar",
           "prevSize": 16,
           "code": 59933,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar"
         },
         {
@@ -12413,7 +12485,7 @@
           "name": "radar-markers",
           "prevSize": 16,
           "code": 59934,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar-markers"
         },
         {
@@ -12422,7 +12494,7 @@
           "name": "radar-filled",
           "prevSize": 16,
           "code": 59935,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar-filled"
         },
         {
@@ -12431,7 +12503,7 @@
           "name": "rose",
           "prevSize": 16,
           "code": 59936,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "rose"
         },
         {
@@ -12440,7 +12512,7 @@
           "name": "choropleth",
           "prevSize": 16,
           "code": 59937,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "choropleth"
         }
       ],

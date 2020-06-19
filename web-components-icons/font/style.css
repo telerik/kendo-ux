@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?jmq7cq');
-  src:  url('fonts/WebComponentsIcons.eot?jmq7cq#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?jmq7cq') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?jmq7cq') format('woff'),
-    url('fonts/WebComponentsIcons.svg?jmq7cq#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?fquc70');
+  src:  url('fonts/WebComponentsIcons.eot?fquc70#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?fquc70') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?fquc70') format('woff'),
+    url('fonts/WebComponentsIcons.svg?fquc70#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -13,7 +13,7 @@
 [class^="k-i"], [class*=" k-i"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'WebComponentsIcons' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -463,6 +463,15 @@
 }
 .k-i-cursor:before {
   content: "\e159";
+}
+.k-i-stick:before {
+  content: "\e15a";
+}
+.k-i-unstick:before {
+  content: "\e15b";
+}
+.k-i-set-column-position:before {
+  content: "\e15c";
 }
 .k-i-play:before {
   content: "\e200";

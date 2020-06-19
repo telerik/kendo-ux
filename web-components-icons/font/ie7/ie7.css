@@ -427,6 +427,15 @@
 .k-i-cursor {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe159;');
 }
+.k-i-stick {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe15a;');
+}
+.k-i-unstick {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe15b;');
+}
+.k-i-set-column-position {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe15c;');
+}
 .k-i-play {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe200;');
 }
