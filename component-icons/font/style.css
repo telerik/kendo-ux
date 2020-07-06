@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?ts5vd8');
-  src:  url('fonts/widgets.eot?ts5vd8#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?ts5vd8') format('truetype'),
-    url('fonts/widgets.woff?ts5vd8') format('woff'),
-    url('fonts/widgets.svg?ts5vd8#widgets') format('svg');
+  src:  url('fonts/widgets.eot?ttfgrp');
+  src:  url('fonts/widgets.eot?ttfgrp#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?ttfgrp') format('truetype'),
+    url('fonts/widgets.woff?ttfgrp') format('woff'),
+    url('fonts/widgets.svg?ttfgrp#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -13,7 +13,7 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'widgets' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -450,4 +450,7 @@
 }
 .icon-rangeslider:before {
   content: "\e930";
+}
+.icon-imageeditor:before {
+  content: "\e931";
 }
