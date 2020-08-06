@@ -28,3 +28,11 @@ componentname-variation-interactivestate-element.xd
 ```
 button-flat-focused-shade.xd
 ```
+
+## Active links to the design files
+[ContextMenu](https://xd.adobe.com/view/256f00ac-7e9f-49e3-9c3d-784623ba0faf-703c/)
+[Image Editor](https://xd.adobe.com/view/e080168d-4caf-41c9-8bbe-1c76fb368471-b5d3/)
+[Loader](https://xd.adobe.com/view/989e7bcb-afce-4c5e-a367-288be28fc4bc-cdcd/)
+[TextArea](https://xd.adobe.com/view/07136469-3230-4d48-8427-6ff9da7f01c5-5240/)
+[TreeList](https://xd.adobe.com/view/643ad196-d0dc-4ab3-a322-3d8baf258805-3169/)
+[TreeView](https://xd.adobe.com/view/abb1b91f-42e1-4aeb-8c53-99e8a98ca1c0-fee2/)
