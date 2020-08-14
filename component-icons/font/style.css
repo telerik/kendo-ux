@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?7sufvu');
-  src:  url('fonts/widgets.eot?7sufvu#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?7sufvu') format('truetype'),
-    url('fonts/widgets.woff?7sufvu') format('woff'),
-    url('fonts/widgets.svg?7sufvu#widgets') format('svg');
+  src:  url('fonts/widgets.eot?c1oqfy');
+  src:  url('fonts/widgets.eot?c1oqfy#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?c1oqfy') format('truetype'),
+    url('fonts/widgets.woff?c1oqfy') format('woff'),
+    url('fonts/widgets.svg?c1oqfy#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -462,4 +462,7 @@
 }
 .icon-contextmenu:before {
   content: "\e934";
+}
+.icon-icon:before {
+  content: "\e935";
 }
