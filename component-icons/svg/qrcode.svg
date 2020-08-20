@@ -1,11 +1,10 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>qrcode</title>
-  <path class="cls-1" d="M12,4h2V0H10V2h2ZM6,6H4V8H6Zm4-2V2H8V4ZM2,14H0v4H2Zm16-2V10H14v2ZM2,6H0V8H2ZM4,2H8V0H0V4H4ZM18,0H16V2h2ZM12,8v2h2V8ZM4,14H6V12H4Zm6,2V14H6v2ZM2,10v2H4V10ZM8,6v4H6v2h4V8h2V6ZM0,24H4V20H0ZM22,12h2V8H22Zm-8,8v2h2V20Zm4-2H16v2h2Zm4,0H20v2h4V14H22Zm-4,4h2V20H18ZM18,4H16V8h4V6H18ZM6,18H4v2H6ZM20,0V6h2V4h2V0ZM6,24H8V22H6Zm10,0h2V22H16Zm8,0V22H20v2ZM14,16h6V14H12v4h2Zm-2,4V18H8v4h2V20Zm-2,4h4V22H10Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M12,4h2V0h-4v2h2V4z M6,6H4v2h2V6z M10,4V2H8v2H10z M2,14H0v4h2V14z M18,12v-2h-4v2H18z M2,6H0v2h2V6z M4,2h4V0H0v4h4V2z
+	 M18,0h-2v2h2V0z M12,8v2h2V8H12z M4,14h2v-2H4V14z M10,16v-2H6v2H10z M2,10v2h2v-2H2z M8,6v4H6v2h4V8h2V6H8z M0,24h4v-4H0V24z
+	 M22,12h2V8h-2V12z M14,20v2h2v-2H14z M18,18h-2v2h2V18z M22,18h-2v2h4v-6h-2V18z M18,22h2v-2h-2V22z M18,4h-2v4h4V6h-2V4z M6,18H4
+	v2h2V18z M20,0v6h2V4h2V0H20z M6,24h2v-2H6V24z M16,24h2v-2h-2V24z M24,24v-2h-4v2H24z M14,16h6v-2h-8v4h2V16z M12,20v-2H8v4h2v-2
+	H12z M10,24h4v-2h-4V24z"/>
 </svg>

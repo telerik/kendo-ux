@@ -1,11 +1,8 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>scheduler</title>
-  <path class="cls-1" d="M14,1H10V3h4Zm3-1H15V4h2ZM9,0H7V4H9ZM20,19.17,17.17,22H4V5H2V24H18l4-4V5H20ZM6,1H0V3H6Zm0,9H7v2H6v2H7v2H6v2H7v2l2-2h2v2l2-2h2v2l4-4H17V14l2-2H17V10l2-2H17V7H15V8H13V7H11V8H9V7H7V8H6Zm7,0h2v2H13Zm0,4h2v2H13ZM9,10h2v2H9Zm0,4h2v2H9ZM18,1V3h4l2-2Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M14,1h-4v2h4V1z M17,0h-2v4h2V0z M9,0H7v4h2V0z M20,19.2L17.2,22H4V5H2v19h16l4-4V5h-2V19.2z M6,1H0v2h6V1z M6,10h1v2H6v2h1
+	v2H6v2h1v2l2-2h2v2l2-2h2v2l4-4h-2v-2l2-2h-2v-2l2-2h-2V7h-2v1h-2V7h-2v1H9V7H7v1H6V10z M13,10h2v2h-2V10z M13,14h2v2h-2V14z M9,10
+	h2v2H9V10z M9,14h2v2H9V14z M18,1v2h4l2-2H18z"/>
 </svg>

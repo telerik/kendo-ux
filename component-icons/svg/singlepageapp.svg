@@ -1,11 +1,6 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>singlepageapp</title>
-  <path class="cls-1" d="M18,10H6v2H16ZM2,0V24H18l4-4V0ZM20,19.17,17.17,22H4V2H20ZM18,6H6V8H16Zm-4,8H6v2h6Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M18,10H6v2h10L18,10z M2,0v24h16l4-4V0H2z M20,19.2L17.2,22H4V2h16V19.2z M18,6H6v2h10L18,6z M14,14H6v2h6L14,14z"/>
 </svg>

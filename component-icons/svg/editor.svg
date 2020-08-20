@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>editor</title>
-  <path class="cls-1" d="M4,16H8l2-2H4Zm14,3.17L15.17,22H2V2H18V6l2-2V0H0V24H16l4-4V13l-2,2ZM14,10H4v2h8ZM4,6V8h8l2-2Zm6,11.17h0L7.17,20H10L24,6V3.17Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M4,16h4l2-2H4V16z M18,19.2L15.2,22H2V2h16v4l2-2V0H0v24h16l4-4v-7l-2,2V19.2z M14,10H4v2h8L14,10z M4,6v2h8l2-2H4z
+	 M10,17.2L10,17.2L7.2,20H10L24,6V3.2L10,17.2z"/>
 </svg>

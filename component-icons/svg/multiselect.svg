@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>multiselect</title>
-  <path class="cls-1" d="M8,0H0V2H8ZM20,19.17,17.17,22H4V8H2V24H18l4-4h0V8H20ZM24,0H10V2H22ZM6,16h6l2-2H6Zm12-6H6v2H16ZM0,6H22l2-2H0Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M8,0H0v2h8V0z M20,19.2L17.2,22H4V8H2v16h16l4-4l0,0V8h-2V19.2z M24,0H10v2h12L24,0z M6,16h6l2-2H6V16z M18,10H6v2h10L18,10
+	z M0,6h22l2-2H0V6z"/>
 </svg>

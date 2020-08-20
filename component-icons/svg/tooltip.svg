@@ -1,11 +1,6 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>tooltip</title>
-  <path class="cls-1" d="M18,6H6V8H16ZM2,0V19H7l5,5,5-5h5V0ZM20,17H16.17L12,21.18,7.83,17H4V2H20Zm-6-7H6v2h6Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M18,6H6v2h10L18,6z M2,0v19h5l5,5l5-5h5V0H2z M20,17h-3.8L12,21.2L7.8,17H4V2h16V17z M14,10H6v2h6L14,10z"/>
 </svg>

@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>listview</title>
-  <path class="cls-1" d="M0,24H7l4-4V14H0Zm2-8H9v3.17L6.17,22H2ZM13,0V10h7l4-4V0Zm9,5.17L19.17,8H15V2h7ZM0,10H7l4-4V0H0ZM2,2H9V5.17L6.17,8H2ZM13,24h7l4-4V14H13Zm2-8h7v3.17L19.17,22H15Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M0,24h7l4-4v-6H0V24z M2,16h7v3.2L6.2,22H2V16z M13,0v10h7l4-4V0H13z M22,5.2L19.2,8H15V2h7V5.2z M0,10h7l4-4V0H0V10z M2,2
+	h7v3.2L6.2,8H2V2z M13,24h7l4-4v-6H13V24z M15,16h7v3.2L19.2,22H15V16z"/>
 </svg>

@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>combobox</title>
-  <path class="cls-1" d="M6,16h6l2-2H6Zm12-6H6v2H16ZM6,6V8H16l2-2ZM16,0H0V2H16Zm2,0V2h4l2-2Zm2,19.17L17.17,22H4V4H2V24H18l4-4h0V4H20Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M6,16h6l2-2H6V16z M18,10H6v2h10L18,10z M6,6v2h10l2-2H6z M16,0H0v2h16V0z M18,0v2h4l2-2H18z M20,19.2L17.2,22H4V4H2v20h16
+	l4-4l0,0V4h-2V19.2z"/>
 </svg>

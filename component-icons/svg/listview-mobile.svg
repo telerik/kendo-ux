@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>listview-mobile</title>
-  <path class="cls-1" d="M0,17H4V13H0ZM24,2H6V4H22ZM0,11H4V7H0ZM0,23H4V19H0Zm6-1H22l2-2H6ZM6,10H22l2-2H6ZM0,5H4V1H0ZM6,16H22l2-2H6Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M0,17h4v-4H0V17z M24,2H6v2h16L24,2z M0,11h4V7H0V11z M0,23h4v-4H0V23z M6,22h16l2-2H6V22z M6,10h16l2-2H6V10z M0,5h4V1H0V5
+	z M6,16h16l2-2H6V16z"/>
 </svg>

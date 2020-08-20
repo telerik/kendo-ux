@@ -1,11 +1,6 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>enum</title>
-  <path class="cls-1" d="M15.45,15.2h-4.6V12.72h3.9V10.94h-3.9V8.8h4.62V7H8.53V17h6.92ZM0,0V24H20l4-4V0ZM22,19.17,19.17,22H2V2H22Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M15.4,15.2h-4.6v-2.5h3.9v-1.8h-3.9V8.8h4.6V7H8.5v10h6.9V15.2z M0,0v24h20l4-4V0H0z M22,19.2L19.2,22H2V2h20V19.2z"/>
 </svg>

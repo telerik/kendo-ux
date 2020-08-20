@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>treeview</title>
-  <path class="cls-1" d="M6,23h4V19H6ZM0,5H4V1H0ZM24,2H6V4H22ZM16,13H12v4h4ZM6,11h4V7H6Zm6-1H22l2-2H12Zm0,12H22l2-2H12Zm6-6h4l2-2H18Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M6,23h4v-4H6V23z M0,5h4V1H0V5z M24,2H6v2h16L24,2z M16,13h-4v4h4V13z M6,11h4V7H6V11z M12,10h10l2-2H12V10z M12,22h10l2-2
+	H12V22z M18,16h4l2-2h-6V16z"/>
 </svg>

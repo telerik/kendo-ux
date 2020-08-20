@@ -1,11 +1,8 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>avatar</title>
-  <path class="cls-1" d="M12,7a3,3,0,1,0,3,3A3,3,0,0,0,12,7Zm0-7A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm6.44,19.65a6.5,6.5,0,0,0-12.88,0,10,10,0,1,1,12.88,0Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M12,7c-1.7,0-3,1.3-3,3s1.3,3,3,3s3-1.3,3-3S13.7,7,12,7z M12,0C5.4,0,0,5.4,0,12s5.4,12,12,12s12-5.4,12-12S18.6,0,12,0z
+	 M18.4,19.6c-0.5-3.6-3.8-6-7.3-5.6c-2.9,0.4-5.2,2.7-5.6,5.6C1.3,16.1,0.8,9.8,4.3,5.6s9.9-4.8,14.1-1.2s4.8,9.9,1.2,14.1
+	C19.3,18.9,18.9,19.3,18.4,19.6z"/>
 </svg>

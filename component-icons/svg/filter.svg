@@ -1,11 +1,6 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>filter</title>
-  <path class="cls-1" d="M0,1V3l9,8V23l2-2h0l2-2,2-2V11l9-8V1Zm13,9.17v6l-2,2v-8L2.82,3H21Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M0,1v2l9,8v12l2-2l0,0l2-2l2-2v-6l9-8V1H0z M13,10.2v6l-2,2v-8L2.8,3H21L13,10.2z"/>
 </svg>

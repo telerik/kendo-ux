@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>spreadprocessing</title>
-  <path class="cls-1" d="M24,11H22V9l2-2H22V5H20V7H18V5H16V7H14V9h2v2H14v2h2v2H14v2h2v2l2-2h2v2l4-4H22V13Zm-4,4H18V13h2Zm0-4H18V9h2ZM7.8,5,5,9.3,2.3,5H0l3.9,6L0,17H2.2L5,12.7,7.8,17H10L6.1,11,10,5Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M24,11h-2V9l2-2h-2V5h-2v2h-2V5h-2v2h-2v2h2v2h-2v2h2v2h-2v2h2v2l2-2h2v2l4-4h-2v-2L24,11z M20,15h-2v-2h2V15z M20,11h-2V9
+	h2V11z M7.8,5L5,9.3L2.3,5H0l3.9,6L0,17h2.2L5,12.7L7.8,17H10l-3.9-6L10,5H7.8z"/>
 </svg>

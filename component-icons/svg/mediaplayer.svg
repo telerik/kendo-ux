@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>mediaplayer</title>
-  <path class="cls-1" d="M2,24H18l4-4V4H2ZM4,6H20V19.2L17.2,22H4ZM17,2l2-2H16L14,2ZM9,0H2V2H7Zm3,2,2-2H11L9,2Zm9-2L19,2h3V0ZM10,19l5-5L10,9Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M2,24h16l4-4V4H2V24z M4,6h16v13.2L17.2,22H4V6z M17,2l2-2h-3l-2,2H17z M9,0H2v2h5L9,0z M12,2l2-2h-3L9,2H12z M21,0l-2,2h3
+	V0H21z M10,19l5-5l-5-5V19z"/>
 </svg>

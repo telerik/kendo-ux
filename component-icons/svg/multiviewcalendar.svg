@@ -1,11 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: gray;
-      }
-    </style>
-  </defs>
-  <title>multiviewcalendar</title>
-  <path class="cls-1" d="M12,1H8V3h4Zm3-1H13V4h2ZM7,0H5V4H7ZM9,9h4v2H11L9,13v2l2,2h2l2-2H11V13h2l2-2V9L13,7H11Zm10,9.17V5H17V17.34L15.34,19H3V5H1V21H16.17ZM7,7,5,9v8H7Zm9-6V3h6l2-2Zm4,18-3,3H2v2H17.83L22,19.83V5H20ZM4,1H0V3H4Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M12,1H8v2h4V1z M15,0h-2v4h2V0z M7,0H5v4h2V0z M9,9h4v2h-2l-2,2v2l2,2h2l2-2h-4v-2h2l2-2V9l-2-2h-2L9,9z M19,18.2V5h-2v12.3
+	L15.3,19H3V5H1v16h15.2L19,18.2z M7,7L5,9v8h2V7z M16,1v2h6l2-2H16z M20,19l-3,3H2v2h15.8l4.2-4.2V5h-2V19z M4,1H0v2h4V1z"/>
 </svg>
