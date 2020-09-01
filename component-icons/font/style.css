@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?7jvlad');
-  src:  url('fonts/widgets.eot?7jvlad#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?7jvlad') format('truetype'),
-    url('fonts/widgets.woff?7jvlad') format('woff'),
-    url('fonts/widgets.svg?7jvlad#widgets') format('svg');
+  src:  url('fonts/widgets.eot?phofbs');
+  src:  url('fonts/widgets.eot?phofbs#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?phofbs') format('truetype'),
+    url('fonts/widgets.woff?phofbs') format('woff'),
+    url('fonts/widgets.svg?phofbs#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -468,4 +468,7 @@
 }
 .icon-svgicon:before {
   content: "\e936";
+}
+.icon-appbar:before {
+  content: "\e937";
 }
