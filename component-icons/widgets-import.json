@@ -2,7 +2,7 @@
   "metadata": {
     "name": "WidgetsIcons",
     "lastOpened": 0,
-    "created": 1598971879669
+    "created": 1601379629530
   },
   "iconSets": [
     {
@@ -1645,6 +1645,17 @@
           "tags": [
             "appbar"
           ]
+        },
+        {
+          "id": 151,
+          "paths": [
+            "M938.667 341.333l-128 128-128-128zM0 682.667h938.667l85.333-85.333h-1024v85.333z"
+          ],
+          "attrs": [],
+          "grid": 0,
+          "tags": [
+            "expansionpanel"
+          ]
         }
       ],
       "height": 1024,
@@ -2883,6 +2894,14 @@
           "prevSize": 24,
           "code": 59703,
           "tempChar": ""
+        },
+        {
+          "order": 596,
+          "id": 151,
+          "name": "expansionpanel",
+          "prevSize": 24,
+          "code": 59704,
+          "tempChar": ""
         }
       ],
       "prevSize": 24,
