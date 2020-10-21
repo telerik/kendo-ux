@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?13r5n4');
-  src:  url('fonts/widgets.eot?13r5n4#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?13r5n4') format('truetype'),
-    url('fonts/widgets.woff?13r5n4') format('woff'),
-    url('fonts/widgets.svg?13r5n4#widgets') format('svg');
+  src:  url('fonts/widgets.eot?yp3hdf');
+  src:  url('fonts/widgets.eot?yp3hdf#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?yp3hdf') format('truetype'),
+    url('fonts/widgets.woff?yp3hdf') format('woff'),
+    url('fonts/widgets.svg?yp3hdf#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -483,4 +483,7 @@
 }
 .icon-loadercontainer:before {
   content: "\e93b";
+}
+.icon-floatingactionbutton:before {
+  content: "\e93c";
 }
