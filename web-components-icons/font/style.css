@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?fquc70');
-  src:  url('fonts/WebComponentsIcons.eot?fquc70#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?fquc70') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?fquc70') format('woff'),
-    url('fonts/WebComponentsIcons.svg?fquc70#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?40vc0r');
+  src:  url('fonts/WebComponentsIcons.eot?40vc0r#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?40vc0r') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?40vc0r') format('woff'),
+    url('fonts/WebComponentsIcons.svg?40vc0r#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1300,6 +1300,21 @@
 }
 .k-i-table-row-groups:before {
   content: "\e6a1";
+}
+.k-i-table-position-left:before {
+  content: "\e948";
+}
+.k-i-table-position-center:before {
+  content: "\e949";
+}
+.k-i-table-position-right:before {
+  content: "\e94a";
+}
+.k-i-list-roman-big:before {
+  content: "\e94b";
+}
+.k-i-list-romansmall:before {
+  content: "\e94c";
 }
 .k-i-globe-outline:before {
   content: "\e700";
