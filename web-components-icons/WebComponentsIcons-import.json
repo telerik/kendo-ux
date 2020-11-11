@@ -2,7 +2,7 @@
   "metadata": {
     "name": "WebComponentsIcons",
     "lastOpened": 0,
-    "created": 1605083574950,
+    "created": 1605093290217,
     "url": "http://www.telerik.com",
     "designer": "Telerik, A Progress Company",
     "designerURL": "http://www.telerik.com",
@@ -7396,12 +7396,13 @@
           "ligatures": "table-row-groups"
         },
         {
-          "order": 4534,
+          "order": 4537,
           "id": 163,
           "name": "table-position-left",
           "prevSize": 16,
           "code": 59720,
-          "tempChar": ""
+          "tempChar": "",
+          "ligatures": "table-position-left"
         },
         {
           "order": 4533,
@@ -7409,7 +7410,8 @@
           "name": "table-position-center",
           "prevSize": 16,
           "code": 59721,
-          "tempChar": ""
+          "tempChar": "",
+          "ligatures": "table-position-center"
         },
         {
           "order": 4535,
@@ -7417,7 +7419,8 @@
           "name": "table-position-right",
           "prevSize": 16,
           "code": 59722,
-          "tempChar": ""
+          "tempChar": "",
+          "ligatures": "table-position-right"
         },
         {
           "order": 4531,
@@ -7425,15 +7428,17 @@
           "name": "list-roman-big",
           "prevSize": 16,
           "code": 59723,
-          "tempChar": ""
+          "tempChar": "",
+          "ligatures": "list-roman-big"
         },
         {
-          "order": 4532,
+          "order": 4536,
           "id": 165,
           "name": "list-roman-small",
           "prevSize": 16,
           "code": 59724,
-          "tempChar": ""
+          "tempChar": "",
+          "ligatures": "list-roman-small"
         }
       ],
       "id": 6,
