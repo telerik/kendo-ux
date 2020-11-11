@@ -1276,7 +1276,7 @@
 .k-i-list-roman-big {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94b;');
 }
-.k-i-list-romansmall {
+.k-i-list-roman-small {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94c;');
 }
 .k-i-globe-outline {

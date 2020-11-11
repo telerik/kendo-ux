@@ -439,7 +439,7 @@
 		'k-i-table-position-center': '&#xe949;',
 		'k-i-table-position-right': '&#xe94a;',
 		'k-i-list-roman-big': '&#xe94b;',
-		'k-i-list-romansmall': '&#xe94c;',
+		'k-i-list-roman-small': '&#xe94c;',
 		'k-i-globe-outline': '&#xe700;',
 		'k-i-globe': '&#xe701;',
 		'k-i-marker-pin': '&#xe702;',
