@@ -2,6 +2,6 @@
 <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<path id="table-center_1_" d="M32,480v-32h320v32H32z M32,416v-32h448v32H32z M32,352v-32h448v32H32z M320,256H128V32h224v224H320z
-	 M320,224v-64h-64v64H320z M224,224v-64h-64v64H224z M320,128V64h-64v64H320z M224,128V64h-64v64H224z"/>
+<path d="M352,256V32H128v224h192H352z M256,64h64v64h-64V64z M224,224h-64v-64h64V224z M224,128h-64V64h64V128z M256,160h64v64h-64
+	V160z M32,448h320v32H32V448z M480,320v32H32v-32H480z M32,384h448v32H32V384z"/>
 </svg>
