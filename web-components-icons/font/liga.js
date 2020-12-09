@@ -454,6 +454,8 @@
             'list-roman-small': '&#xe94c;',
             'import': '&#xe94d;',
             'export': '&#xe94e;',
+            'match-full-word': '&#xe94f;',
+            'regular-expression': '&#xe950;',
             'globe-outline': '&#xe700;',
             'globe': '&#xe701;',
             'marker-pin': '&#xe702;',

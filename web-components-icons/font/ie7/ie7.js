@@ -442,6 +442,8 @@
 		'k-i-list-roman-small': '&#xe94c;',
 		'k-i-import': '&#xe94d;',
 		'k-i-export': '&#xe94e;',
+		'k-i-match-full-word': '&#xe94f;',
+		'k-i-regular-expression': '&#xe950;',
 		'k-i-globe-outline': '&#xe700;',
 		'k-i-globe': '&#xe701;',
 		'k-i-marker-pin': '&#xe702;',
