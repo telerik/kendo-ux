@@ -2,16 +2,6 @@
 <!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<rect x="288" y="288" width="192" height="192"/>
-<g>
-	<path d="M320,64v128h-64V64H320 M352,32H224v192h128V32L352,32z"/>
-</g>
-<rect x="32" y="160" width="64" height="192"/>
-<path d="M160,352v64H96c-35.3,0-64-28.7-64-64v0H160z"/>
-<path d="M192,96v64H32v0c0-35.3,28.7-64,64-64H192z"/>
-<polygon points="160,288 256,384 160,480 "/>
-<g>
-	<polygon points="480,32 448,32 448,224 480,224 480,32 	"/>
-</g>
-<rect x="384" y="32" width="32" height="192"/>
+<path d="M288,288h192v192H288V288z M352,224H224V32h128V224z M320,64h-64v128h64V64z M160,352H96V160h96V96H96
+	c-35.3,0-64,28.7-64,64v0v192v0c0,35.3,28.7,64,64,64h64v64l96-96l-96-96V352z M448,32v192h32V32H448z M416,32h-32v192h32V32z"/>
 </svg>
