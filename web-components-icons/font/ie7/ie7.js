@@ -444,6 +444,8 @@
 		'k-i-export': '&#xe94e;',
 		'k-i-match-full-word': '&#xe94f;',
 		'k-i-regular-expression': '&#xe950;',
+		'k-i-replace-single': '&#xe951;',
+		'k-i-replace-all': '&#xe952;',
 		'k-i-globe-outline': '&#xe700;',
 		'k-i-globe': '&#xe701;',
 		'k-i-marker-pin': '&#xe702;',

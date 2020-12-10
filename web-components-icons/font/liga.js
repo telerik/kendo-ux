@@ -456,6 +456,8 @@
             'export': '&#xe94e;',
             'match-full-word': '&#xe94f;',
             'regular-expression': '&#xe950;',
+            'replace-single': '&#xe951;',
+            'replace-all': '&#xe952;',
             'globe-outline': '&#xe700;',
             'globe': '&#xe701;',
             'marker-pin': '&#xe702;',
