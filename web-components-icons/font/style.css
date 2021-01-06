@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?3t9yiq');
-  src:  url('fonts/WebComponentsIcons.eot?3t9yiq#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?3t9yiq') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?3t9yiq') format('woff'),
-    url('fonts/WebComponentsIcons.svg?3t9yiq#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?hia0i3');
+  src:  url('fonts/WebComponentsIcons.eot?hia0i3#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?hia0i3') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?hia0i3') format('woff'),
+    url('fonts/WebComponentsIcons.svg?hia0i3#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1321,6 +1321,18 @@
 }
 .k-i-export:before {
   content: "\e94e";
+}
+.k-i-match-full-word:before {
+  content: "\e94f";
+}
+.k-i-regular-expression:before {
+  content: "\e950";
+}
+.k-i-replace-single:before {
+  content: "\e951";
+}
+.k-i-replace-all:before {
+  content: "\e952";
 }
 .k-i-globe-outline:before {
   content: "\e700";
