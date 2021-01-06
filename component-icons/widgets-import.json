@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "name": "Untitled Project 2",
+    "name": "widgets",
     "lastOpened": 0,
-    "created": 1605002658486
+    "created": 1609932681199
   },
   "iconSets": [
     {
@@ -1865,6 +1865,21 @@
           "tags": [
             "togglebutton"
           ]
+        },
+        {
+          "id": 158,
+          "paths": [
+            "M494.933 366.933c-46.933 0-85.333 38.4-85.333 85.333s38.4 85.333 85.333 85.333 85.333-38.4 85.333-85.333v0c0-46.933-38.4-85.333-85.333-85.333v0zM836.267 366.933c-46.933 0-85.333 38.4-85.333 85.333s38.4 85.333 85.333 85.333 85.333-38.4 85.333-85.333v0c0-46.933-38.4-85.333-85.333-85.333v0zM494.933 494.933c-25.6 0-42.667-17.067-42.667-42.667s17.067-42.667 42.667-42.667 42.667 17.067 42.667 42.667v0c0 25.6-21.333 42.667-42.667 42.667v0zM153.6 366.933c-46.933 0-85.333 38.4-85.333 85.333s38.4 85.333 85.333 85.333 85.333-38.4 85.333-85.333v0c0-46.933-38.4-85.333-85.333-85.333v0zM281.6 580.267h-256v85.333h170.667l85.333-85.333zM622.933 580.267h-256v85.333h170.667l85.333-85.333zM964.267 580.267h-256v85.333h170.667l85.333-85.333z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "bottomnav"
+          ]
         }
       ],
       "height": 1024,
@@ -1914,7 +1929,7 @@
       },
       "selection": [
         {
-          "order": 3,
+          "order": 328,
           "name": "actionsheet",
           "prevSize": 24,
           "id": 1,
@@ -1922,7 +1937,7 @@
           "tempChar": ""
         },
         {
-          "order": 4,
+          "order": 329,
           "name": "application",
           "prevSize": 24,
           "id": 2,
@@ -1930,7 +1945,7 @@
           "tempChar": ""
         },
         {
-          "order": 5,
+          "order": 330,
           "name": "areacharts",
           "prevSize": 24,
           "id": 3,
@@ -1938,7 +1953,7 @@
           "tempChar": ""
         },
         {
-          "order": 6,
+          "order": 331,
           "name": "autocomplete",
           "prevSize": 24,
           "id": 4,
@@ -1946,7 +1961,7 @@
           "tempChar": ""
         },
         {
-          "order": 7,
+          "order": 332,
           "name": "barcharts",
           "prevSize": 24,
           "id": 5,
@@ -1954,7 +1969,7 @@
           "tempChar": ""
         },
         {
-          "order": 8,
+          "order": 333,
           "name": "barcode",
           "prevSize": 24,
           "id": 6,
@@ -1962,7 +1977,7 @@
           "tempChar": ""
         },
         {
-          "order": 9,
+          "order": 334,
           "name": "boxplotcharts",
           "prevSize": 24,
           "id": 7,
@@ -1970,7 +1985,7 @@
           "tempChar": ""
         },
         {
-          "order": 10,
+          "order": 335,
           "name": "bubblecharts",
           "prevSize": 24,
           "id": 8,
@@ -1978,7 +1993,7 @@
           "tempChar": ""
         },
         {
-          "order": 11,
+          "order": 336,
           "name": "bulletcharts",
           "prevSize": 24,
           "id": 9,
@@ -1986,7 +2001,7 @@
           "tempChar": ""
         },
         {
-          "order": 12,
+          "order": 337,
           "name": "button",
           "prevSize": 24,
           "id": 10,
@@ -1994,7 +2009,7 @@
           "tempChar": ""
         },
         {
-          "order": 13,
+          "order": 338,
           "name": "buttongroup",
           "prevSize": 24,
           "id": 11,
@@ -2002,7 +2017,7 @@
           "tempChar": ""
         },
         {
-          "order": 14,
+          "order": 339,
           "name": "calendar",
           "prevSize": 24,
           "id": 12,
@@ -2010,7 +2025,7 @@
           "tempChar": ""
         },
         {
-          "order": 15,
+          "order": 340,
           "name": "colorpicker",
           "prevSize": 24,
           "id": 13,
@@ -2018,7 +2033,7 @@
           "tempChar": ""
         },
         {
-          "order": 16,
+          "order": 341,
           "name": "datasource",
           "prevSize": 24,
           "id": 14,
@@ -2026,7 +2041,7 @@
           "tempChar": ""
         },
         {
-          "order": 17,
+          "order": 342,
           "name": "datepicker",
           "prevSize": 24,
           "id": 15,
@@ -2034,7 +2049,7 @@
           "tempChar": ""
         },
         {
-          "order": 18,
+          "order": 343,
           "name": "diagram",
           "prevSize": 24,
           "id": 16,
@@ -2042,7 +2057,7 @@
           "tempChar": ""
         },
         {
-          "order": 158,
+          "order": 344,
           "name": "donutcharts",
           "prevSize": 24,
           "id": 17,
@@ -2050,7 +2065,7 @@
           "tempChar": ""
         },
         {
-          "order": 157,
+          "order": 345,
           "name": "draganddrop",
           "prevSize": 24,
           "id": 18,
@@ -2058,7 +2073,7 @@
           "tempChar": ""
         },
         {
-          "order": 156,
+          "order": 346,
           "name": "drawer",
           "prevSize": 24,
           "id": 19,
@@ -2066,7 +2081,7 @@
           "tempChar": ""
         },
         {
-          "order": 155,
+          "order": 347,
           "name": "dropdownlist",
           "prevSize": 24,
           "id": 20,
@@ -2074,7 +2089,7 @@
           "tempChar": ""
         },
         {
-          "order": 154,
+          "order": 348,
           "name": "editor",
           "prevSize": 24,
           "id": 21,
@@ -2082,7 +2097,7 @@
           "tempChar": ""
         },
         {
-          "order": 153,
+          "order": 349,
           "name": "effects",
           "prevSize": 24,
           "id": 22,
@@ -2090,7 +2105,7 @@
           "tempChar": ""
         },
         {
-          "order": 152,
+          "order": 350,
           "name": "funnelcharts",
           "prevSize": 24,
           "id": 23,
@@ -2098,7 +2113,7 @@
           "tempChar": ""
         },
         {
-          "order": 151,
+          "order": 351,
           "name": "globalization",
           "prevSize": 24,
           "id": 24,
@@ -2106,7 +2121,7 @@
           "tempChar": ""
         },
         {
-          "order": 159,
+          "order": 352,
           "name": "grid",
           "prevSize": 24,
           "id": 25,
@@ -2114,7 +2129,7 @@
           "tempChar": ""
         },
         {
-          "order": 20,
+          "order": 353,
           "name": "layout",
           "prevSize": 24,
           "id": 26,
@@ -2122,7 +2137,7 @@
           "tempChar": ""
         },
         {
-          "order": 21,
+          "order": 354,
           "name": "lineargauge",
           "prevSize": 24,
           "id": 27,
@@ -2130,7 +2145,7 @@
           "tempChar": ""
         },
         {
-          "order": 22,
+          "order": 355,
           "name": "linecharts",
           "prevSize": 24,
           "id": 28,
@@ -2138,7 +2153,7 @@
           "tempChar": ""
         },
         {
-          "order": 23,
+          "order": 356,
           "name": "listview",
           "prevSize": 24,
           "id": 29,
@@ -2146,7 +2161,7 @@
           "tempChar": ""
         },
         {
-          "order": 24,
+          "order": 357,
           "name": "map",
           "prevSize": 24,
           "id": 30,
@@ -2154,7 +2169,7 @@
           "tempChar": ""
         },
         {
-          "order": 25,
+          "order": 358,
           "name": "maskedtextbox",
           "prevSize": 24,
           "id": 31,
@@ -2162,7 +2177,7 @@
           "tempChar": ""
         },
         {
-          "order": 26,
+          "order": 359,
           "name": "menu",
           "prevSize": 24,
           "id": 32,
@@ -2170,7 +2185,7 @@
           "tempChar": ""
         },
         {
-          "order": 27,
+          "order": 360,
           "name": "modalview",
           "prevSize": 24,
           "id": 33,
@@ -2178,7 +2193,7 @@
           "tempChar": ""
         },
         {
-          "order": 28,
+          "order": 361,
           "name": "multiselect",
           "prevSize": 24,
           "id": 34,
@@ -2186,7 +2201,7 @@
           "tempChar": ""
         },
         {
-          "order": 29,
+          "order": 362,
           "name": "mvvm",
           "prevSize": 24,
           "id": 35,
@@ -2194,7 +2209,7 @@
           "tempChar": ""
         },
         {
-          "order": 30,
+          "order": 363,
           "name": "navbar",
           "prevSize": 24,
           "id": 36,
@@ -2202,7 +2217,7 @@
           "tempChar": ""
         },
         {
-          "order": 31,
+          "order": 364,
           "name": "notification",
           "prevSize": 24,
           "id": 37,
@@ -2210,7 +2225,7 @@
           "tempChar": ""
         },
         {
-          "order": 32,
+          "order": 365,
           "name": "numerictextbox",
           "prevSize": 24,
           "id": 38,
@@ -2218,7 +2233,7 @@
           "tempChar": ""
         },
         {
-          "order": 33,
+          "order": 366,
           "name": "panelbar",
           "prevSize": 24,
           "id": 39,
@@ -2226,7 +2241,7 @@
           "tempChar": ""
         },
         {
-          "order": 34,
+          "order": 367,
           "name": "piecharts",
           "prevSize": 24,
           "id": 40,
@@ -2234,7 +2249,7 @@
           "tempChar": ""
         },
         {
-          "order": 35,
+          "order": 368,
           "name": "polarcharts",
           "prevSize": 24,
           "id": 41,
@@ -2242,7 +2257,7 @@
           "tempChar": ""
         },
         {
-          "order": 150,
+          "order": 369,
           "name": "popover",
           "prevSize": 24,
           "id": 42,
@@ -2250,7 +2265,7 @@
           "tempChar": ""
         },
         {
-          "order": 149,
+          "order": 370,
           "name": "progressbar",
           "prevSize": 24,
           "id": 43,
@@ -2258,7 +2273,7 @@
           "tempChar": ""
         },
         {
-          "order": 148,
+          "order": 371,
           "name": "qrcode",
           "prevSize": 24,
           "id": 44,
@@ -2266,7 +2281,7 @@
           "tempChar": ""
         },
         {
-          "order": 147,
+          "order": 372,
           "name": "radarcharts",
           "prevSize": 24,
           "id": 45,
@@ -2274,7 +2289,7 @@
           "tempChar": ""
         },
         {
-          "order": 146,
+          "order": 373,
           "name": "radialgauge",
           "prevSize": 24,
           "id": 46,
@@ -2282,7 +2297,7 @@
           "tempChar": ""
         },
         {
-          "order": 145,
+          "order": 374,
           "name": "scattercharts",
           "prevSize": 24,
           "id": 47,
@@ -2290,7 +2305,7 @@
           "tempChar": ""
         },
         {
-          "order": 144,
+          "order": 375,
           "name": "scheduler",
           "prevSize": 24,
           "id": 48,
@@ -2298,7 +2313,7 @@
           "tempChar": ""
         },
         {
-          "order": 143,
+          "order": 376,
           "name": "scroller",
           "prevSize": 24,
           "id": 49,
@@ -2306,7 +2321,7 @@
           "tempChar": ""
         },
         {
-          "order": 160,
+          "order": 377,
           "name": "scrollview",
           "prevSize": 24,
           "id": 50,
@@ -2314,7 +2329,7 @@
           "tempChar": ""
         },
         {
-          "order": 37,
+          "order": 378,
           "name": "singlepageapp",
           "prevSize": 24,
           "id": 51,
@@ -2322,7 +2337,7 @@
           "tempChar": ""
         },
         {
-          "order": 38,
+          "order": 379,
           "name": "slider",
           "prevSize": 24,
           "id": 52,
@@ -2330,7 +2345,7 @@
           "tempChar": ""
         },
         {
-          "order": 39,
+          "order": 380,
           "name": "sortable",
           "prevSize": 24,
           "id": 53,
@@ -2338,7 +2353,7 @@
           "tempChar": ""
         },
         {
-          "order": 40,
+          "order": 381,
           "name": "sparklines",
           "prevSize": 24,
           "id": 54,
@@ -2346,7 +2361,7 @@
           "tempChar": ""
         },
         {
-          "order": 41,
+          "order": 382,
           "name": "splitter",
           "prevSize": 24,
           "id": 55,
@@ -2354,7 +2369,7 @@
           "tempChar": ""
         },
         {
-          "order": 42,
+          "order": 383,
           "name": "splitview",
           "prevSize": 24,
           "id": 56,
@@ -2362,7 +2377,7 @@
           "tempChar": ""
         },
         {
-          "order": 43,
+          "order": 384,
           "name": "stockchart",
           "prevSize": 24,
           "id": 57,
@@ -2370,7 +2385,7 @@
           "tempChar": ""
         },
         {
-          "order": 44,
+          "order": 385,
           "name": "switch",
           "prevSize": 24,
           "id": 58,
@@ -2378,7 +2393,7 @@
           "tempChar": ""
         },
         {
-          "order": 45,
+          "order": 386,
           "name": "tabstrip",
           "prevSize": 24,
           "id": 59,
@@ -2386,7 +2401,7 @@
           "tempChar": ""
         },
         {
-          "order": 46,
+          "order": 387,
           "name": "tabstrip-mobile",
           "prevSize": 24,
           "id": 60,
@@ -2394,7 +2409,7 @@
           "tempChar": ""
         },
         {
-          "order": 47,
+          "order": 388,
           "name": "templates",
           "prevSize": 24,
           "id": 61,
@@ -2402,7 +2417,7 @@
           "tempChar": ""
         },
         {
-          "order": 48,
+          "order": 389,
           "name": "timepicker",
           "prevSize": 24,
           "id": 62,
@@ -2410,7 +2425,7 @@
           "tempChar": ""
         },
         {
-          "order": 49,
+          "order": 390,
           "name": "tooltip",
           "prevSize": 24,
           "id": 63,
@@ -2418,7 +2433,7 @@
           "tempChar": ""
         },
         {
-          "order": 50,
+          "order": 391,
           "name": "treeview",
           "prevSize": 24,
           "id": 64,
@@ -2426,7 +2441,7 @@
           "tempChar": ""
         },
         {
-          "order": 51,
+          "order": 392,
           "name": "upload",
           "prevSize": 24,
           "id": 65,
@@ -2434,7 +2449,7 @@
           "tempChar": ""
         },
         {
-          "order": 52,
+          "order": 393,
           "name": "validator",
           "prevSize": 24,
           "id": 66,
@@ -2442,7 +2457,7 @@
           "tempChar": ""
         },
         {
-          "order": 142,
+          "order": 394,
           "name": "window",
           "prevSize": 24,
           "id": 67,
@@ -2450,7 +2465,7 @@
           "tempChar": ""
         },
         {
-          "order": 141,
+          "order": 395,
           "name": "gantt",
           "prevSize": 24,
           "id": 68,
@@ -2458,7 +2473,7 @@
           "tempChar": ""
         },
         {
-          "order": 140,
+          "order": 396,
           "name": "pivotgrid",
           "prevSize": 24,
           "id": 69,
@@ -2466,7 +2481,7 @@
           "tempChar": ""
         },
         {
-          "order": 139,
+          "order": 397,
           "name": "treemap",
           "prevSize": 24,
           "id": 70,
@@ -2474,7 +2489,7 @@
           "tempChar": ""
         },
         {
-          "order": 138,
+          "order": 398,
           "name": "rangebarcharts",
           "prevSize": 24,
           "id": 71,
@@ -2482,7 +2497,7 @@
           "tempChar": ""
         },
         {
-          "order": 137,
+          "order": 399,
           "name": "waterfallcharts",
           "prevSize": 24,
           "id": 72,
@@ -2490,7 +2505,7 @@
           "tempChar": ""
         },
         {
-          "order": 136,
+          "order": 400,
           "name": "combobox",
           "prevSize": 24,
           "id": 73,
@@ -2498,7 +2513,7 @@
           "tempChar": ""
         },
         {
-          "order": 135,
+          "order": 401,
           "name": "responsivepanel",
           "prevSize": 24,
           "id": 74,
@@ -2506,7 +2521,7 @@
           "tempChar": ""
         },
         {
-          "order": 161,
+          "order": 402,
           "name": "collapsible",
           "prevSize": 24,
           "id": 75,
@@ -2514,7 +2529,7 @@
           "tempChar": ""
         },
         {
-          "order": 54,
+          "order": 403,
           "name": "spreadsheet",
           "prevSize": 24,
           "id": 76,
@@ -2522,7 +2537,7 @@
           "tempChar": ""
         },
         {
-          "order": 55,
+          "order": 404,
           "name": "wordprocessing",
           "prevSize": 24,
           "id": 77,
@@ -2530,7 +2545,7 @@
           "tempChar": ""
         },
         {
-          "order": 56,
+          "order": 405,
           "name": "spreadprocessing",
           "prevSize": 24,
           "id": 78,
@@ -2538,7 +2553,7 @@
           "tempChar": ""
         },
         {
-          "order": 57,
+          "order": 406,
           "name": "pdf",
           "prevSize": 24,
           "id": 79,
@@ -2546,7 +2561,7 @@
           "tempChar": ""
         },
         {
-          "order": 58,
+          "order": 407,
           "name": "datetimepicker",
           "prevSize": 24,
           "id": 80,
@@ -2554,7 +2569,7 @@
           "tempChar": ""
         },
         {
-          "order": 59,
+          "order": 408,
           "name": "styling",
           "prevSize": 24,
           "id": 81,
@@ -2562,7 +2577,7 @@
           "tempChar": ""
         },
         {
-          "order": 60,
+          "order": 409,
           "name": "touchevents",
           "prevSize": 24,
           "id": 82,
@@ -2570,7 +2585,7 @@
           "tempChar": ""
         },
         {
-          "order": 61,
+          "order": 410,
           "name": "toolbar",
           "prevSize": 24,
           "id": 83,
@@ -2578,7 +2593,7 @@
           "tempChar": ""
         },
         {
-          "order": 62,
+          "order": 411,
           "name": "treelist",
           "prevSize": 24,
           "id": 84,
@@ -2586,7 +2601,7 @@
           "tempChar": ""
         },
         {
-          "order": 63,
+          "order": 412,
           "name": "forms",
           "prevSize": 24,
           "id": 85,
@@ -2594,7 +2609,7 @@
           "tempChar": ""
         },
         {
-          "order": 64,
+          "order": 413,
           "name": "view",
           "prevSize": 24,
           "id": 86,
@@ -2602,7 +2617,7 @@
           "tempChar": ""
         },
         {
-          "order": 65,
+          "order": 414,
           "name": "listview-mobile",
           "prevSize": 24,
           "id": 87,
@@ -2610,7 +2625,7 @@
           "tempChar": ""
         },
         {
-          "order": 66,
+          "order": 415,
           "name": "dialog",
           "prevSize": 24,
           "id": 88,
@@ -2618,7 +2633,7 @@
           "tempChar": ""
         },
         {
-          "order": 67,
+          "order": 416,
           "name": "mediaplayer",
           "prevSize": 24,
           "id": 89,
@@ -2626,7 +2641,7 @@
           "tempChar": ""
         },
         {
-          "order": 68,
+          "order": 417,
           "name": "localization",
           "prevSize": 24,
           "id": 90,
@@ -2634,7 +2649,7 @@
           "tempChar": ""
         },
         {
-          "order": 69,
+          "order": 418,
           "name": "accessibility",
           "prevSize": 24,
           "id": 91,
@@ -2642,7 +2657,7 @@
           "tempChar": ""
         },
         {
-          "order": 134,
+          "order": 419,
           "name": "listbox",
           "prevSize": 24,
           "id": 92,
@@ -2650,7 +2665,7 @@
           "tempChar": ""
         },
         {
-          "order": 133,
+          "order": 420,
           "name": "dateinput",
           "prevSize": 24,
           "id": 93,
@@ -2658,7 +2673,7 @@
           "tempChar": ""
         },
         {
-          "order": 132,
+          "order": 421,
           "name": "ziplibrary",
           "prevSize": 24,
           "id": 94,
@@ -2666,7 +2681,7 @@
           "tempChar": ""
         },
         {
-          "order": 131,
+          "order": 422,
           "name": "spreadstreamprocessing",
           "prevSize": 24,
           "id": 95,
@@ -2674,7 +2689,7 @@
           "tempChar": ""
         },
         {
-          "order": 130,
+          "order": 423,
           "name": "rangeareacharts",
           "prevSize": 24,
           "id": 96,
@@ -2682,7 +2697,7 @@
           "tempChar": ""
         },
         {
-          "order": 129,
+          "order": 424,
           "name": "dropdownbutton",
           "prevSize": 24,
           "id": 97,
@@ -2690,7 +2705,7 @@
           "tempChar": ""
         },
         {
-          "order": 128,
+          "order": 425,
           "name": "splitbutton",
           "prevSize": 24,
           "id": 98,
@@ -2698,7 +2713,7 @@
           "tempChar": ""
         },
         {
-          "order": 127,
+          "order": 426,
           "name": "textbox",
           "prevSize": 24,
           "id": 99,
@@ -2706,7 +2721,7 @@
           "tempChar": ""
         },
         {
-          "order": 162,
+          "order": 427,
           "name": "ripple",
           "prevSize": 24,
           "id": 100,
@@ -2714,7 +2729,7 @@
           "tempChar": ""
         },
         {
-          "order": 71,
+          "order": 428,
           "name": "chat",
           "prevSize": 24,
           "id": 101,
@@ -2722,7 +2737,7 @@
           "tempChar": ""
         },
         {
-          "order": 72,
+          "order": 429,
           "name": "dropdowntree",
           "prevSize": 24,
           "id": 102,
@@ -2730,7 +2745,7 @@
           "tempChar": ""
         },
         {
-          "order": 73,
+          "order": 430,
           "name": "daterangepicker",
           "prevSize": 24,
           "ligatures": "",
@@ -2739,7 +2754,7 @@
           "tempChar": ""
         },
         {
-          "order": 74,
+          "order": 431,
           "name": "multiviewcalendar",
           "prevSize": 24,
           "id": 104,
@@ -2747,7 +2762,7 @@
           "tempChar": ""
         },
         {
-          "order": 75,
+          "order": 432,
           "name": "multicolumncombobox",
           "prevSize": 24,
           "id": 105,
@@ -2755,7 +2770,7 @@
           "tempChar": ""
         },
         {
-          "order": 76,
+          "order": 433,
           "name": "arcgauge",
           "prevSize": 24,
           "id": 106,
@@ -2763,7 +2778,7 @@
           "tempChar": ""
         },
         {
-          "order": 77,
+          "order": 434,
           "name": "pdfviewer",
           "prevSize": 24,
           "id": 107,
@@ -2771,7 +2786,7 @@
           "tempChar": ""
         },
         {
-          "order": 78,
+          "order": 435,
           "name": "rating",
           "prevSize": 24,
           "id": 108,
@@ -2779,7 +2794,7 @@
           "tempChar": ""
         },
         {
-          "order": 79,
+          "order": 436,
           "name": "filter",
           "prevSize": 24,
           "id": 109,
@@ -2787,7 +2802,7 @@
           "tempChar": ""
         },
         {
-          "order": 80,
+          "order": 437,
           "name": "timeline",
           "prevSize": 24,
           "id": 110,
@@ -2795,7 +2810,7 @@
           "tempChar": ""
         },
         {
-          "order": 81,
+          "order": 438,
           "name": "chunkprogressbar",
           "prevSize": 24,
           "id": 111,
@@ -2803,7 +2818,7 @@
           "tempChar": ""
         },
         {
-          "order": 82,
+          "order": 439,
           "name": "cards",
           "prevSize": 24,
           "id": 112,
@@ -2811,7 +2826,7 @@
           "tempChar": ""
         },
         {
-          "order": 83,
+          "order": 440,
           "name": "animationcontainer",
           "prevSize": 24,
           "id": 113,
@@ -2819,7 +2834,7 @@
           "tempChar": ""
         },
         {
-          "order": 84,
+          "order": 441,
           "name": "breadcrumbs",
           "prevSize": 24,
           "id": 114,
@@ -2827,7 +2842,7 @@
           "tempChar": ""
         },
         {
-          "order": 85,
+          "order": 442,
           "name": "radiobutton",
           "prevSize": 24,
           "id": 115,
@@ -2835,7 +2850,7 @@
           "tempChar": ""
         },
         {
-          "order": 86,
+          "order": 443,
           "name": "checkbox",
           "prevSize": 24,
           "id": 116,
@@ -2843,7 +2858,7 @@
           "tempChar": ""
         },
         {
-          "order": 126,
+          "order": 444,
           "name": "badge",
           "prevSize": 24,
           "id": 117,
@@ -2851,7 +2866,7 @@
           "tempChar": ""
         },
         {
-          "order": 125,
+          "order": 445,
           "name": "filemanager",
           "prevSize": 24,
           "id": 118,
@@ -2859,7 +2874,7 @@
           "tempChar": ""
         },
         {
-          "order": 124,
+          "order": 446,
           "name": "floatinglabel",
           "prevSize": 24,
           "id": 119,
@@ -2867,7 +2882,7 @@
           "tempChar": ""
         },
         {
-          "order": 123,
+          "order": 447,
           "name": "fileselect",
           "prevSize": 24,
           "id": 120,
@@ -2875,7 +2890,7 @@
           "tempChar": ""
         },
         {
-          "order": 122,
+          "order": 448,
           "name": "chip",
           "prevSize": 24,
           "id": 121,
@@ -2883,7 +2898,7 @@
           "tempChar": ""
         },
         {
-          "order": 121,
+          "order": 449,
           "name": "chiplist",
           "prevSize": 24,
           "id": 122,
@@ -2891,7 +2906,7 @@
           "tempChar": ""
         },
         {
-          "order": 120,
+          "order": 450,
           "name": "avatar",
           "prevSize": 24,
           "id": 123,
@@ -2899,7 +2914,7 @@
           "tempChar": ""
         },
         {
-          "order": 119,
+          "order": 451,
           "name": "stepper",
           "prevSize": 24,
           "id": 124,
@@ -2907,7 +2922,7 @@
           "tempChar": ""
         },
         {
-          "order": 163,
+          "order": 452,
           "name": "wizard",
           "prevSize": 24,
           "id": 125,
@@ -2915,7 +2930,7 @@
           "tempChar": ""
         },
         {
-          "order": 88,
+          "order": 453,
           "name": "pager",
           "prevSize": 24,
           "id": 126,
@@ -2923,7 +2938,7 @@
           "tempChar": ""
         },
         {
-          "order": 89,
+          "order": 454,
           "name": "container",
           "prevSize": 24,
           "id": 127,
@@ -2931,7 +2946,7 @@
           "tempChar": ""
         },
         {
-          "order": 90,
+          "order": 455,
           "name": "column",
           "prevSize": 24,
           "id": 128,
@@ -2939,7 +2954,7 @@
           "tempChar": ""
         },
         {
-          "order": 91,
+          "order": 456,
           "name": "row",
           "prevSize": 24,
           "id": 129,
@@ -2947,7 +2962,7 @@
           "tempChar": ""
         },
         {
-          "order": 92,
+          "order": 457,
           "name": "custom-html",
           "prevSize": 24,
           "id": 130,
@@ -2955,7 +2970,7 @@
           "tempChar": ""
         },
         {
-          "order": 93,
+          "order": 458,
           "name": "languages-dropdown",
           "prevSize": 24,
           "id": 131,
@@ -2963,7 +2978,7 @@
           "tempChar": ""
         },
         {
-          "order": 94,
+          "order": 459,
           "name": "expander",
           "prevSize": 24,
           "id": 132,
@@ -2971,7 +2986,7 @@
           "tempChar": ""
         },
         {
-          "order": 95,
+          "order": 460,
           "name": "image",
           "prevSize": 24,
           "id": 133,
@@ -2979,7 +2994,7 @@
           "tempChar": ""
         },
         {
-          "order": 96,
+          "order": 461,
           "name": "label",
           "prevSize": 24,
           "id": 134,
@@ -2987,7 +3002,7 @@
           "tempChar": ""
         },
         {
-          "order": 97,
+          "order": 462,
           "name": "searchbox",
           "prevSize": 24,
           "id": 135,
@@ -2995,7 +3010,7 @@
           "tempChar": ""
         },
         {
-          "order": 98,
+          "order": 463,
           "name": "textarea",
           "prevSize": 24,
           "id": 136,
@@ -3003,7 +3018,7 @@
           "tempChar": ""
         },
         {
-          "order": 99,
+          "order": 464,
           "name": "user-dropdown",
           "prevSize": 24,
           "id": 137,
@@ -3011,7 +3026,7 @@
           "tempChar": ""
         },
         {
-          "order": 100,
+          "order": 465,
           "name": "tilelayout",
           "prevSize": 24,
           "id": 138,
@@ -3019,7 +3034,7 @@
           "tempChar": ""
         },
         {
-          "order": 101,
+          "order": 466,
           "name": "radiogroup",
           "prevSize": 24,
           "id": 139,
@@ -3027,7 +3042,7 @@
           "tempChar": ""
         },
         {
-          "order": 102,
+          "order": 467,
           "name": "hint",
           "prevSize": 24,
           "id": 140,
@@ -3035,7 +3050,7 @@
           "tempChar": ""
         },
         {
-          "order": 103,
+          "order": 468,
           "name": "error",
           "prevSize": 24,
           "id": 141,
@@ -3043,7 +3058,7 @@
           "tempChar": ""
         },
         {
-          "order": 118,
+          "order": 469,
           "name": "rangeslider",
           "prevSize": 24,
           "id": 142,
@@ -3051,7 +3066,7 @@
           "tempChar": ""
         },
         {
-          "order": 117,
+          "order": 470,
           "name": "imageeditor",
           "prevSize": 24,
           "id": 143,
@@ -3059,7 +3074,7 @@
           "tempChar": ""
         },
         {
-          "order": 116,
+          "order": 471,
           "name": "chart",
           "prevSize": 24,
           "id": 144,
@@ -3067,7 +3082,7 @@
           "tempChar": ""
         },
         {
-          "order": 115,
+          "order": 472,
           "name": "loader",
           "prevSize": 24,
           "id": 145,
@@ -3075,7 +3090,7 @@
           "tempChar": ""
         },
         {
-          "order": 114,
+          "order": 473,
           "name": "contextmenu",
           "prevSize": 24,
           "id": 146,
@@ -3083,7 +3098,7 @@
           "tempChar": ""
         },
         {
-          "order": 113,
+          "order": 474,
           "name": "icon",
           "prevSize": 24,
           "id": 147,
@@ -3091,7 +3106,7 @@
           "tempChar": ""
         },
         {
-          "order": 112,
+          "order": 475,
           "name": "svgicon",
           "prevSize": 24,
           "id": 148,
@@ -3099,7 +3114,7 @@
           "tempChar": ""
         },
         {
-          "order": 111,
+          "order": 476,
           "name": "appbar",
           "prevSize": 24,
           "id": 149,
@@ -3107,7 +3122,7 @@
           "tempChar": ""
         },
         {
-          "order": 110,
+          "order": 477,
           "name": "expansionpanel",
           "prevSize": 24,
           "id": 150,
@@ -3115,7 +3130,7 @@
           "tempChar": ""
         },
         {
-          "order": 109,
+          "order": 478,
           "name": "colorpalette",
           "prevSize": 24,
           "id": 151,
@@ -3123,7 +3138,7 @@
           "tempChar": ""
         },
         {
-          "order": 108,
+          "order": 479,
           "name": "colorgradient",
           "prevSize": 24,
           "id": 152,
@@ -3131,7 +3146,7 @@
           "tempChar": ""
         },
         {
-          "order": 107,
+          "order": 480,
           "name": "loadercontainer",
           "prevSize": 24,
           "id": 153,
@@ -3139,7 +3154,7 @@
           "tempChar": ""
         },
         {
-          "order": 106,
+          "order": 481,
           "name": "floatingactionbutton",
           "prevSize": 24,
           "id": 154,
@@ -3147,12 +3162,20 @@
           "tempChar": ""
         },
         {
-          "order": 105,
+          "order": 482,
           "id": 155,
           "name": "togglebutton",
           "prevSize": 24,
           "code": 59709,
           "tempChar": ""
+        },
+        {
+          "order": 483,
+          "id": 158,
+          "name": "bottomnav",
+          "prevSize": 24,
+          "code": 59710,
+          "tempChar": ""
         }
       ],
       "prevSize": 24,
