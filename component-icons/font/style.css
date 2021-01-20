@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?jg9neo');
-  src:  url('fonts/widgets.eot?jg9neo#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?jg9neo') format('truetype'),
-    url('fonts/widgets.woff?jg9neo') format('woff'),
-    url('fonts/widgets.svg?jg9neo#widgets') format('svg');
+  src:  url('fonts/widgets.eot?nxm6sc');
+  src:  url('fonts/widgets.eot?nxm6sc#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?nxm6sc') format('truetype'),
+    url('fonts/widgets.woff?nxm6sc') format('woff'),
+    url('fonts/widgets.svg?nxm6sc#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -492,4 +492,7 @@
 }
 .icon-bottomnav:before {
   content: "\e93e";
+}
+.icon-checkboxgroup:before {
+  content: "\e93f";
 }
