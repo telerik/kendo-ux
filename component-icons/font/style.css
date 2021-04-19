@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?yfqxfz');
-  src:  url('fonts/widgets.eot?yfqxfz#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?yfqxfz') format('truetype'),
-    url('fonts/widgets.woff?yfqxfz') format('woff'),
-    url('fonts/widgets.svg?yfqxfz#widgets') format('svg');
+  src:  url('fonts/widgets.eot?59vlnl');
+  src:  url('fonts/widgets.eot?59vlnl#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?59vlnl') format('truetype'),
+    url('fonts/widgets.woff?59vlnl') format('woff'),
+    url('fonts/widgets.svg?59vlnl#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -328,7 +328,7 @@
 .icon-chat:before {
   content: "\e907";
 }
-.icon-multiselecttree:before {
+.icon-dropdowntree:before {
   content: "\e908";
 }
 .icon-daterangepicker:before {
@@ -501,7 +501,4 @@
 }
 .icon-taskboard:before {
   content: "\e941";
-}
-.icon-dropdowntree:before {
-  content: "\e942";
 }
