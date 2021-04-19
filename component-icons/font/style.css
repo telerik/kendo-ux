@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?59vlnl');
-  src:  url('fonts/widgets.eot?59vlnl#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?59vlnl') format('truetype'),
-    url('fonts/widgets.woff?59vlnl') format('woff'),
-    url('fonts/widgets.svg?59vlnl#widgets') format('svg');
+  src:  url('fonts/widgets.eot?s70aaq');
+  src:  url('fonts/widgets.eot?s70aaq#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?s70aaq') format('truetype'),
+    url('fonts/widgets.woff?s70aaq') format('woff'),
+    url('fonts/widgets.svg?s70aaq#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -501,4 +501,7 @@
 }
 .icon-taskboard:before {
   content: "\e941";
+}
+.icon-multiselecttree:before {
+  content: "\e942";
 }
