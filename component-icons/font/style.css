@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?s70aaq');
-  src:  url('fonts/widgets.eot?s70aaq#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?s70aaq') format('truetype'),
-    url('fonts/widgets.woff?s70aaq') format('woff'),
-    url('fonts/widgets.svg?s70aaq#widgets') format('svg');
+  src:  url('fonts/widgets.eot?3vabal');
+  src:  url('fonts/widgets.eot?3vabal#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?3vabal') format('truetype'),
+    url('fonts/widgets.woff?3vabal') format('woff'),
+    url('fonts/widgets.svg?3vabal#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -504,4 +504,7 @@
 }
 .icon-multiselecttree:before {
   content: "\e942";
+}
+.icon-circulargauge:before {
+  content: "\e943";
 }
