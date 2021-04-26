@@ -487,6 +487,7 @@
 		'k-i-replace-all': '&#xe6ad;',
 		'k-i-letter-space': '&#xe6ae;',
 		'k-i-line-height': '&#xe6af;',
+		'k-i-blockquote': '&#xe6b0;',
 		'k-i-globe-outline': '&#xe700;',
 		'k-i-globe': '&#xe701;',
 		'k-i-marker-pin': '&#xe702;',

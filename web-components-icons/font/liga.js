@@ -500,6 +500,7 @@
             'letter-space': '&#xe6ae;',
             'display-inline': '&#xe6ae;',
             'line-height': '&#xe6af;',
+            'blockquote': '&#xe6b0;',
             'globe-outline': '&#xe700;',
             'globe': '&#xe701;',
             'marker-pin': '&#xe702;',
