@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?ghdmme');
-  src:  url('fonts/widgets.eot?ghdmme#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?ghdmme') format('truetype'),
-    url('fonts/widgets.woff?ghdmme') format('woff'),
-    url('fonts/widgets.svg?ghdmme#widgets') format('svg');
+  src:  url('fonts/widgets.eot?37xc3m');
+  src:  url('fonts/widgets.eot?37xc3m#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?37xc3m') format('truetype'),
+    url('fonts/widgets.woff?37xc3m') format('woff'),
+    url('fonts/widgets.svg?37xc3m#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -513,4 +513,7 @@
 }
 .icon-stacklayout:before {
   content: "\e945";
+}
+.icon-orgchart:before {
+  content: "\e946";
 }
