@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?37xc3m');
-  src:  url('fonts/widgets.eot?37xc3m#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?37xc3m') format('truetype'),
-    url('fonts/widgets.woff?37xc3m') format('woff'),
-    url('fonts/widgets.svg?37xc3m#widgets') format('svg');
+  src:  url('fonts/widgets.eot?beoahj');
+  src:  url('fonts/widgets.eot?beoahj#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?beoahj') format('truetype'),
+    url('fonts/widgets.woff?beoahj') format('woff'),
+    url('fonts/widgets.svg?beoahj#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -516,4 +516,10 @@
 }
 .icon-orgchart:before {
   content: "\e946";
+}
+.icon-heatmap:before {
+  content: "\e947";
+}
+.icon-captcha:before {
+  content: "\e948";
 }
