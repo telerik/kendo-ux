@@ -2,7 +2,7 @@
   "metadata": {
     "name": "widgets",
     "lastOpened": 0,
-    "created": 1626681546903
+    "created": 1630322776518
   },
   "iconSets": [
     {
@@ -1990,6 +1990,17 @@
           "tags": [
             "captcha"
           ]
+        },
+        {
+          "id": 170,
+          "paths": [
+            "M1024 170.667h-426.667v853.333h-170.667v-853.333h-426.667v-170.667h1024v170.667z"
+          ],
+          "attrs": [],
+          "grid": 0,
+          "tags": [
+            "typography"
+          ]
         }
       ],
       "height": 1024,
@@ -3366,6 +3377,14 @@
           "prevSize": 24,
           "code": 59720,
           "tempChar": ""
+        },
+        {
+          "order": 497,
+          "id": 170,
+          "name": "typography",
+          "prevSize": 24,
+          "code": 59721,
+          "tempChar": ""
         }
       ],
       "prevSize": 24,
