@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?5kwyrf');
-  src:  url('fonts/WebComponentsIcons.eot?5kwyrf#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?5kwyrf') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?5kwyrf') format('woff'),
-    url('fonts/WebComponentsIcons.svg?5kwyrf#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?21ylqr');
+  src:  url('fonts/WebComponentsIcons.eot?21ylqr#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?21ylqr') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?21ylqr') format('woff'),
+    url('fonts/WebComponentsIcons.svg?21ylqr#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -311,8 +311,8 @@
 .k-i-gap-row:before {
   content: "\e05b";
 }
-.k-i-shevron-top:before {
-  content: "\e94a";
+.k-i-handle-resize:before {
+  content: "\e05c";
 }
 .k-i-undo:before {
   content: "\e100";
@@ -1831,12 +1831,6 @@
 }
 .k-i-file-typescript:before {
   content: "\e947";
-}
-.k-i-data-ods:before {
-  content: "\e948";
-}
-.k-i-report:before {
-  content: "\e949";
 }
 .k-i-graph:before {
   content: "\ea00";
