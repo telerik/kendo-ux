@@ -325,6 +325,7 @@
             'justify-end-vertical': '&#xe551;',
             'justify-between-vertical': '&#xe552;',
             'justify-around-vertical': '&#xe553;',
+            'color-canvas': '&#xe554;',
             'page-properties': '&#xe600;',
             'bold': '&#xe601;',
             'italic': '&#xe602;',

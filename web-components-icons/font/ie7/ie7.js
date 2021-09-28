@@ -313,6 +313,7 @@
 		'k-i-justify-end-vertical': '&#xe551;',
 		'k-i-justify-between-vertical': '&#xe552;',
 		'k-i-justify-around-vertical': '&#xe553;',
+		'k-i-color-canvas': '&#xe554;',
 		'k-i-page-properties': '&#xe600;',
 		'k-i-bold': '&#xe601;',
 		'k-i-italic': '&#xe602;',

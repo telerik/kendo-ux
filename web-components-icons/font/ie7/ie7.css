@@ -898,6 +898,9 @@
 .k-i-justify-around-vertical {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe553;');
 }
+.k-i-color-canvas {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe554;');
+}
 .k-i-page-properties {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe600;');
 }
