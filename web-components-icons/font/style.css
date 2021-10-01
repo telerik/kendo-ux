@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?5kpoh9');
-  src:  url('fonts/WebComponentsIcons.eot?5kpoh9#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?5kpoh9') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?5kpoh9') format('woff'),
-    url('fonts/WebComponentsIcons.svg?5kpoh9#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?tzam7m');
+  src:  url('fonts/WebComponentsIcons.eot?tzam7m#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?tzam7m') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?tzam7m') format('woff'),
+    url('fonts/WebComponentsIcons.svg?tzam7m#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -311,8 +311,11 @@
 .k-i-gap-row:before {
   content: "\e05b";
 }
-.k-i-handle-resize:before {
+.k-i-handle-resize-alt:before {
   content: "\e05c";
+}
+.k-i-handle-resize:before {
+  content: "\e05d";
 }
 .k-i-undo:before {
   content: "\e100";
