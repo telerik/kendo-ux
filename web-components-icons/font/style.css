@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?987fja');
-  src:  url('fonts/WebComponentsIcons.eot?987fja#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?987fja') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?987fja') format('woff'),
-    url('fonts/WebComponentsIcons.svg?987fja#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?33ltjy');
+  src:  url('fonts/WebComponentsIcons.eot?33ltjy#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?33ltjy') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?33ltjy') format('woff'),
+    url('fonts/WebComponentsIcons.svg?33ltjy#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1480,6 +1480,9 @@
 }
 .k-i-list-unordered-square:before {
   content: "\e6b3";
+}
+.k-i-list-unordered-outline:before {
+  content: "\e6b4";
 }
 .k-i-globe-outline:before {
   content: "\e700";

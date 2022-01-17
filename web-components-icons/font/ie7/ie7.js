@@ -495,6 +495,7 @@
 		'k-i-list-latin-big': '&#xe6b1;',
 		'k-i-list-latin-small': '&#xe6b2;',
 		'k-i-list-unordered-square': '&#xe6b3;',
+		'k-i-list-unordered-outline': '&#xe6b4;',
 		'k-i-globe-outline': '&#xe700;',
 		'k-i-globe': '&#xe701;',
 		'k-i-marker-pin': '&#xe702;',

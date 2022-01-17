@@ -508,6 +508,7 @@
             'list-latin-big': '&#xe6b1;',
             'list-latin-small': '&#xe6b2;',
             'list-unordered-square': '&#xe6b3;',
+            'list-unordered-outline': '&#xe6b4;',
             'globe-outline': '&#xe700;',
             'globe': '&#xe701;',
             'marker-pin': '&#xe702;',
