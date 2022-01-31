@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?33ltjy');
-  src:  url('fonts/WebComponentsIcons.eot?33ltjy#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?33ltjy') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?33ltjy') format('woff'),
-    url('fonts/WebComponentsIcons.svg?33ltjy#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?488r26');
+  src:  url('fonts/WebComponentsIcons.eot?488r26#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?488r26') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?488r26') format('woff'),
+    url('fonts/WebComponentsIcons.svg?488r26#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -317,8 +317,17 @@
 .k-i-handle-resize:before {
   content: "\e05d";
 }
-.k-i-shevron-top:before {
+.k-i-chevron-double-up:before {
   content: "\e94a";
+}
+.k-i-chevron-double-right:before {
+  content: "\e94b";
+}
+.k-i-chevron-double-down:before {
+  content: "\e94c";
+}
+.k-i-chevron-double-left:before {
+  content: "\e94d";
 }
 .k-i-undo:before {
   content: "\e100";
@@ -1856,7 +1865,7 @@
 .k-i-data-ods:before {
   content: "\e948";
 }
-.k-i-report:before {
+.k-i-file-report:before {
   content: "\e949";
 }
 .k-i-graph:before {

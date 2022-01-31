@@ -280,8 +280,17 @@
 .k-i-handle-resize {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe05d;');
 }
-.k-i-shevron-top {
+.k-i-chevron-double-up {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;');
+}
+.k-i-chevron-double-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94b;');
+}
+.k-i-chevron-double-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94c;');
+}
+.k-i-chevron-double-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
 }
 .k-i-undo {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe100;');
@@ -1819,7 +1828,7 @@
 .k-i-data-ods {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe948;');
 }
-.k-i-report {
+.k-i-file-report {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe949;');
 }
 .k-i-graph {
