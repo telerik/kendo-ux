@@ -281,16 +281,16 @@
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe05d;');
 }
 .k-i-chevron-double-up {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe05e;');
 }
 .k-i-chevron-double-right {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94b;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe05f;');
 }
 .k-i-chevron-double-down {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94c;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe060;');
 }
 .k-i-chevron-double-left {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe061;');
 }
 .k-i-undo {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe100;');
@@ -1830,6 +1830,9 @@
 }
 .k-i-file-report {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe949;');
+}
+.k-i-report-element {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;');
 }
 .k-i-graph {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;');

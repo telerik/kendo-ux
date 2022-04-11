@@ -2,7 +2,7 @@
   "metadata": {
     "name": "WebComponentsIcons",
     "lastOpened": 0,
-    "created": 1643628801420,
+    "created": 1649663123693,
     "url": "http://www.telerik.com",
     "designer": "Telerik, A Progress Company",
     "designerURL": "http://www.telerik.com",
@@ -863,7 +863,7 @@
           "id": 94,
           "name": "chevron-double-up",
           "prevSize": 16,
-          "code": 59722,
+          "code": 57438,
           "tempChar": "",
           "ligatures": "chevron-double-up"
         },
@@ -872,7 +872,7 @@
           "id": 95,
           "name": "chevron-double-right",
           "prevSize": 16,
-          "code": 59723,
+          "code": 57439,
           "tempChar": "",
           "ligatures": "chevron-double-right"
         },
@@ -881,7 +881,7 @@
           "id": 97,
           "name": "chevron-double-down",
           "prevSize": 16,
-          "code": 59724,
+          "code": 57440,
           "tempChar": "",
           "ligatures": "chevron-double-down"
         },
@@ -890,7 +890,7 @@
           "id": 96,
           "name": "chevron-double-left",
           "prevSize": 16,
-          "code": 59725,
+          "code": 57441,
           "tempChar": "",
           "ligatures": "chevron-double-left"
         }
@@ -11745,7 +11745,7 @@
         {
           "ligatures": "file-config",
           "id": 17,
-          "order": 4817,
+          "order": 5483,
           "name": "file-config",
           "code": 59665,
           "prevSize": 16,
@@ -12247,13 +12247,22 @@
           "ligatures": "data-ods"
         },
         {
-          "order": 5480,
+          "order": 5481,
           "id": 72,
           "name": "file-report",
           "prevSize": 16,
           "code": 59721,
           "tempChar": "",
           "ligatures": "file-report"
+        },
+        {
+          "order": 5484,
+          "id": 74,
+          "name": "report-element",
+          "prevSize": 16,
+          "code": 59722,
+          "tempChar": "",
+          "ligatures": "report-element"
         }
       ],
       "id": 9,
@@ -13116,6 +13125,21 @@
           "tags": [
             "report"
           ]
+        },
+        {
+          "id": 74,
+          "paths": [
+            "M960 640v-256h-640v96h-128v-160h512v-256h-640v256h64v640h64v-96h128v96h512v-256h-512v96h-128v-256h128v96zM128 128h512v128h-512zM384 768h384v128h-384v-128z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 16,
+          "tags": [
+            "report-element"
+          ]
         }
       ],
       "invisible": false,
@@ -13129,7 +13153,7 @@
           "name": "graph",
           "prevSize": 16,
           "code": 59904,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "graph"
         },
         {
@@ -13138,7 +13162,7 @@
           "name": "column-clustered",
           "prevSize": 16,
           "code": 59905,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-clustered"
         },
         {
@@ -13147,7 +13171,7 @@
           "name": "column-stacked",
           "prevSize": 16,
           "code": 59906,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-stacked"
         },
         {
@@ -13156,7 +13180,7 @@
           "name": "column-stacked100",
           "prevSize": 16,
           "code": 59907,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-stacked100"
         },
         {
@@ -13165,7 +13189,7 @@
           "name": "column-range",
           "prevSize": 16,
           "code": 59908,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "column-range"
         },
         {
@@ -13174,7 +13198,7 @@
           "name": "bar-clustered",
           "prevSize": 16,
           "code": 59909,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-clustered"
         },
         {
@@ -13183,7 +13207,7 @@
           "name": "bar-stacked",
           "prevSize": 16,
           "code": 59910,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-stacked"
         },
         {
@@ -13192,7 +13216,7 @@
           "name": "bar-stacked100",
           "prevSize": 16,
           "code": 59911,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-stacked100"
         },
         {
@@ -13201,7 +13225,7 @@
           "name": "bar-range",
           "prevSize": 16,
           "code": 59912,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar-range"
         },
         {
@@ -13210,7 +13234,7 @@
           "name": "area-clustered",
           "prevSize": 16,
           "code": 59913,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-clustered"
         },
         {
@@ -13219,7 +13243,7 @@
           "name": "area-stacked",
           "prevSize": 16,
           "code": 59914,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-stacked"
         },
         {
@@ -13228,7 +13252,7 @@
           "name": "area-stacked100",
           "prevSize": 16,
           "code": 59915,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-stacked100"
         },
         {
@@ -13237,7 +13261,7 @@
           "name": "area-range",
           "prevSize": 16,
           "code": 59916,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "area-range"
         },
         {
@@ -13246,7 +13270,7 @@
           "name": "line1",
           "prevSize": 16,
           "code": 59917,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line1"
         },
         {
@@ -13255,7 +13279,7 @@
           "name": "line-stacked",
           "prevSize": 16,
           "code": 59918,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked"
         },
         {
@@ -13264,7 +13288,7 @@
           "name": "line-stacked100",
           "prevSize": 16,
           "code": 59919,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked100"
         },
         {
@@ -13273,7 +13297,7 @@
           "name": "line-markers",
           "prevSize": 16,
           "code": 59920,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-markers"
         },
         {
@@ -13282,7 +13306,7 @@
           "name": "line-stacked-markers",
           "prevSize": 16,
           "code": 59921,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked-markers"
         },
         {
@@ -13291,7 +13315,7 @@
           "name": "line-stacked100-markers",
           "prevSize": 16,
           "code": 59922,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "line-stacked100-markers"
         },
         {
@@ -13300,7 +13324,7 @@
           "name": "pie",
           "prevSize": 16,
           "code": 59923,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "pie"
         },
         {
@@ -13309,7 +13333,7 @@
           "name": "doughnut",
           "prevSize": 16,
           "code": 59924,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "doughnut"
         },
         {
@@ -13318,7 +13342,7 @@
           "name": "scatter",
           "prevSize": 16,
           "code": 59925,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter"
         },
         {
@@ -13327,7 +13351,7 @@
           "name": "scatter-smooth-lines-markers",
           "prevSize": 16,
           "code": 59926,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-smooth-lines-markers"
         },
         {
@@ -13336,7 +13360,7 @@
           "name": "scatter-smooth-lines",
           "prevSize": 16,
           "code": 59927,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-smooth-lines"
         },
         {
@@ -13345,7 +13369,7 @@
           "name": "scatter-straight-lines-markers",
           "prevSize": 16,
           "code": 59928,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-straight-lines-markers"
         },
         {
@@ -13354,7 +13378,7 @@
           "name": "scatter-straight-lines",
           "prevSize": 16,
           "code": 59929,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "scatter-straight-lines"
         },
         {
@@ -13363,7 +13387,7 @@
           "name": "bubble",
           "prevSize": 16,
           "code": 59930,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bubble"
         },
         {
@@ -13372,7 +13396,7 @@
           "name": "candle-stick",
           "prevSize": 16,
           "code": 59931,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "candle-stick"
         },
         {
@@ -13381,7 +13405,7 @@
           "name": "bar",
           "prevSize": 16,
           "code": 59932,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "bar"
         },
         {
@@ -13390,7 +13414,7 @@
           "name": "radar",
           "prevSize": 16,
           "code": 59933,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar"
         },
         {
@@ -13399,7 +13423,7 @@
           "name": "radar-markers",
           "prevSize": 16,
           "code": 59934,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar-markers"
         },
         {
@@ -13408,7 +13432,7 @@
           "name": "radar-filled",
           "prevSize": 16,
           "code": 59935,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "radar-filled"
         },
         {
@@ -13417,7 +13441,7 @@
           "name": "rose",
           "prevSize": 16,
           "code": 59936,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "rose"
         },
         {
@@ -13426,7 +13450,7 @@
           "name": "choropleth",
           "prevSize": 16,
           "code": 59937,
-          "tempChar": "",
+          "tempChar": "",
           "ligatures": "choropleth"
         }
       ],
@@ -13967,7 +13991,7 @@
       "metadata": {
         "fontFamily": "WebComponentsIcons",
         "majorVersion": 1,
-        "minorVersion": 8,
+        "minorVersion": 9,
         "fontURL": "http://www.telerik.com",
         "description": "Web Components Icon Font",
         "copyright": "Telerik, A Progress Company",
