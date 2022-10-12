@@ -204,6 +204,7 @@
 		'k-i-stick': '&#xe15a;',
 		'k-i-unstick': '&#xe15b;',
 		'k-i-set-column-position': '&#xe15c;',
+		'k-i-clock-arrow-rotate': '&#xe94b;',
 		'k-i-play': '&#xe200;',
 		'k-i-pause': '&#xe201;',
 		'k-i-stop': '&#xe202;',

@@ -216,6 +216,7 @@
             'stick': '&#xe15a;',
             'unstick': '&#xe15b;',
             'set-column-position': '&#xe15c;',
+            'time-duration': '&#xe94b;',
             'play': '&#xe200;',
             'pause': '&#xe201;',
             'stop': '&#xe202;',
