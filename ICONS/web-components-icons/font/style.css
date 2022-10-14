@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WebComponentsIcons';
-  src:  url('fonts/WebComponentsIcons.eot?qytux2');
-  src:  url('fonts/WebComponentsIcons.eot?qytux2#iefix') format('embedded-opentype'),
-    url('fonts/WebComponentsIcons.ttf?qytux2') format('truetype'),
-    url('fonts/WebComponentsIcons.woff?qytux2') format('woff'),
-    url('fonts/WebComponentsIcons.svg?qytux2#WebComponentsIcons') format('svg');
+  src:  url('fonts/WebComponentsIcons.eot?4tcjqy');
+  src:  url('fonts/WebComponentsIcons.eot?4tcjqy#iefix') format('embedded-opentype'),
+    url('fonts/WebComponentsIcons.ttf?4tcjqy') format('truetype'),
+    url('fonts/WebComponentsIcons.woff?4tcjqy') format('woff'),
+    url('fonts/WebComponentsIcons.svg?4tcjqy#WebComponentsIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -609,7 +609,7 @@
   content: "\e15c";
 }
 .k-i-clock-arrow-rotate:before {
-  content: "\e94b";
+  content: "\e15d";
 }
 .k-i-play:before {
   content: "\e200";
