@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="widgets" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="skeleton" d="M8,3H24l-2,2H8V3ZM0,14H6l-2,2H0v-2ZM0,3H6l-2,2H0V3ZM8,14H24l-2,2H8v-2ZM24,7H0v4H24V7Zm0,11H0v4H24v-4Z"/>
+</svg>

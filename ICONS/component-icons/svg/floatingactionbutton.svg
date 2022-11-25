@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="widgets" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path id="floatingactionbutton" d="M0,4H18s-2,2-2,2H0s0-2,0-2Zm0,6H16s2-2,2-2H0v2Zm0,4H16s2-2,2-2H0v2Zm22,2c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2Zm0-4c-.6,0-1,.4-1,1s.4,1,1,1,1-.4,1-1-.4-1-1-1Zm0-4c-.6,0-1,.4-1,1s.4,1,1,1,1-.4,1-1-.4-1-1-1Zm0-4c-.6,0-1,.4-1,1s.4,1,1,1,1-.4,1-1-.4-1-1-1Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg id="widgets" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path id="floatingactionbutton" d="M2,5H18s-2,2-2,2H2s0-2,0-2Zm0,6H16s2-2,2-2H2v2Zm0,4H16s2-2,2-2H2v2Zm18,2c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2Zm1-4c-.55,0-1,.45-1,1s.45,1,1,1,1-.45,1-1-.45-1-1-1Zm0-4c-.55,0-1,.45-1,1s.45,1,1,1,1-.45,1-1-.45-1-1-1Zm0-4c-.55,0-1,.45-1,1s.45,1,1,1,1-.45,1-1-.45-1-1-1Z"/></svg>

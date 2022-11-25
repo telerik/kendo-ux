@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<path d="M0,0v24h20l4-4V0H0z M22,19.2L19.2,22H2V2h20V19.2z M10,18v2l2-2h4v2l4-4h-2v-2l2-2h-2v-2l2-2h-2V6l2-2H4v16l2-2H10z M12,6
-	h4v2h-4V6z M12,10h4v2h-4V10z M12,14h4v2h-4V14z M6,6h4v2H6V6z M6,10h4v2H6V10z M6,14h4v2H6V14z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg id="widgets" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path id="spreadsheet" d="M0,0V24H20l4-4V0H0ZM22,19.17l-2.83,2.83H2V2H22V19.17Zm-12-1.17v2l2-2h4v2l4-4h-2v-2l2-2h-2v-2l2-2h-2v-2l2-2H4V20l2-2h4Zm6-2h-4v-2h4v2Zm0-4h-4v-2h4v2Zm0-6v2h-4v-2h4Zm-10,0h4v2H6v-2Zm0,4h4v2H6v-2Zm0,4h4v2H6v-2Z"/></svg>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="widgets" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="stacklayout" d="M18,0V24h2l4-4V0h-6Zm4,19l-2,2V2h2V19ZM9,0V24h2l4-4V0h-6Zm4,19l-2,2V2h2V19ZM0,0V24H2l4-4V0H0ZM4,19l-2,2V2h2V19Z"/>
+</svg>

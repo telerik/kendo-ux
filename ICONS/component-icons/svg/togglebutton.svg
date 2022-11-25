@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<path d="M0,5v2v10v1v1h22h1h1V7V5H0z M22,17H2V7h20V17z M11,15H5V9h6V15z M19,9h-6v6h6V9z M17,13h-2v-2h2V13z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg id="widgets" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g id="togglebutton"><path d="M.33,18.67V5.33H23.67v13.33H.33Zm1.33-1.33H22.33V6.67H1.67v10.67Zm11.67-2.67v-5.33h5.33v5.33h-5.33Zm1.33-1.33h2.67v-2.67h-2.67v2.67Zm-9.33,1.33v-5.33h5.33v5.33H5.33Z"/><path d="M23.33,5.67v12.67H.67V5.67H23.33M1.33,17.67H22.67V6.33H1.33v11.33M18.33,9.67v4.67h-4.67v-4.67h4.67m-4,4h3.33v-3.33h-3.33v3.33m-4-4v4.67H5.67v-4.67h4.67m13.67-4.67H0v14H24V5h0ZM2,17V7H22v10H2ZM19,9h-6v6h6v-6h0Zm-4,4v-2h2v2h-2Zm-4-4H5v6h6v-6h0Z"/></g></svg>

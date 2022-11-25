@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'widgets';
-  src:  url('fonts/widgets.eot?w2htxw');
-  src:  url('fonts/widgets.eot?w2htxw#iefix') format('embedded-opentype'),
-    url('fonts/widgets.ttf?w2htxw') format('truetype'),
-    url('fonts/widgets.woff?w2htxw') format('woff'),
-    url('fonts/widgets.svg?w2htxw#widgets') format('svg');
+  src:  url('fonts/widgets.eot?mrxo1g');
+  src:  url('fonts/widgets.eot?mrxo1g#iefix') format('embedded-opentype'),
+    url('fonts/widgets.ttf?mrxo1g') format('truetype'),
+    url('fonts/widgets.woff?mrxo1g') format('woff'),
+    url('fonts/widgets.svg?mrxo1g#widgets') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,96 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-calendar-50:before {
+  content: "\e94b";
+}
+.icon-calendar-76:before {
+  content: "\e94c";
+}
+.icon-capcha:before {
+  content: "\e94d";
+}
+.icon-card:before {
+  content: "\e94e";
+}
+.icon-class:before {
+  content: "\e94f";
+}
+.icon-collapsable:before {
+  content: "\e950";
+}
+.icon-colorpallete:before {
+  content: "\e951";
+}
+.icon-component:before {
+  content: "\e952";
+}
+.icon-directive:before {
+  content: "\e953";
+}
+.icon-dragdrop:before {
+  content: "\e954";
+}
+.icon-dropdowntree-13:before {
+  content: "\e955";
+}
+.icon-dropdowntree-89:before {
+  content: "\e956";
+}
+.icon-enum:before {
+  content: "\e957";
+}
+.icon-fileselct:before {
+  content: "\e958";
+}
+.icon-fonticon:before {
+  content: "\e959";
+}
+.icon-framework:before {
+  content: "\e95a";
+}
+.icon-ganttchart:before {
+  content: "\e95b";
+}
+.icon-layoout:before {
+  content: "\e95c";
+}
+.icon-listview-56:before {
+  content: "\e95d";
+}
+.icon-listview-126:before {
+  content: "\e95e";
+}
+.icon-muliviewcalendar:before {
+  content: "\e95f";
+}
+.icon-signature:before {
+  content: "\e960";
+}
+.icon-spredrocessing:before {
+  content: "\e961";
+}
+.icon-spredstreamprocessing:before {
+  content: "\e962";
+}
+.icon-svg:before {
+  content: "\e963";
+}
+.icon-tilellayout:before {
+  content: "\e964";
+}
+.icon-timedurationpicker:before {
+  content: "\e965";
+}
+.icon-toobar:before {
+  content: "\e966";
+}
+.icon-toucheffects:before {
+  content: "\e967";
+}
+.icon-typealias:before {
+  content: "\e968";
+}
 .icon-actionsheet:before {
   content: "\e800";
 }
